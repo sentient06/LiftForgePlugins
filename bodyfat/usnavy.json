@@ -1,66 +1,79 @@
 {
-   "id":"bodyfat_usnavy",
-   "title":"US Navy (Hodgdon & Beckett)",
-   "short":"US Navy",
-   "formulas":[
+   "id": "bodyfat_usnavy",
+   "title": {
+      "en": "US Navy (Hodgdon & Beckett)"
+   },
+   "short": {
+      "en": "US Navy"
+   },
+   "formulas": [
       {
          "id": "m",
-         "equation":"495 1.0324 0.19077 a b - log_10 * - 0.15456 c log_10 * + / 450 -",
-         "fields":[
+         "equation": "495 1.0324 0.19077 a b - log_10 * - 0.15456 c log_10 * + / 450 -",
+         "fields": [
             {
-               "alias":"b",
-               "name":"neck",
-               "label":"Neck",
-               "description":"Thinnest part of the neck"
+               "alias": "b",
+               "name": "neck",
+               "label": { "en": "Neck" },
+               "description": { "en": "Thinnest part of the neck" },
+               "internalUnit": "cm"
             },
             {
-               "alias":"a",
-               "name":"waist",
-               "label":"Waist",
-               "description":"Waist by the navel"
+               "alias": "a",
+               "name": "waist",
+               "label": { "en": "Waist" },
+               "description": { "en": "Waist by the navel" },
+               "internalUnit": "cm"
             }
          ],
-         "constantData":[
+         "constantData": [
             {
-               "alias":"c",
-               "identifier":"height"
+               "alias": "c",
+               "identifier": "height",
+               "label": { "en": "Height" },
+               "description": { "en": "Your height from your profile" }
             }
          ],
-         "conditions":{
-            "gender":"m"
+         "conditions": {
+            "gender": "m"
          }
       },
       {
          "id": "f",
-         "equation":"495 1.29579 0.35004 a c + b - log_10 * - 0.22100 d log_10 * + / 450 -",
-         "fields":[
+         "equation": "495 1.29579 0.35004 a c + b - log_10 * - 0.22100 d log_10 * + / 450 -",
+         "fields": [
             {
-               "alias":"b",
-               "name":"neck",
-               "label":"Neck",
-               "description":"Thinnest part of the neck"
+               "alias": "b",
+               "name": "neck",
+               "label": { "en": "Neck" },
+               "description": { "en": "Thinnest part of the neck" },
+               "internalUnit": "cm"
             },
             {
-               "alias":"a",
-               "name":"waist",
-               "label":"Waist",
-               "description":"Waist by the navel"
+               "alias": "a",
+               "name": "waist",
+               "label": { "en": "Waist" },
+               "description": { "en": "Waist by the navel" },
+               "internalUnit": "cm"
             },
             {
-               "alias":"c",
-               "name":"hip",
-               "label":"Hip",
-               "description":"Hip at the largest horizontal measure"
+               "alias": "c",
+               "name": "hip",
+               "label": { "en": "Hip" },
+               "description": { "en": "Hip at the largest horizontal measure" },
+               "internalUnit": "cm"
             }
          ],
-         "constantData":[
+         "constantData": [
             {
-               "alias":"d",
-               "identifier":"height"
+               "alias": "d",
+               "identifier": "height",
+               "label": { "en": "Height" },
+               "description": { "en": "Your height from your profile" }
             }
          ],
-         "conditions":{
-            "gender":"f"
+         "conditions": {
+            "gender": "f"
          }
       }
    ]

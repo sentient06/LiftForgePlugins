@@ -1,7 +1,11 @@
 {
     "id": "bodyfat_3fold",
-    "title": "3-Site Skinfold (Jackson & Pollock)",
-    "short": "3-Site Skinfold",
+    "title": {
+        "en": "3-Site Skinfold (Jackson & Pollock)"
+    },
+    "short": {
+        "en": "3-Site Skinfold"
+    },
     "formulas": [
         {
             "id": "m",
@@ -10,26 +14,31 @@
                 {
                     "alias": "a",
                     "name": "chest",
-                    "label": "Chest",
-                    "description": "Diagonal fold half the distance between anterior axillary line and the nipple."
+                    "label": { "en": "Chest" },
+                    "description": { "en": "Diagonal fold half the distance between anterior axillary line and the nipple." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "b",
                     "name": "abdomen",
-                    "label": "Abdomen",
-                    "description": "Vertical fold 2cm to the right of the navel."
+                    "label": { "en": "Abdomen" },
+                    "description": { "en": "Vertical fold 2cm to the right of the navel." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "c",
                     "name": "thigh",
-                    "label": "Thigh",
-                    "description": "Midpoint of the anterior side of the upper leg between the patella and top of thigh."
+                    "label": { "en": "Thigh" },
+                    "description": { "en": "Midpoint of the anterior side of the upper leg between the patella and top of thigh." },
+                    "internalUnit": "mm"
                 }
             ],
             "constantData": [
                 {
                     "alias": "d",
-                    "identifier": "age"
+                    "identifier": "age",
+                    "label": { "en": "Age" },
+                    "description": { "en": "Your age calculated from your birthday" }
                 }
             ],
             "conditions": {
@@ -43,26 +52,31 @@
                 {
                     "alias": "a",
                     "name": "tricep",
-                    "label": "Tricep",
-                    "description": "Vertical fold at the midpoint of the posterior side of tricep between shoulder and elbow with arm relaxed at the side."
+                    "label": { "en": "Tricep" },
+                    "description": { "en": "Vertical fold at the midpoint of the posterior side of tricep between shoulder and elbow with arm relaxed at the side." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "b",
                     "name": "suprailiac",
-                    "label": "Suprailiac",
-                    "description": "Diagonal fold parallel and superior to the iliac crest."
+                    "label": { "en": "Suprailiac" },
+                    "description": { "en": "Diagonal fold parallel and superior to the iliac crest." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "c",
                     "name": "thigh",
-                    "label": "Thigh",
-                    "description": "Midpoint of the anterior side of the upper leg between the patella and top of thigh."
+                    "label": { "en": "Thigh" },
+                    "description": { "en": "Midpoint of the anterior side of the upper leg between the patella and top of thigh." },
+                    "internalUnit": "mm"
                 }
             ],
             "constantData": [
                 {
                     "alias": "d",
-                    "identifier": "age"
+                    "identifier": "age",
+                    "label": { "en": "Age" },
+                    "description": { "en": "Your age calculated from your birthday" }
                 }
             ],
             "conditions": {

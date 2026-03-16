@@ -1,7 +1,11 @@
 {
     "id": "bodyfat_7fold",
-    "title": "7-Site Skinfold (Jackson & Pollock)",
-    "short": "7-Site Skinfold",
+    "title": {
+        "en": "7-Site Skinfold (Jackson & Pollock)"
+    },
+    "short": {
+        "en": "7-Site Skinfold"
+    },
     "formulas": [
         {
             "id": "m",
@@ -10,50 +14,59 @@
                 {
                     "alias": "a",
                     "name": "chest",
-                    "label": "Chest",
-                    "description": "Diagonal fold, one half the distance for men and one third of distance for females, between anterior axillary line and nipple."
+                    "label": { "en": "Chest" },
+                    "description": { "en": "Diagonal fold, one half the distance for men and one third of distance for females, between anterior axillary line and nipple." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "b",
                     "name": "abdomen",
-                    "label": "Abdomen",
-                    "description": "Vertical fold, 2 cm to the right side of umbilicus."
+                    "label": { "en": "Abdomen" },
+                    "description": { "en": "Vertical fold, 2 cm to the right side of umbilicus." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "c",
                     "name": "thigh",
-                    "label": "Thigh",
-                    "description": "Vertical fold on the anterior midline of the thigh, half way between the proximal border of the patella and the hip."
+                    "label": { "en": "Thigh" },
+                    "description": { "en": "Vertical fold on the anterior midline of the thigh, half way between the proximal border of the patella and the hip." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "d",
                     "name": "triceps",
-                    "label": "Triceps",
-                    "description": "Vertical fold on the posterior midline of the upper arm, halfway between the bony processes (shoulder and elbow). The arm should be held freely to the side of the body."
+                    "label": { "en": "Triceps" },
+                    "description": { "en": "Vertical fold on the posterior midline of the upper arm, halfway between the bony processes (shoulder and elbow). The arm should be held freely to the side of the body." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "e",
                     "name": "axilla",
-                    "label": "Axilla",
-                    "description": "Vertical fold on the midaxillary line at the level of the xiphoid process of the sternum."
+                    "label": { "en": "Axilla" },
+                    "description": { "en": "Vertical fold on the midaxillary line at the level of the xiphoid process of the sternum." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "f",
                     "name": "subscapula",
-                    "label": "Subscapula",
-                    "description": "Diagonal 45 degrees fold, 1-2 cm below the angle of the scapula."
+                    "label": { "en": "Subscapula" },
+                    "description": { "en": "Diagonal 45 degrees fold, 1-2 cm below the angle of the scapula." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "g",
                     "name": "suprailiac",
-                    "label": "Suprailiac",
-                    "description": "Diagonal fold, immediately superior and in line with the angle of the iliac crest, on the anterior axillary line."
+                    "label": { "en": "Suprailiac" },
+                    "description": { "en": "Diagonal fold, immediately superior and in line with the angle of the iliac crest, on the anterior axillary line." },
+                    "internalUnit": "mm"
                 }
             ],
             "constantData": [
                 {
                     "alias": "h",
-                    "identifier": "age"
+                    "identifier": "age",
+                    "label": { "en": "Age" },
+                    "description": { "en": "Your age calculated from your birthday" }
                 }
             ],
             "conditions": {
@@ -67,50 +80,59 @@
                 {
                     "alias": "a",
                     "name": "chest",
-                    "label": "Chest",
-                    "description": "Diagonal fold, one half the distance for men and one third of distance for females, between anterior axillary line and nipple."
+                    "label": { "en": "Chest" },
+                    "description": { "en": "Diagonal fold, one half the distance for men and one third of distance for females, between anterior axillary line and nipple." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "b",
                     "name": "abdomen",
-                    "label": "Abdomen",
-                    "description": "Vertical fold, 2 cm to the right side of umbilicus."
+                    "label": { "en": "Abdomen" },
+                    "description": { "en": "Vertical fold, 2 cm to the right side of umbilicus." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "c",
                     "name": "thigh",
-                    "label": "Thigh",
-                    "description": "Vertical fold on the anterior midline of the thigh, half way between the proximal border of the patella and the hip."
+                    "label": { "en": "Thigh" },
+                    "description": { "en": "Vertical fold on the anterior midline of the thigh, half way between the proximal border of the patella and the hip." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "d",
                     "name": "triceps",
-                    "label": "Triceps",
-                    "description": "Vertical fold on the posterior midline of the upper arm, halfway between the bony processes (shoulder and elbow). The arm should be held freely to the side of the body."
+                    "label": { "en": "Triceps" },
+                    "description": { "en": "Vertical fold on the posterior midline of the upper arm, halfway between the bony processes (shoulder and elbow). The arm should be held freely to the side of the body." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "e",
                     "name": "axilla",
-                    "label": "Axilla",
-                    "description": "Vertical fold on the midaxillary line at the level of the xiphoid process of the sternum."
+                    "label": { "en": "Axilla" },
+                    "description": { "en": "Vertical fold on the midaxillary line at the level of the xiphoid process of the sternum." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "f",
                     "name": "subscapula",
-                    "label": "Subscapula",
-                    "description": "Diagonal 45 degrees fold, 1-2 cm below the angle of the scapula."
+                    "label": { "en": "Subscapula" },
+                    "description": { "en": "Diagonal 45 degrees fold, 1-2 cm below the angle of the scapula." },
+                    "internalUnit": "mm"
                 },
                 {
                     "alias": "g",
                     "name": "suprailiac",
-                    "label": "Suprailiac",
-                    "description": "Diagonal fold, immediately superior and in line with the angle of the iliac crest, on the anterior axillary line."
+                    "label": { "en": "Suprailiac" },
+                    "description": { "en": "Diagonal fold, immediately superior and in line with the angle of the iliac crest, on the anterior axillary line." },
+                    "internalUnit": "mm"
                 }
             ],
             "constantData": [
                 {
                     "alias": "h",
-                    "identifier": "age"
+                    "identifier": "age",
+                    "label": { "en": "Age" },
+                    "description": { "en": "Your age calculated from your birthday" }
                 }
             ],
             "conditions": {
