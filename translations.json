@@ -23,7 +23,9 @@
     "en": {
       "name": "barbell curl",
       "short": "curl"
-    }
+    },
+    "pt": { "name": "rosca direta", "short": "rosca" },
+    "es": { "name": "curl con barra", "short": "curl" }
   },
   "barbell_deadlift": {
     "en": {
