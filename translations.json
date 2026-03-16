@@ -1,0 +1,484 @@
+{
+  "ab_roller": {
+    "en": {
+      "name": "ab roller"
+    }
+  },
+  "air_bicycle": {
+    "en": {
+      "name": "air bicycle"
+    }
+  },
+  "alternating_dumbbell_curl": {
+    "en": {
+      "name": "alternating dumbbell curl"
+    }
+  },
+  "arnold_dumbbell_press": {
+    "en": {
+      "name": "Arnold dumbbell press"
+    }
+  },
+  "barbell_curl": {
+    "en": {
+      "name": "barbell curl",
+      "short": "curl"
+    }
+  },
+  "barbell_deadlift": {
+    "en": {
+      "name": "barbell deadlift",
+      "short": "deadlift"
+    }
+  },
+  "barbell_front_squat": {
+    "en": {
+      "name": "barbell front squat",
+      "short": "front squat"
+    }
+  },
+  "barbell_hip_thrust": {
+    "en": {
+      "name": "barbell hip thrust",
+      "short": "hip thrust"
+    }
+  },
+  "barbell_lunge": {
+    "en": {
+      "name": "barbell lunge",
+      "short": "lunge"
+    }
+  },
+  "barbell_rear_delt_row": {
+    "en": {
+      "name": "barbell rear delt row",
+      "short": "rear delt row"
+    }
+  },
+  "barbell_row": {
+    "en": {
+      "name": "barbell row",
+      "short": "row"
+    }
+  },
+  "barbell_shrug": {
+    "en": {
+      "name": "barbell shrug",
+      "short": "shrug"
+    }
+  },
+  "barbell_squat": {
+    "en": {
+      "name": "barbell squat",
+      "short": "squat"
+    }
+  },
+  "barbell_t_bar_row": {
+    "en": {
+      "name": "barbell t-bar row",
+      "short": "t-bar row"
+    }
+  },
+  "bench_dip": {
+    "en": {
+      "name": "bench dip"
+    }
+  },
+  "bent_over_dumbbell_rear_delt_raise": {
+    "en": {
+      "name": "bent-over dumbbell rear delt raise",
+      "short": "rear delt raise"
+    }
+  },
+  "bulgarian_split_squat": {
+    "en": {
+      "name": "Bulgarian split squat"
+    }
+  },
+  "cable_chest_fly": {
+    "en": {
+      "name": "cable chest fly",
+      "short": "cable fly"
+    }
+  },
+  "cable_crunch": {
+    "en": {
+      "name": "cable crunch"
+    }
+  },
+  "cable_curl": {
+    "en": {
+      "name": "cable curl"
+    }
+  },
+  "cable_lateral_raise": {
+    "en": {
+      "name": "cable lateral raise"
+    }
+  },
+  "cable_overhead_triceps_extension": {
+    "en": {
+      "name": "cable overhead triceps extension"
+    }
+  },
+  "cable_woodchopper": {
+    "en": {
+      "name": "cable woodchopper"
+    }
+  },
+  "calf_press": {
+    "en": {
+      "name": "calf press"
+    }
+  },
+  "captains_chair_leg_raise": {
+    "en": {
+      "name": "captain's chair leg raise",
+      "short": "captain's chair"
+    }
+  },
+  "chin_up": {
+    "en": {
+      "name": "chin-up"
+    }
+  },
+  "close_grip_bench_press": {
+    "en": {
+      "name": "close-grip bench press"
+    }
+  },
+  "close_grip_front_lat_pulldown": {
+    "en": {
+      "name": "close-grip front-lat pulldown",
+      "short": "close-grip pulldown"
+    }
+  },
+  "close_grip_seated_cable_row": {
+    "en": {
+      "name": "close-grip seated cable row",
+      "short": "close-grip cable row"
+    }
+  },
+  "concentration_curl": {
+    "en": {
+      "name": "concentration curl"
+    }
+  },
+  "decline_barbell_bench_press": {
+    "en": {
+      "name": "decline barbell bench press",
+      "short": "decline bench press"
+    }
+  },
+  "decline_crunch": {
+    "en": {
+      "name": "decline crunch"
+    }
+  },
+  "dip_chest": {
+    "en": {
+      "name": "dip (chest)",
+      "short": "dip"
+    }
+  },
+  "dip_triceps": {
+    "en": {
+      "name": "dip (triceps)",
+      "short": "dip"
+    }
+  },
+  "donkey_calf_raise": {
+    "en": {
+      "name": "donkey calf raise",
+      "short": "calf raise"
+    }
+  },
+  "dumbbell_chest_fly": {
+    "en": {
+      "name": "dumbbell chest fly",
+      "short": "chest fly"
+    }
+  },
+  "dumbbell_front_raise": {
+    "en": {
+      "name": "dumbbell front raise",
+      "short": "front raise"
+    }
+  },
+  "dumbbell_lunge": {
+    "en": {
+      "name": "dumbbell lunge",
+      "short": "lunge"
+    }
+  },
+  "dumbbell_side_lateral_raise": {
+    "en": {
+      "name": "dumbbell side lateral raise",
+      "short": "side lateral raise"
+    }
+  },
+  "ez_bar_curl": {
+    "en": {
+      "name": "E-Z bar curl"
+    }
+  },
+  "face_pull": {
+    "en": {
+      "name": "face pull"
+    }
+  },
+  "flat_barbell_bench_press": {
+    "en": {
+      "name": "flat barbell bench press",
+      "short": "bench press"
+    }
+  },
+  "flat_bench_lying_leg_raise": {
+    "en": {
+      "name": "flat bench lying leg raise"
+    }
+  },
+  "flat_dumbbell_press": {
+    "en": {
+      "name": "flat dumbbell press"
+    }
+  },
+  "glute_bridge": {
+    "en": {
+      "name": "glute bridge"
+    }
+  },
+  "hack_squat": {
+    "en": {
+      "name": "hack squat"
+    }
+  },
+  "hammer_curl": {
+    "en": {
+      "name": "hammer curl"
+    }
+  },
+  "hanging_knee_raise": {
+    "en": {
+      "name": "hanging knee raise"
+    }
+  },
+  "hanging_leg_raise": {
+    "en": {
+      "name": "hanging leg raise"
+    }
+  },
+  "incline_barbell_bench_press": {
+    "en": {
+      "name": "incline barbell bench press",
+      "short": "incline bench press"
+    }
+  },
+  "incline_dumbbell_press": {
+    "en": {
+      "name": "incline dumbbell press"
+    }
+  },
+  "inverted_row": {
+    "en": {
+      "name": "inverted row"
+    }
+  },
+  "leg_curl": {
+    "en": {
+      "name": "leg curl"
+    }
+  },
+  "leg_extension": {
+    "en": {
+      "name": "leg extension"
+    }
+  },
+  "leg_press": {
+    "en": {
+      "name": "leg press"
+    }
+  },
+  "lying_triceps_press": {
+    "en": {
+      "name": "lying triceps press"
+    }
+  },
+  "machine_shoulder_press": {
+    "en": {
+      "name": "machine shoulder press"
+    }
+  },
+  "machine_t_bar_row": {
+    "en": {
+      "name": "machine t-bar row",
+      "short": "t-bar row"
+    }
+  },
+  "mountain_climber": {
+    "en": {
+      "name": "mountain climber"
+    }
+  },
+  "one_arm_dumbbell_row": {
+    "en": {
+      "name": "one-arm dumbbell row"
+    }
+  },
+  "one_arm_side_lateral_raise": {
+    "en": {
+      "name": "one-arm side lateral raise",
+      "short": "1-arm lateral raise"
+    }
+  },
+  "overhead_triceps_extension": {
+    "en": {
+      "name": "overhead triceps extension"
+    }
+  },
+  "pec_deck": {
+    "en": {
+      "name": "pec deck"
+    }
+  },
+  "plank": {
+    "en": {
+      "name": "plank"
+    }
+  },
+  "preacher_curl": {
+    "en": {
+      "name": "preacher curl"
+    }
+  },
+  "pull_up": {
+    "en": {
+      "name": "pull-up"
+    }
+  },
+  "push_up": {
+    "en": {
+      "name": "push-up"
+    }
+  },
+  "reverse_pec_deck": {
+    "en": {
+      "name": "reverse pec deck"
+    }
+  },
+  "romanian_deadlift": {
+    "en": {
+      "name": "Romanian deadlift",
+      "short": "RDL"
+    }
+  },
+  "russian_twist": {
+    "en": {
+      "name": "Russian twist"
+    }
+  },
+  "seated_cable_row": {
+    "en": {
+      "name": "seated cable row",
+      "short": "cable row"
+    }
+  },
+  "seated_calf_raise": {
+    "en": {
+      "name": "seated calf raise",
+      "short": "calf raise"
+    }
+  },
+  "seated_dumbbell_press": {
+    "en": {
+      "name": "seated dumbbell press",
+      "short": "dumbbell press"
+    }
+  },
+  "seated_dumbbell_rear_delt_raise": {
+    "en": {
+      "name": "seated dumbbell rear delt raise",
+      "short": "rear delt raise"
+    }
+  },
+  "seated_military_press": {
+    "en": {
+      "name": "seated military press",
+      "short": "military press"
+    }
+  },
+  "seated_triceps_press": {
+    "en": {
+      "name": "seated triceps press",
+      "short": "triceps press"
+    }
+  },
+  "side_plank": {
+    "en": {
+      "name": "side plank"
+    }
+  },
+  "skullcrusher": {
+    "en": {
+      "name": "skullcrusher"
+    }
+  },
+  "spider_curl": {
+    "en": {
+      "name": "spider curl"
+    }
+  },
+  "standing_calf_raise": {
+    "en": {
+      "name": "standing calf raise",
+      "short": "calf raise"
+    }
+  },
+  "standing_military_press": {
+    "en": {
+      "name": "standing military press",
+      "short": "OHP"
+    }
+  },
+  "step_up": {
+    "en": {
+      "name": "step-up"
+    }
+  },
+  "stiff_leg_deadlift": {
+    "en": {
+      "name": "stiff-leg deadlift"
+    }
+  },
+  "straight_arm_pulldown": {
+    "en": {
+      "name": "straight-arm pulldown"
+    }
+  },
+  "sumo_deadlift": {
+    "en": {
+      "name": "sumo deadlift"
+    }
+  },
+  "triceps_pushdown": {
+    "en": {
+      "name": "triceps pushdown"
+    }
+  },
+  "upright_row": {
+    "en": {
+      "name": "upright row"
+    }
+  },
+  "walking_lunge": {
+    "en": {
+      "name": "walking lunge"
+    }
+  },
+  "wide_grip_front_lat_pulldown": {
+    "en": {
+      "name": "wide-grip front-lat pulldown",
+      "short": "wide-grip pulldown"
+    }
+  }
+}
