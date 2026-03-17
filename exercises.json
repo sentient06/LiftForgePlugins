@@ -212,7 +212,7 @@
         "id": "710B7194-11D8-44FD-87C1-E83A08B08C37",
         "name": "barbell t-bar row",
         "short": "t-bar row",
-        "equipmentA": "barbell",
+        "equipmentA": "landmine",
         "muscleGroup": "back",
         "translationKey": "barbell_t_bar_row",
         "family": "row",
