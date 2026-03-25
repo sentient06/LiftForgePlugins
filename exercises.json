@@ -416,8 +416,7 @@
         ],
         "secondaryMuscleGroup": "arms",
         "tertiaryMuscleGroup": "shoulders",
-        "primaryEquipment": "body",
-        "secondaryEquipment": "dumbbell"
+        "primaryEquipment": "body"
     },
     {
         "id": "380BE85F-E8D4-4C89-98DA-F281EA3325DA",
