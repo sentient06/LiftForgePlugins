@@ -22,7 +22,7 @@
         "secondaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "From rack with barbell upper chest height, position bar in front of shoulders. Cross arms and place hands on top of barbell with upper arms parallel to floor. Dismount bar from rack.squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel. extend knees and hips until legs are straight. return and repeat."
+        "comment": "From rack with barbell upper chest height, position bar in front of shoulders. Cross arms and place hands on top of barbell with upper arms parallel to floor. Dismount bar from rack. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel. extend knees and hips until legs are straight. return and repeat."
     },
     {
         "id": "46370C22-A3B6-4797-B884-EB783EAA79D1",
@@ -353,7 +353,7 @@
         "secondaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "From rack with barbell at upper chest height, position bar low on back of shoulders. Grasp barbell to sides. Dismount bar from rack and stand with wide stance.squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel to floor. extend hips and knees until legs are straight. return and repeat."
+        "comment": "From rack with barbell at upper chest height, position bar low on back of shoulders. Grasp barbell to sides. Dismount bar from rack and stand with wide stance. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel to floor. extend hips and knees until legs are straight. return and repeat."
     },
     {
         "id": "ED5CC241-49E4-44F1-842C-CE5F27172B8C",
@@ -737,9 +737,9 @@
         ],
         "tags": [],
         "secondaryMuscleGroup": "arms",
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Position dumbbells to each side of shoulders with elbows below wrists.press dumbbells upward until arms are extended overhead. lower to sides of shoulders and repeat."
+        "comment": "Position dumbbells to each side of shoulders with elbows below wrists. Press dumbbells upward until arms are extended overhead. Lower to sides of shoulders and repeat."
     },
     {
         "id": "1E4B0941-F875-4AD2-B465-4ACEA7300966",
@@ -764,7 +764,7 @@
         "tags": [],
         "primaryEquipment": "dumbbell",
         "isFeatured": true,
-        "comment": "Position one dumbbell over head with both hands under inner plate (heart shaped grip).with elbows over head, lower forearm behind upper arm by flexing elbows. flex wrists at bottom to avoid hitting dumbbell on back of neck. raise dumbbell over head by extending elbows while hyperextending wrists. return and repeat."
+        "comment": "Position one dumbbell over head with both hands under inner plate (heart shaped grip). With elbows over head, lower forearm behind upper arm by flexing elbows. Flex wrists at bottom to avoid hitting dumbbell on back of neck. Raise dumbbell over head by extending elbows while hyperextending wrists. Return and repeat."
     },
     {
         "id": "25475414-229D-44CA-BE3F-A7E6EF5280C8",
@@ -787,9 +787,9 @@
             "lever donkey calf raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Position lower back and hips under padded lever. Place forearms on supports. Position toes and balls of feet on calf block with arches and heels extending off. Straighten knees.raise heels by extending ankles as high as possible. lower heels by bending ankles until calves are stretched. repeat."
+        "comment": "Position lower back and hips under padded lever. Place forearms on supports. Position toes and balls of feet on calf block with arches and heels extending off. Straighten knees. Raise heels by extending ankles as high as possible. Lower heels by bending ankles until calves are stretched. Repeat."
     },
     {
         "id": "2A2D51FD-1577-4C5B-A816-0A5C6DC0A75F",
@@ -813,9 +813,9 @@
             "dumbbell hammer curl"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Position two dumbbells to sides, palms facing in, arms straight.with elbows to sides, raise one dumbbell until forearm is vertical and thumb faces shoulder. lower to original position and repeat with alternative arm."
+        "comment": "Position two dumbbells to sides, palms facing in, arms straight. With elbows to sides, raise one dumbbell until forearm is vertical and thumb faces shoulder. Lower to original position and repeat with alternative arm."
     },
     {
         "id": "2ABCE499-18BF-4D0D-A908-429569662E01",
@@ -838,9 +838,9 @@
         ],
         "tags": [],
         "secondaryMuscleGroup": "core",
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Stand with dumbbells grasped to sides.lunge forward with first leg. land on heel then forefoot. lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. return to original standing position by forcibly extending hip and knee of forward leg. repeat by alternating lunge with opposite leg."
+        "comment": "Stand with dumbbells grasped to sides. Lunge forward with first leg. Land on heel then forefoot. Lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. return to original standing position by forcibly extending hip and knee of forward leg. repeat by alternating lunge with opposite leg."
     },
     {
         "id": "3A96C641-8728-46D9-8E68-933F7DFE6674",
@@ -863,9 +863,9 @@
             "dumbbell lateral raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Grasp dumbbells in front of thighs with elbows slightly bent. Bend over slightly with hips and knees bent slightly.raise upper arms to sides until slightly bent elbows are shoulder height while maintaining elbows' height above or equal to wrists. lower and repeat."
+        "comment": "Grasp dumbbells in front of thighs with elbows slightly bent. Bend over slightly with hips and knees bent slightly. Raise upper arms to sides until slightly bent elbows are shoulder height while maintaining elbows' height above or equal to wrists. Lower and repeat."
     },
     {
         "id": "63F76814-8ECF-4516-8A66-23AA74D1AC98",
@@ -883,12 +883,14 @@
         "type": "strength",
         "measurement": "repetitions",
         "aliases": [
-            "Arnold dumbbell press"
+            "Arnold dumbbell press",
+            "dumbbell Arnold press"
         ],
         "tags": [],
         "secondaryMuscleGroup": "arms",
-        "primaryEquipment": "dumbbell",
-        "isFeatured": true
+        "primaryEquipment": "dumbbells",
+        "isFeatured": true,
+        "comment": "Stand with two dumbbells position in front of shoulders, palms facing body and elbows under wrists. Initiate movement by bringing elbows out to sides. Continue to raise elbows outward while pressing dumbbells overhead until arms are straight. Lower to front of shoulders in opposite pattern and repeat."
     },
     {
         "id": "63F9579E-3DB6-4489-BFC0-597861ECF858",
@@ -910,9 +912,9 @@
             "dumbbell curl"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Position two dumbbells to sides, palms facing in, arms straight.with elbows to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder. lower to original position and repeat with opposite arm. continue to alternate between sides."
+        "comment": "Position two dumbbells to sides, palms facing in, arms straight. With elbows to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder. Lower to original position and repeat with opposite arm. Continue to alternate between sides."
     },
     {
         "id": "6F8DA1FD-B1CE-4BE4-B157-6BD6359A1467",
@@ -960,7 +962,7 @@
             "dumbbell rear lateral raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
         "comment": "Grasp dumbbells to each side. Bend knees and bend over through hips with back flat, close to horizontal. Position elbows with slight bend and palms facing together.raise upper arms to sides until elbows are shoulder height. maintain upper arms perpendicular to torso and fixed elbow position (10\u00b0 to 30\u00b0 angle) throughout exercise. maintain height of elbows above wrists by raising \"pinkie finger\" side up. lower and repeat."
     },
@@ -985,7 +987,7 @@
             "dumbbell seated rear lateral raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
         "comment": "Sit on edge of bench with feet placed beyond knees. Bend over and rest torso on thighs. Grasp dumbbells with each hand under legs. Position elbows with slight bend with palms facing together behind ankles (as shown) or just to sides of ankles.raise upper arms to sides until elbows are shoulder height. maintain upper arms perpendicular to torso and fixed elbow position (10\u00b0 to 30\u00b0 angle) throughout exercise. maintain elbows height above wrists by raising \"pinkie finger\" side up. lower and repeat."
     },
@@ -1011,7 +1013,7 @@
         "tags": [],
         "secondaryMuscleGroup": "arms",
         "tertiaryMuscleGroup": "shoulders",
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
         "comment": "Sit down on bench with dumbbells resting on lower thigh. Kick weights to shoulder and lie back. Position dumbbells to sides of chest with bent arm under each dumbbell.press dumbbells up with elbows to sides until arms are extended. lower weight to sides of chest until slight stretch is felt in chest or shoulder. repeat."
     },
@@ -1035,7 +1037,7 @@
             "front raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
         "comment": "Grasp dumbbells in both hands. Position dumbbells in front of upper legs with elbows straight or slightly bent.raise dumbbells forward and upward until upper arms are above horizontal. lower and repeat."
     },
@@ -1060,9 +1062,9 @@
             "cable one arm lateral raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "cable",
         "isFeatured": true,
-        "comment": "Grasp stirrup cable attachment. Stand facing with side of resting arm toward low pulley. Grasp ballet bar if available.with elbow slightly bent, raise arm to side away from low pulley until elbow is shoulder height. lower and repeat.\u00a0continue with opposite arm."
+        "comment": "Grasp stirrup cable attachment. Stand facing with side of resting arm toward low pulley. Grasp ballet bar if available. With elbow slightly bent, raise arm to side away from low pulley until elbow is shoulder height. Lower and repeat. Continue with opposite arm."
     },
     {
         "id": "FBB9E51F-DB71-40D9-87E3-C4697F291D43",
@@ -1086,7 +1088,7 @@
         "tags": [],
         "secondaryMuscleGroup": "arms",
         "tertiaryMuscleGroup": "shoulders",
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
         "comment": "Sit down on incline bench with dumbbells resting on lower thigh. Kick weights to shoulders and lean back. Position dumbbells to sides of chest with upper arm under each dumbbell.press dumbbells up with elbows to sides until arms are extended. lower weight to sides of upper chest until slight stretch is felt in chest or shoulder. repeat."
     },
@@ -1436,9 +1438,9 @@
         ],
         "tags": [],
         "secondaryMuscleGroup": "shoulders",
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Grasp two dumbbells. Lie supine on bench. Support dumbbells above chest with arms fixed in slightly bent position. Internally rotate shoulders so elbows point out to sides.lower dumbbells to sides until chest muscles are stretched with elbows fixed in slightly bent position. bring dumbbells together in wide hugging motion until dumbbells are nearly together. repeat."
+        "comment": "Grasp two dumbbells. Lie supine on bench. Support dumbbells above chest with arms fixed in slightly bent position. Internally rotate shoulders so elbows point out to sides. Lower dumbbells to sides until chest muscles are stretched with elbows fixed in slightly bent position. Bring dumbbells together in wide hugging motion until dumbbells are nearly together. Repeat."
     },
     {
         "id": "A269E653-3B8A-4926-B376-07352DF433EA",
@@ -1764,7 +1766,7 @@
         ],
         "tags": [],
         "secondaryMuscleGroup": "core",
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
         "comment": "Stand with dumbbells grasped to sides facing side of bench.place foot of first leg on bench. stand on bench by extending hip and knee of first leg and place foot of second leg on bench. step down with second leg by flexing hip and knee of first leg. return to original standing position by placing foot of first leg to floor. repeat first step with opposite leg, alternating first steps between legs."
     },
@@ -1911,7 +1913,7 @@
         ],
         "tags": [],
         "secondaryMuscleGroup": "core",
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "isFeatured": true,
         "comment": "Stand with dumbbells grasped to sides.lunge forward with first leg. land on heel then forefoot. lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. return to original standing position by forcibly extending hip and knee of forward leg. repeat by alternating lunge with opposite leg."
     },
@@ -2638,7 +2640,7 @@
             "dumbbell arnold press"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Stand with two dumbbells position in front of shoulders, palms facing body and elbows under wrists.initiate movement by bringing elbows out to sides. continue to raise elbows outward while pressing dumbbells overhead until arms are straight. lower to front of shoulders in opposite pattern and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_arnold_press"
@@ -2660,7 +2662,7 @@
             "dumbbell alternating front raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Grasp dumbbells in both hands. Position dumbbells in front of upper legs with elbows straight or slightly bent.raise one dumbbell forward and upward with palms positioned downward until upper arm is above horizontal. lower and repeat with opposite arm, alternating between arms.",
         "isFeatured": false,
         "translationKey": "dumbbell_alternating_front_raise"
@@ -2683,7 +2685,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Stand with dumbbells positioned near shoulder with elbow below wrists.press dumbbell upward until arm is extended overhead. lower to side of shoulder and repeat.",
+        "comment": "Stand with dumbbell positioned near shoulder with elbow below wrist. Press dumbbell upward until arm is extended overhead. Lower to side of shoulder and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_one_arm_shoulder_press"
     },
@@ -3012,7 +3014,7 @@
             "dumbbell upright row"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Grasp dumbbells and stand with palms facing front of thighs.pull dumbbells to front of shoulders or front sides of chest with elbows leading out to sides. allow wrists to flex as dumbbells rise upward. lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_upright_row"
@@ -3035,7 +3037,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Grasp dumbbells with palms facing front of thighs. Position other hand for support.pull dumbbell to front side of chest with elbow leading. allow wrist to flex as dumbbell rises upward. lower and repeat. continue with opposite arm.",
+        "comment": "Grasp dumbbell with palm facing front of thigh. Position other hand for support. Pull dumbbell to front side of chest with elbow leading. Allow wrist to flex as dumbbell rises upward. Lower and repeat. Continue with opposite arm.",
         "isFeatured": false,
         "translationKey": "dumbbell_one_arm_upright_row"
     },
@@ -3408,7 +3410,7 @@
             "dumbbell full can lateral raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Grasp dumbbells with each hand with palms facing forward.raise arms to side with thumb side up. lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_full_can_lateral_raise"
@@ -3694,7 +3696,7 @@
             "dumbbell lying triceps extension"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Lie on bench and position dumbbells over head with arms extended.lower dumbbells by bending elbow until they are to sides of head. extend arm. repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_lying_triceps_extension"
@@ -3980,7 +3982,7 @@
             "dumbbell incline curl"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Sit back on 45-60 degree incline bench. With arms hanging down straight, position two dumbbells with palms facing inward.with elbows back to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder. lower to original position and repeat with opposite arm. continue to alternate between sides.",
         "isFeatured": false,
         "translationKey": "dumbbell_incline_curl"
@@ -4904,7 +4906,7 @@
             "dumbbell lying row"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Lie chest down on elevated bench. Grasp dumbbells below.pull dumbbells up to sides. arch thoracic spine, pull shoulder blades back, and continue to pull until upper arms are just beyond height of back. return until arms are extended and shoulders are stretched downward. repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_lying_row"
@@ -5806,7 +5808,7 @@
             "dumbbell shrug"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Stand holding dumbbells to sides.elevate shoulders as high as possible. lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_shrug"
@@ -6356,7 +6358,7 @@
             "dumbbell decline bench press"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Sit down on decline bench with feet under leg brace and dumbbells resting on thigh. Lie back with dumbbells. Position dumbbells to sides of chest with bent arm under each dumbbell.press dumbbells up with elbows to sides until arms are extended. lower weight to sides of chest until slight stretch is felt in chest or shoulder. repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_decline_bench_press"
@@ -6774,7 +6776,7 @@
             "dumbbell incline fly"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Grasp two dumbbells. Lie supine on bench. Support dumbbells above upper chest with arms fixed in slightly bent position. Bend elbows slightly and internally rotate shoulders so elbows point out to sides.lower dumbbells outward to sides of shoulders. keep elbows fixed in slightly bent position. when a stretch is felt in chest or shoulders, bring dumbbells back together in hugging motion above upper chest until dumbbells are nearly together. repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_incline_fly"
@@ -6972,7 +6974,7 @@
             "dumbbell incline shoulder raise"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Sit down on incline bench with dumbbells resting on lower thigh. Kick weights to shoulders and lean back. Position dumbbells above shoulders with elbows extended.raise shoulders toward dumbbells as high as possible. lower shoulders to bench and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_incline_shoulder_raise"
@@ -7126,7 +7128,7 @@
             "dumbbell push crunch"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "With dumbbells in each hand, position feet under foot pad and lie supine on steep incline bench. Position dumbbells straight over shoulders.flex waist to raise upper torso from bench, keeping low back on bench. return until back of shoulders contact padded incline bench. repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_push_crunch"
@@ -8183,7 +8185,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand with shoulder width or narrower stance with feet flat beneath bar. Grasp bar with shoulder width or slightly wider mixed grip or slightly wider. Disengage bar by rotating bar back.squat down to lower bar by bending hips and knees. lift bar by extending hips and knees to full extension. pull shoulders back at top of lift if rounded. return and repeat.",
+        "comment": "Stand with shoulder width or narrower stance with feet flat beneath bar. Grasp bar with shoulder width or slightly wider mixed grip or slightly wider. Disengage bar by rotating bar back. Squat down to lower bar by bending hips and knees. lift bar by extending hips and knees to full extension. pull shoulders back at top of lift if rounded. return and repeat.",
         "isFeatured": false,
         "translationKey": "smith_deadlift"
     },
@@ -8469,7 +8471,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Stand facing away from bench. Position bar on back of shoulders and grasp barbell to sides. Extend leg back and place top of foot on bench.squat down by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. return to original standing position by extending hip and knee of forward leg. repeat. continue with opposite leg.",
+        "comment": "Stand facing away from bench. Position bar on back of shoulders and grasp barbell to sides. Extend leg back and place top of foot on bench. Squat down by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. return to original standing position by extending hip and knee of forward leg. repeat. continue with opposite leg.",
         "isFeatured": false,
         "translationKey": "barbell_single_leg_split_squat"
     },
@@ -8491,7 +8493,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Stand with arms extended out in front holding barbell. Balance on one leg with opposite leg extended forward off of ground.squat down as far as possible while keeping leg elevated off of floor. keep   supporting knee pointed same direction as foot supporting. raise body back up to original position until knee and hip of supporting leg is straight. return and repeat. continue with opposite leg.",
+        "comment": "Stand with arms extended out in front holding barbell. Balance on one leg with opposite leg extended forward off of ground. Squat down as far as possible while keeping leg elevated off of floor. keep   supporting knee pointed same direction as foot supporting. raise body back up to original position until knee and hip of supporting leg is straight. return and repeat. continue with opposite leg.",
         "isFeatured": false,
         "translationKey": "barbell_single_leg_squat"
     },
@@ -8513,7 +8515,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Position barbell on back of shoulders and grasp barbell to sides. Stand with feet far apart; one foot forward and other foot behind.squat down by flexing knee and hip of front leg. allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. return to original standing position by extending hip and knee of forward leg. repeat. continue with opposite leg.",
+        "comment": "Position barbell on back of shoulders and grasp barbell to sides. Stand with feet far apart; one foot forward and other foot behind. Squat down by flexing knee and hip of front leg. allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. return to original standing position by extending hip and knee of forward leg. repeat. continue with opposite leg.",
         "isFeatured": false,
         "translationKey": "barbell_split_squat"
     },
@@ -8535,7 +8537,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Standing facing safety barbell on rack upper chest height. Position head in yoke with padded bar around shoulders. Hands can be placed on ends of yoke (as shown) or on safety bar out to sides. Dismount bar from rack and step back.squat down by bending hips back while allowing knees to bend slightly forward, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel to floor. stand by extending hips and knees until legs are straight. repeat.",
+        "comment": "Standing facing safety barbell on rack upper chest height. Position head in yoke with padded bar around shoulders. Hands can be placed on ends of yoke (as shown) or on safety bar out to sides. Dismount bar from rack and step back. Squat down by bending hips back while allowing knees to bend slightly forward, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel to floor. stand by extending hips and knees until legs are straight. repeat.",
         "isFeatured": false,
         "translationKey": "safety_barbell_squat"
     },
@@ -8623,7 +8625,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two very low cable pulleys. Grasp stirrup attachments with each hand. Place one leg far forward and opposite leg far back to rear.squat down by flexing knee and hip of front leg. allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. return to original straddle position by extending hip and knee of forward leg. repeat. continue with legs in opposite position.",
+        "comment": "Stand between two very low cable pulleys. Grasp stirrup attachments with each hand. Place one leg far forward and opposite leg far back to rear. Squat down by flexing knee and hip of front leg. allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. return to original straddle position by extending hip and knee of forward leg. repeat. continue with legs in opposite position.",
         "isFeatured": false,
         "translationKey": "cable_split_squat"
     },
@@ -8754,7 +8756,7 @@
             "dumbbell rear lunge"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Stand with dumbbells grasped to sides.step back with one leg while bending supporting leg. plant forefoot far back on floor. lower body by flexing knee and hip of supporting leg until knee of rear leg is almost in contact with floor. return to original standing position by extending hip and knee of forward supporting leg and return rear leg next to supporting leg. repeat movement with opposite legs alternating between sides.",
         "isFeatured": false,
         "translationKey": "dumbbell_rear_lunge"
@@ -8776,8 +8778,8 @@
             "dumbbell split squat"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
-        "comment": "Stand with dumbbells grasped to sides. Stand with feet far apart; one foot forward and other foot behind.squat down by flexing knee and hip of front leg. allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. return to original standing position by extending hip and knee of forward leg. repeat. continue with opposite leg.",
+        "primaryEquipment": "dumbbells",
+        "comment": "Stand with dumbbells grasped to sides. Stand with feet far apart; one foot forward and other foot behind. Squat down by flexing knee and hip of front leg. allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. return to original standing position by extending hip and knee of forward leg. repeat. continue with opposite leg.",
         "isFeatured": false,
         "translationKey": "dumbbell_split_squat"
     },
@@ -8798,8 +8800,8 @@
             "dumbbell squat"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
-        "comment": "Stand with dumbbells grasped to sides.squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
+        "primaryEquipment": "dumbbells",
+        "comment": "Stand with dumbbells grasped to sides. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_squat"
     },
@@ -8820,10 +8822,53 @@
             "dumbbell front squat"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
-        "comment": "Stand with dumbbells grasped to sides. Clean dumbbells up to shoulders so side of each dumbbell rests on top of each shoulder. Balance dumbbells on shoulder by holding on to dumbbells with elbows flaring outward.\u00a0Position feet shoulder width or slightly narrower apart.squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
+        "primaryEquipment": "dumbbells",
+        "comment": "Stand with dumbbells grasped to sides. Clean dumbbells up to shoulders so side of each dumbbell rests on top of each shoulder. Balance dumbbells on shoulder by holding on to dumbbells with elbows flaring outward.\u00a0Position feet shoulder width or slightly narrower apart. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_front_squat"
+    },
+    {
+        "id": "DD1E061B-4B5F-478F-A3BA-4FA5D4FF3593",
+        "name": "dumbbell goblet squat",
+        "short": "",
+        "muscleGroup": "legs",
+        "family": "squat",
+        "movementPattern": "squat",
+        "position": null,
+        "grip": [],
+        "laterality": "bilateral",
+        "benchAngle": null,
+        "type": "strength",
+        "measurement": "repetitions",
+        "aliases": [
+          "goblet squat"
+        ],
+        "tags": [],
+        "primaryEquipment": "dumbbell",
+        "comment": "Stand with shoulder width or wider stance. Hold dumbbell under inner plate over chest with both hands. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "isFeatured": false,
+        "translationKey": "dumbell_goblet_squat"
+    },
+    {
+        "id": "25DC3CEE-CD88-4907-9BEF-40EB632332E1",
+        "name": "kettlebell goblet squat",
+        "short": "",
+        "muscleGroup": "legs",
+        "family": "squat",
+        "movementPattern": "squat",
+        "position": null,
+        "grip": [],
+        "laterality": "bilateral",
+        "benchAngle": null,
+        "type": "strength",
+        "measurement": "repetitions",
+        "aliases": [
+        ],
+        "tags": [],
+        "primaryEquipment": "kettlebell",
+        "comment": "Stand with shoulder width or wider stance. Hold kettleball by horns over chest with both hands. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "isFeatured": false,
+        "translationKey": "kettlebell_goblet_squat"
     },
     {
         "id": "4B1E449C-5E50-4E4B-BC8B-B44FC2D2DE6D",
@@ -8842,7 +8887,7 @@
             "dumbbell step-down"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Hold dumbbells in each hand down to sides and stand with one foot on bench. Position foot on bench to side, forward of straight knee.stand on bench by straightening leg and pushing body upward. step down returning foot off of bench to floor and repeat. continue with opposite position.",
         "isFeatured": false,
         "translationKey": "dumbbell_step_down"
@@ -9041,7 +9086,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Squat down to place shoulders under padded lever. Place feet shoulder width apart slightly in front of shoulders. Extend knees and hips until legs are straight. Release support lever.squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. descend by bending knees and hip until thighs are just past parallel to floor. lift lever up by extending knees and hips until legs are straight. repeat.",
+        "comment": "Squat down to place shoulders under padded lever. Place feet shoulder width apart slightly in front of shoulders. Extend knees and hips until legs are straight. Release support lever. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. descend by bending knees and hip until thighs are just past parallel to floor. lift lever up by extending knees and hips until legs are straight. repeat.",
         "isFeatured": false,
         "translationKey": "lever_squat_plate_loaded"
     },
@@ -9481,7 +9526,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet slightly forward. Disengage bar by rotating bar back.squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
+        "comment": "With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet slightly forward. Disengage bar by rotating bar back. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
         "isFeatured": false,
         "translationKey": "smith_squat"
     },
@@ -9525,7 +9570,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand with arms extended out in front, holding medicine ball or weight plate. Balance on one leg with opposite leg extended forward off of ground.squat down as far as possible while keeping leg elevated off of floor. keep supporting knee pointed same direction as foot supporting. raise body back up to original position until knee and hip of supporting leg is straight. return and repeat. continue with opposite leg.",
+        "comment": "Stand with arms extended out in front, holding medicine ball or weight plate. Balance on one leg with opposite leg extended forward off of ground. Squat down as far as possible while keeping leg elevated off of floor. keep supporting knee pointed same direction as foot supporting. raise body back up to original position until knee and hip of supporting leg is straight. return and repeat. continue with opposite leg.",
         "isFeatured": false,
         "translationKey": "weighted_single_leg_squat"
     },
@@ -9569,7 +9614,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp suspension handles and momentarily step back until arms are extended forward and straight. While keeping arms straight and shoulders back, step forward so body reclines back behind suspension handles. Position body and legs straight at desired angle hanging from handles with arms straight. Balance on one leg with opposite leg extended forward off of ground.squat down as far as possible while keeping leg elevated off of floor. keep supporting knee pointed same direction as foot supporting. raise body back, up to original position until knee and hip of supporting leg is straight. repeat and continue with opposite leg.",
+        "comment": "Grasp suspension handles and momentarily step back until arms are extended forward and straight. While keeping arms straight and shoulders back, step forward so body reclines back behind suspension handles. Position body and legs straight at desired angle hanging from handles with arms straight. Balance on one leg with opposite leg extended forward off of ground. Squat down as far as possible while keeping leg elevated off of floor. keep supporting knee pointed same direction as foot supporting. raise body back, up to original position until knee and hip of supporting leg is straight. repeat and continue with opposite leg.",
         "isFeatured": false,
         "translationKey": "suspended_single_leg_squat"
     },
@@ -10075,7 +10120,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet under bar. Disengage bar by rotating bar back.squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
+        "comment": "With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet under bar. Disengage bar by rotating bar back. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. descend until thighs are just past parallel to floor. extend knees and hips until legs are straight. return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_barbell_squat_plate_loaded"
     },
@@ -10250,7 +10295,7 @@
             "dumbbell straight-back straight-leg deadlift"
         ],
         "tags": [],
-        "primaryEquipment": "dumbbell",
+        "primaryEquipment": "dumbbells",
         "comment": "Stand with shoulder width or narrower stance. Grasp dumbbells to each side.with knees straight, lower dumbbells by bending hips until hamstrings are tight, or just before lower back bends. lift dumbbells by extending hips until straight. pull shoulders back slightly at top of lift if rounded. repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_straight_back_straight_leg_deadlift"
