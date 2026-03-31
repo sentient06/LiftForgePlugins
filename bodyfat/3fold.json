@@ -22,7 +22,7 @@
                     "alias": "b",
                     "name": "abdomen",
                     "label": { "en": "Abdomen" },
-                    "description": { "en": "Vertical fold 2cm to the right of the navel." },
+                    "description": { "en": "Vertical fold 2cm to the right (or left) of the navel." },
                     "internalUnit": "mm"
                 },
                 {
@@ -53,7 +53,7 @@
                     "alias": "a",
                     "name": "tricep",
                     "label": { "en": "Tricep" },
-                    "description": { "en": "Vertical fold at the midpoint of the posterior side of tricep between shoulder and elbow with arm relaxed at the side." },
+                    "description": { "en": "Vertical fold at the midpoint of the posterior side of tricep between shoulder and elbow with arm relaxed at the side. (Pinch the skin vertically at the middle of the back of your upper arm, arm relaxed at your side.)" },
                     "internalUnit": "mm"
                 },
                 {
@@ -67,7 +67,7 @@
                     "alias": "c",
                     "name": "thigh",
                     "label": { "en": "Thigh" },
-                    "description": { "en": "Midpoint of the anterior side of the upper leg between the patella and top of thigh." },
+                    "description": { "en": "Midpoint of the anterior side of the upper leg between the patella and top of thigh. (Pinch the skin on the front of your thigh, halfway between your knee and hip.)" },
                     "internalUnit": "mm"
                 }
             ],
