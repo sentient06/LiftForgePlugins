@@ -1723,29 +1723,6 @@
         "comment": "Lay on back under fixed horizontal bar. Grasp bar with wide        overhand grip. Place back of heels on elevated surface.\r\nkeeping body straight, pull body up to bar. Return until        arms are extended and shoulders are stretched forward. Repeat."
     },
     {
-        "id": "03CE3605-0443-4D6B-B69A-BFEF3BF4C42A",
-        "name": "Bulgarian split squat",
-        "short": "",
-        "muscleGroup": "legs",
-        "translationKey": "bulgarian_split_squat",
-        "family": "split_squat",
-        "canonicalKey": "bulgarian_split_squat",
-        "movementPattern": "squat",
-        "position": "split_stance",
-        "grip": [],
-        "laterality": "unilateral",
-        "benchAngle": null,
-        "type": "strength",
-        "measurement": "repetitions",
-        "aliases": [
-            "Bulgarian split squat"
-        ],
-        "tags": [],
-        "secondaryMuscleGroup": "core",
-        "primaryEquipment": "body",
-        "isFeatured": true
-    },
-    {
         "id": "A7ECBE9B-8587-4347-A7D9-3768566D84A1",
         "name": "step-up",
         "short": "",
@@ -1824,6 +1801,30 @@
         "muscleGroup": "legs",
         "translationKey": "barbell_hip_thrust",
         "family": "hip_thrust",
+        "canonicalKey": "barbell_hip_thrust",
+        "movementPattern": "hinge",
+        "position": "bench_supported",
+        "grip": [],
+        "laterality": "bilateral",
+        "benchAngle": null,
+        "type": "strength",
+        "measurement": "repetitions",
+        "aliases": [
+            "barbell hip thrust"
+        ],
+        "tags": [],
+        "secondaryMuscleGroup": "core",
+        "primaryEquipment": "barbell",
+        "isFeatured": true,
+        "comment": "Sit on floor with long side of bench behind back. Roll barbell back and center over hips. Position upper back on corner of bench. Place feet on floor approximately shoulder width with knees bent. Grasp bar to each side. Raise bar upward by extending hips until straight. Lower and repeat."
+    },
+    {
+        "id": "1166A47E-E99B-4D17-A2B4-0B7FD9D746A1",
+        "name": "hip thrust",
+        "short": "hip thrust",
+        "muscleGroup": "legs",
+        "translationKey": "other_hip_thrust",
+        "family": "hip_thrust",
         "canonicalKey": "hip_thrust",
         "movementPattern": "hinge",
         "position": "bench_supported",
@@ -1833,14 +1834,13 @@
         "type": "strength",
         "measurement": "repetitions",
         "aliases": [
-            "barbell hip thrust",
             "hip thrust"
         ],
         "tags": [],
         "secondaryMuscleGroup": "core",
-        "primaryEquipment": "barbell",
+        "primaryEquipment": "other",
         "isFeatured": true,
-        "comment": "Sit on floor with long side of bench behind back. Roll barbell back and center over hips. Position upper back on corner of bench. Place feet on floor approximately shoulder width with knees bent. Grasp bar to each side. Raise bar upward by extending hips until straight. Lower and repeat."
+        "comment": "Sit on floor with long side of bench behind back. Position weight over hips. Position upper back on corner of bench. Place feet on floor approximately shoulder width with knees bent. Grasp weight to each side. Raise weight upward by extending hips until straight. Lower and repeat."
     },
     {
         "id": "FF3A0C9A-9C22-4F0A-B27F-C6C9209A91B5",
@@ -2465,7 +2465,7 @@
         ],
         "tags": [],
         "primaryEquipment": "other",
-        "comment": "Preparation\r\nStand with back of neck against exercise band strapped accross rack. Position both arms behind bands to each side. Hold horizontal bar above if within reach. This exercise may be prescribed for functional forward head posture since it strengthens splenius without neck flexion. Neck retraction primarily consists of cervical flexion (spine) accompanied by subtle thoracic flexion (spine) and neck flexion (atlanto-occipital joint). Cervical spine has natural lordotic curvature (see diagram of spine). Much of the retraction motion is actually flattening or slight reversing the normal lordosis. The deep neck flexors perform majority of movement. Slight neck flexion at the atlanto-occipital joint also occurs to maintain forward head positioning.",
+        "comment": "Stand with back of neck against exercise band strapped accross rack. Position both arms behind bands to each side. Hold horizontal bar above if within reach. This exercise may be prescribed for functional forward head posture since it strengthens splenius without neck flexion. Neck retraction primarily consists of cervical flexion (spine) accompanied by subtle thoracic flexion (spine) and neck flexion (atlanto-occipital joint). Cervical spine has natural lordotic curvature (see diagram of spine). Much of the retraction motion is actually flattening or slight reversing the normal lordosis. The deep neck flexors perform majority of movement. Slight neck flexion at the atlanto-occipital joint also occurs to maintain forward head positioning.",
         "isFeatured": false,
         "translationKey": "band_resistive_neck_retraction"
     },
@@ -2795,7 +2795,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Preparationexecution",
+        "comment": "",
         "isFeatured": false,
         "translationKey": "lever_shoulder_press_parallel_grip"
     },
@@ -6073,7 +6073,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp suspension handles and position bent elbows to each sides of waist. Execution",
+        "comment": "Grasp suspension handles and position bent elbows to each sides of waist.",
         "isFeatured": false,
         "translationKey": "suspended_shoulder_external_rotation"
     },
@@ -8383,7 +8383,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Preparationexecution",
+        "comment": "",
         "isFeatured": false,
         "translationKey": "rear_bridge"
     },
@@ -8405,7 +8405,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Preparationexecution",
+        "comment": "",
         "isFeatured": false,
         "translationKey": "incline_rear_bridge"
     },
@@ -8762,7 +8762,29 @@
         "translationKey": "dumbbell_rear_lunge"
     },
     {
-        "id": "E68EBECB-A606-4985-BEEB-E0A69D56CA51",
+        "id": "106A3FCE-A688-4054-B7BB-792810B43863",
+        "name": "split squat",
+        "short": "",
+        "muscleGroup": "legs",
+        "family": "squat",
+        "movementPattern": "squat",
+        "position": null,
+        "grip": [],
+        "laterality": "bilateral",
+        "benchAngle": null,
+        "type": "strength",
+        "measurement": "repetitions",
+        "aliases": [
+            "split squat"
+        ],
+        "tags": [],
+        "primaryEquipment": "other",
+        "comment": "Stand holding any weight. Stand with feet far apart; one foot forward and other foot behind. Squat down by flexing knee and hip of front leg. Allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. Return to original standing position by extending hip and knee of forward leg. Repeat. Continue with opposite leg.",
+        "isFeatured": false,
+        "translationKey": "other_split_squat"
+    },
+    {
+        "id": "03CE3605-0443-4D6B-B69A-BFEF3BF4C42A",
         "name": "dumbbell split squat",
         "short": "",
         "muscleGroup": "legs",
@@ -8775,7 +8797,8 @@
         "type": "strength",
         "measurement": "repetitions",
         "aliases": [
-            "dumbbell split squat"
+            "dumbbell split squat",
+            "Bulgarian split squats"
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
