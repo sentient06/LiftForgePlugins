@@ -22,7 +22,7 @@
         "secondaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "From rack with barbell upper chest height, position bar in front of shoulders. Cross arms and place hands on top of barbell with upper arms parallel to floor. Dismount bar from rack. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel. Extend knees and hips until legs are straight. Return and repeat."
+        "comment": "Set the barbell on a rack at upper-chest height. Position the bar in front of the shoulders by crossing the arms and placing the hands over the bar, with the upper arms parallel to the floor. Unrack the bar. Squat down by pushing the hips back and allowing the knees to travel forward, keeping the back straight and knees pointing in line with the feet. Descend until the thighs are just past parallel. Extend the knees and hips until the legs are straight. Return and repeat."
     },
     {
         "id": "46370C22-A3B6-4797-B884-EB783EAA79D1",
@@ -46,7 +46,7 @@
         "tags": [],
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Lie on bench with narrow overhand grip on barbell. Position barbell over forehead with arms extended. Lower bar by bending elbows. As bar nears head, move elbows slightly back just enough to allow bar to clear around curvature of head. Extend arms. As bar clears head, reposition elbows to their former position until arms are fully extended. Repeat."
+        "comment": "Lie on a bench with a narrow overhand grip on the barbell. Hold the bar above the forehead with the arms extended. Lower the bar by bending the elbows. As the bar approaches the head, draw the elbows slightly back to allow the bar to clear. Extend the arms, returning the elbows to their original position as the arms reach full extension. Repeat."
     },
     {
         "id": "5F0B0081-83BF-483B-A0A5-D26E75E7165E",
@@ -72,7 +72,7 @@
         "tertiaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "With feet flat beneath bar, squat down and grasp bar with shoulder width or slightly wider overhand or mixed grip. Lift bar by extending hips and knees to full extension. Pull shoulders back at top of lift if rounded. Return and repeat."
+        "comment": "Stand with feet flat beneath the bar. Hinge down and grasp the bar with a shoulder-width or slightly wider overhand or mixed grip. Lift the bar by extending the hips and knees to full extension. Pull the shoulders back at the top of the lift if rounded. Return and repeat."
     },
     {
         "id": "6416688E-8536-4F8B-935B-F17796BB11A5",
@@ -96,7 +96,8 @@
         "tags": [],
         "secondaryMuscleGroup": "back",
         "primaryEquipment": "barbell",
-        "isFeatured": true
+        "isFeatured": true,
+        "comment": "Take the barbell from a rack with a shoulder-width to wide overhand grip. Stand with the feet shoulder-width or narrower. Push the hips back and lower the bar by hinging at the hips, keeping the bar close to the front of the legs. Allow the knees to bend slightly as the bar descends. Continue lowering until the hamstrings are fully stretched, keeping the spine neutral throughout. Drive the hips forward to return to standing. Pull the shoulders back slightly if rounded. Repeat."
     },
     {
         "id": "64BC2B55-061A-49FA-A834-0CA29B0FFC94",
@@ -123,7 +124,7 @@
         "tertiaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Grasp barbell with slightly wider than shoulder width overhand grip from rack. Position bar near upper chest. Press bar upward until arms are extended overhead. Return to upper chest and repeat."
+        "comment": "Take the barbell from the rack with a slightly wider than shoulder-width overhand grip. Position the bar at upper-chest height. Press the bar overhead until the arms are fully extended. Lower to the upper chest and repeat."
     },
     {
         "id": "6592099C-6AE0-495F-B181-9B8FB00A6D44",
@@ -147,7 +148,7 @@
         "tags": [],
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Grasp bar with shoulder width underhand grip. With elbows to side, raise bar until forearms are vertical. Lower until arms are fully extended. Repeat."
+        "comment": "Grasp the bar with a shoulder-width underhand grip. Keeping the elbows tucked to the sides, raise the bar until the forearms are vertical. Lower until the arms are fully extended. Repeat."
     },
     {
         "id": "65EB1261-9601-430D-9A64-57D5F3E7A060",
@@ -172,7 +173,8 @@
         "secondaryMuscleGroup": "arms",
         "tertiaryMuscleGroup": "shoulders",
         "primaryEquipment": "barbell",
-        "isFeatured": true
+        "isFeatured": true,
+        "comment": "Lie back on a flat bench. Unrack the barbell over the upper chest using a wide overhand grip. Lower the bar to the chest. Press the bar upward until the arms are fully extended. Avoid gripping too wide, as this limits range of motion. Repeat."
     },
     {
         "id": "6EF3C453-C52B-4B4A-976F-2BD215472CF5",
@@ -199,7 +201,7 @@
         "secondaryMuscleGroup": "chest",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Lie on bench and grasp barbell from rack with shoulder width grip. Lower weight to chest with elbows close to body. Push barbell back up until arms are straight. Repeat."
+        "comment": "Lie on the bench and take the barbell from the rack with a shoulder-width grip. Lower the bar to the chest, keeping the elbows close to the body. Press the barbell back up until the arms are straight. Repeat."
     },
     {
         "id": "710B7194-11D8-44FD-87C1-E83A08B08C37",
@@ -225,7 +227,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "landmine",
         "isFeatured": true,
-        "comment": "Bend knees slightly and bend over lever handles with back        straight. Grasp lever handles with shoulder width to wide overhand        grip.\r\npull lever up to torso. Return until arms are extended and        shoulders are stretched downward. Repeat."
+        "comment": "Bend the knees slightly and hinge forward over the handles with a flat back. Grasp the handles with a shoulder-width to wide overhand grip. Pull the bar up to the torso. Return until the arms are fully extended and the shoulders are stretched downward. Repeat."
     },
     {
         "id": "A2A73B24-A288-4A6A-BB9A-D71E56139A01",
@@ -250,7 +252,7 @@
         "secondaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Clean bar from floor or dismount bar from rack. From rack with barbell upper chest height, position bar on back of shoulders and grasp barbell to sides. Lunge forward with first leg. Land on heel, then forefoot. Lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. Return to original standing position by forcibly extending hip and knee of forward leg. Repeat by alternating lunge with opposite leg."
+        "comment": "Take the barbell from the rack and position it across the upper back, grasping the bar to each side. Step forward into a lunge, landing on the heel then the ball of the foot. Lower the body by bending the front knee and hip until the rear knee is just above the floor. Drive through the front foot to return to standing. Alternate legs with each repetition."
     },
     {
         "id": "B29505CB-590D-42CD-91AF-04847FD92BC9",
@@ -277,7 +279,7 @@
         "tertiaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Grasp barbell from rack or clean barbell from floor with overhand grip, slightly wider than shoulder width. Position bar in front of neck. Press bar upward until arms are extended overhead. Lower to front of neck and repeat."
+        "comment": "Take the barbell from a rack, or clean it from the floor, with a slightly wider than shoulder-width overhand grip. Position the bar at the front of the shoulders. Press the bar overhead until the arms are fully extended. Lower to the front of the shoulders and repeat."
     },
     {
         "id": "BA5AE66E-BBB5-4B59-A182-20406E49DF18",
@@ -299,7 +301,8 @@
         ],
         "tags": [],
         "primaryEquipment": "ezbar",
-        "isFeatured": true
+        "isFeatured": true,
+        "comment": "Grasp the E-Z bar at the inner angled grips with a shoulder-width underhand grip. Keeping the elbows tucked to the sides, raise the bar until the forearms are vertical. Lower until the arms are fully extended. Repeat."
     },
     {
         "id": "D6468FE9-B53D-4C2B-8DC9-76F695C805B9",
@@ -327,7 +330,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Bend knees slightly and bend over bar with back straight. Grasp bar with wide overhand grip. Pull bar to upper waist. Return until arms are extended and shoulders are stretched downward. Repeat."
+        "comment": "Bend the knees slightly and hinge forward with a flat back. Grasp the bar with a wide overhand grip. Pull the bar to the upper waist. Return until the arms are fully extended and the shoulders are stretched downward. Repeat."
     },
     {
         "id": "D8B08372-174E-41B1-BE94-20B6B9C822BF",
@@ -353,7 +356,7 @@
         "secondaryMuscleGroup": "core",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "From rack with barbell at upper chest height, position bar low on back of shoulders. Grasp barbell to sides. Dismount bar from rack and stand with wide stance. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Extend hips and knees until legs are straight. Return and repeat."
+        "comment": "Set the barbell on a rack at upper-chest height and position it low across the upper back. Grasp the bar to each side. Unrack the bar and stand with a wide stance. Squat by pushing the hips back and allowing the knees to travel slightly forward, keeping the back straight and knees pointing in line with the feet. Descend until the thighs are just past parallel to the floor. Extend the hips and knees until the legs are straight. Return and repeat."
     },
     {
         "id": "ED5CC241-49E4-44F1-842C-CE5F27172B8C",
@@ -378,7 +381,7 @@
         "secondaryMuscleGroup": "back",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Bend knees slightly and bend over bar with back straight, approximately horizontal. Grasp bar with wide overhand grip. Keeping upper arm perpendicular to torso, pull barbell up toward upper chest until upper arms are just beyond horizontal. Return and repeat."
+        "comment": "Bend the knees slightly and hinge forward until the torso is approximately horizontal, maintaining a flat back. Grasp the bar with a wide overhand grip. Keeping the upper arms perpendicular to the torso, pull the bar up towards the upper chest until the upper arms are just beyond horizontal. Return and repeat."
     },
     {
         "id": "F3A2479B-E42F-4D71-A587-78B4E7E20FBF",
@@ -402,7 +405,7 @@
         "tags": [],
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Stand holding barbell with overhand or mixed grip; shoulder width or slightly wider. Elevate shoulders as high as possible. Lower and repeat."
+        "comment": "Stand holding the barbell with an overhand or mixed grip, hands shoulder-width or slightly wider. Elevate the shoulders as high as possible. Lower and repeat."
     },
     {
         "id": "FB0A51F6-C02E-4E5C-A031-76B31893658A",
@@ -429,7 +432,7 @@
         "tertiaryMuscleGroup": "shoulders",
         "primaryEquipment": "barbell",
         "isFeatured": true,
-        "comment": "Lie supine on incline bench. Dismount barbell from rack over upper chest using wide oblique overhand grip. Lower weight to chest. Press bar until arms are extended. Repeat."
+        "comment": "Lie back on an incline bench. Unrack the barbell over the upper chest using a wide overhand grip. Lower the bar to the chest. Press until the arms are fully extended. Repeat."
     },
     {
         "id": "54EC0013-2DAA-4DF0-B752-C947C732CEB8",
@@ -458,7 +461,7 @@
         "tertiaryMuscleGroup": "shoulders",
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Place weight on dip belt around waist or place dumbbell between lower legs just above feet. Mount wide dip bar with oblique grip (bar diagonal under palm), arms straight with shoulders above hands. Keep hips and knees bent. Lower body by bending arms, allowing elbows to flare out to sides. When slight stretch is felt in chest or shoulders, push body up until arms are straight. Repeat."
+        "comment": "Attach weight using a dip belt, or hold a dumbbell between the lower legs. Mount the wide dip bars with an oblique grip, arms straight and shoulders above the hands. Keep the hips and knees slightly bent. Lower the body by bending the arms and allowing the elbows to flare outward. When a slight stretch is felt in the chest or shoulders, push back up until the arms are straight. Repeat."
     },
     {
         "id": "380BE85F-E8D4-4C89-98DA-F281EA3325DA",
@@ -480,7 +483,8 @@
         ],
         "tags": [],
         "primaryEquipment": "body",
-        "isFeatured": true
+        "isFeatured": true,
+        "comment": "Kneel on a mat and grasp the roller handles with the core braced. Slowly roll forward, keeping the hips in line with the shoulders and avoiding any sagging in the lower back. Roll out only as far as control allows, then pull back using the abdominal muscles to return. Repeat."
     },
     {
         "id": "58D9073A-6AA8-4488-8D4D-B8D593F930F0",
@@ -504,7 +508,7 @@
         "tags": [],
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Position feet under foot pad and lie supine on steep incline bench. Pull barbell from floor or grasp from rack behind with overhand grip. Position barbell over chest with shoulder width or slightly wider grip. Flex waist to raise upper torso from bench, keeping low back on bench. Return until back of shoulders contact padded incline board. Repeat."
+        "comment": "Secure the feet under the foot pad and lie back on a decline bench. Hold a barbell at chest level with a shoulder-width or slightly wider overhand grip. Curl the upper torso forward by flexing at the waist, keeping the lower back in contact with the bench. Return until the shoulders touch the bench. Repeat."
     },
     {
         "id": "6AEB33F6-B18D-472B-84B7-FE3F7680E3B4",
@@ -528,7 +532,7 @@
         "tags": [],
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Attach cable ankle straps to both ankles. Sit on end of bench facing pulley at bench height. Attach cable to both ankle straps. Lie supine on bench until cable is taut. Grasp sides of bench behind head. Raise legs by flexing hips and knees until thighs are past perpendicular to torso or before hips raise off of bench. Return until hips and knees are extended. Repeat."
+        "comment": "Attach cable ankle straps to both ankles. Sit at the end of the bench facing a low pulley and connect the cable to the straps. Lie back on the bench until the cable is taut. Grasp the sides of the bench behind the head. Raise the legs by flexing the hips and knees until the thighs are past perpendicular to the torso, or until the hips begin to lift from the bench. Return until the hips and knees are extended. Repeat."
     },
     {
         "id": "73EE3DA1-57B3-4F42-BF1A-880DA08082B6",
@@ -553,7 +557,7 @@
         "tags": [],
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Grasp handles slightly to front and stand on foot bar with knees slightly bent and hips against pad. With back straight, raise legs as high as possible by flexing hips. Return and repeat."
+        "comment": "Grasp the handles and stand on the foot bar with the knees slightly bent and the hips against the back pad. Keeping the back straight, raise the legs as high as possible by flexing at the hips. Return and repeat."
     },
     {
         "id": "8D2D1D2E-2259-4630-905C-A6DE88947DC0",
@@ -577,7 +581,7 @@
         "tags": [],
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Stand under high bar or pull-up handles. Place weight between ankles or feet. Reach up and grasp high bar or handles. Hang with legs straight and feet off of floor. Raise legs by flexing hips and knees until hips are completely flexed or knees are well above hips. Return until hips and knees are extended. Repeat."
+        "comment": "Stand beneath a high bar or pull-up handles. If using added weight, place it between the ankles. Reach up and grasp the bar. Hang with the legs straight and feet clear of the floor. Raise the legs by flexing the hips and knees until the hips are fully flexed or the knees are well above hip height. Return until the hips and knees are extended. Repeat."
     },
     {
         "id": "9667D19C-C781-486F-B919-BBCF2307D233",
@@ -604,7 +608,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Step up and grasp bar with underhand shoulder width grip. Pull body up until elbows are to sides. Lower body until arms and shoulders are fully extended. Repeat."
+        "comment": "Grasp the bar with a shoulder-width underhand grip. Pull the body up until the elbows are tucked to the sides. Lower until the arms and shoulders are fully extended. Repeat."
     },
     {
         "id": "BF635DAC-9BE1-4AF2-A290-5E809A9AAEBB",
@@ -626,7 +630,8 @@
         ],
         "tags": [],
         "primaryEquipment": "body",
-        "isFeatured": true
+        "isFeatured": true,
+        "comment": "Lie on the back with hands behind the head and knees bent. Lift the shoulders off the floor, draw one knee towards the chest, and extend the opposite leg. Simultaneously rotate the torso to bring the opposite elbow towards the raised knee. Alternate sides in a continuous pedalling motion."
     },
     {
         "id": "C58A3675-C419-4BC0-813C-8308F161E32F",
@@ -654,7 +659,7 @@
         "secondaryMuscleGroup": "chest",
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Place weight on dip belt around waist or place dumbbell between lower legs just above feet. Mount shoulder width dip bar, arms straight with shoulders above hands. Keep hips straight. Lower body until slight stretch is felt in shoulders. Push body up until arms are straight. Repeat."
+        "comment": "Attach weight using a dip belt, or hold a dumbbell between the lower legs. Mount the shoulder-width dip bars with the arms straight and shoulders above the hands. Keep the hips straight. Lower the body until a slight stretch is felt in the shoulders. Push back up until the arms are straight. Repeat."
     },
     {
         "id": "F6177F88-DC5E-495C-B8B6-059FCA1E9CC0",
@@ -681,7 +686,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "body",
         "isFeatured": true,
-        "comment": "Step up and grasp bar with overhand wide grip. Pull body up until chin is above bar. Lower body until arms and shoulders are fully extended. Repeat."
+        "comment": "Grasp the bar with a wide overhand grip. Pull the body up until the chin clears the bar. Lower until the arms and shoulders are fully extended. Repeat."
     },
     {
         "id": "B3E7A2F1-9D4C-4E8B-A1F6-7C2D3E4F5A6B",
@@ -713,7 +718,7 @@
         "primaryEquipment": "body",
         "secondaryEquipment": "assistMachine",
         "isFeatured": true,
-        "comment": "Step up and grasp bar with wide overhand grip. Kneel on padded platform and lower body down with arm extended. Pull body up until neck reaches height of hands. Lower body until arms and shoulders are fully extended. Repeat."
+        "comment": "Grasp the bar with a wide overhand grip and kneel on the padded assistance platform. Lower the body with the arms extended. Pull up until the neck reaches hand height. Lower until the arms and shoulders are fully extended. Repeat."
     },
     {
         "id": "1DD10769-0D96-4ABC-B036-D79AFCDF0719",
@@ -739,7 +744,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Position dumbbells to each side of shoulders with elbows below wrists. Press dumbbells upward until arms are extended overhead. Lower to sides of shoulders and repeat."
+        "comment": "Hold the dumbbells at each side of the shoulders with the elbows below the wrists. Press the dumbbells overhead until the arms are fully extended. Lower to the sides of the shoulders and repeat."
     },
     {
         "id": "1E4B0941-F875-4AD2-B465-4ACEA7300966",
@@ -764,7 +769,7 @@
         "tags": [],
         "primaryEquipment": "dumbbell",
         "isFeatured": true,
-        "comment": "Position one dumbbell over head with both hands under inner plate (heart shaped grip). With elbows over head, lower forearm behind upper arm by flexing elbows. Flex wrists at bottom to avoid hitting dumbbell on back of neck. Raise dumbbell over head by extending elbows while hyperextending wrists. Return and repeat."
+        "comment": "Hold a single dumbbell overhead with both hands cupped under the inner plate (heart-shaped grip). With the elbows pointing up, lower the forearms behind the upper arms by bending the elbows. Extend the wrists at the bottom to prevent the dumbbell catching the back of the neck. Raise the dumbbell back overhead by extending the elbows. Return and repeat."
     },
     {
         "id": "25475414-229D-44CA-BE3F-A7E6EF5280C8",
@@ -789,7 +794,7 @@
         "tags": [],
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Position lower back and hips under padded lever. Place forearms on supports. Position toes and balls of feet on calf block with arches and heels extending off. Straighten knees. Raise heels by extending ankles as high as possible. Lower heels by bending ankles until calves are stretched. Repeat."
+        "comment": "Position the lower back and hips beneath the padded lever and place the forearms on the supports. Place the toes and balls of the feet on the calf block with the heels and arches hanging off. Straighten the knees. Raise the heels by extending the ankles as high as possible, then lower until the calves are fully stretched. Repeat."
     },
     {
         "id": "2A2D51FD-1577-4C5B-A816-0A5C6DC0A75F",
@@ -815,7 +820,7 @@
         "tags": [],
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Position two dumbbells to sides, palms facing in, arms straight. With elbows to sides, raise one dumbbell until forearm is vertical and thumb faces shoulder. Lower to original position and repeat with alternative arm."
+        "comment": "Hold two dumbbells at the sides with the palms facing in and the arms straight. Keeping the elbows tucked in, curl one dumbbell up until the forearm is vertical and the thumb faces the shoulder. Lower to the starting position and repeat with the opposite arm. Continue alternating."
     },
     {
         "id": "2ABCE499-18BF-4D0D-A908-429569662E01",
@@ -840,7 +845,7 @@
         "secondaryMuscleGroup": "core",
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Stand with dumbbells grasped to sides. Lunge forward with first leg. Land on heel then forefoot. Lower body by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. Return to original standing position by forcibly extending hip and knee of forward leg. Repeat by alternating lunge with opposite leg."
+        "comment": "Stand holding dumbbells at the sides. Step forward into a lunge, landing on the heel then the ball of the foot. Lower the body by bending the front knee and hip until the rear knee is just above the floor. Drive through the front foot to return to standing. Alternate legs with each repetition."
     },
     {
         "id": "3A96C641-8728-46D9-8E68-933F7DFE6674",
@@ -865,7 +870,7 @@
         "tags": [],
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Grasp dumbbells in front of thighs with elbows slightly bent. Bend over slightly with hips and knees bent slightly. Raise upper arms to sides until slightly bent elbows are shoulder height while maintaining elbows' height above or equal to wrists. Lower and repeat."
+        "comment": "Hold the dumbbells in front of the thighs with the elbows slightly bent. Lean slightly forward from the hips and knees. Raise the arms to the sides until the elbows reach shoulder height, keeping the elbows at or above wrist level throughout. Lower and repeat."
     },
     {
         "id": "63F76814-8ECF-4516-8A66-23AA74D1AC98",
@@ -890,7 +895,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Stand with two dumbbells position in front of shoulders, palms facing body and elbows under wrists. Initiate movement by bringing elbows out to sides. Continue to raise elbows outward while pressing dumbbells overhead until arms are straight. Lower to front of shoulders in opposite pattern and repeat."
+        "comment": "Hold two dumbbells in front of the shoulders with the palms facing the body and elbows under the wrists. Begin by rotating the elbows out to the sides, then continue pressing the dumbbells overhead as the palms rotate to face forward. Lower back to the starting position in reverse and repeat."
     },
     {
         "id": "63F9579E-3DB6-4489-BFC0-597861ECF858",
@@ -914,7 +919,7 @@
         "tags": [],
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Position two dumbbells to sides, palms facing in, arms straight. With elbows to sides, raise one dumbbell and rotate forearm until forearm is vertical and palm faces shoulder. Lower to original position and repeat with opposite arm. Continue to alternate between sides."
+        "comment": "Hold two dumbbells at the sides with the palms facing in and the arms straight. Keeping the elbows tucked in, curl one dumbbell and rotate the forearm until it is vertical and the palm faces the shoulder. Lower to the starting position and repeat with the opposite arm. Continue alternating."
     },
     {
         "id": "6F8DA1FD-B1CE-4BE4-B157-6BD6359A1467",
@@ -939,7 +944,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "dumbbell",
         "isFeatured": true,
-        "comment": "Grasp cable stirrup. Step back away from pulley, with foot on same side as exercising arm, positioned out to side well behind forward foot. Bend over with hand on nearby bar or above knee for support. Keep back straight and knees slightly bent. Allow shoulder with stirrup to be pulled forward. Pull cable attachment to side of torso, pulling shoulder back. Return until arm is extended and shoulder is stretched forward. Repeat. Continue with opposite arm."
+        "comment": "Place one knee and the same-side hand on a flat bench for support, with the opposite foot planted on the floor. Pick up the dumbbell with the free hand, keeping the back flat and roughly parallel to the floor. Let the shoulder drop towards the floor. Row the dumbbell up to the side of the torso, retracting the shoulder blade at the top. Lower until the arm is fully extended and the shoulder is stretched downward. Repeat, then switch sides."
     },
     {
         "id": "8312A4B6-F0BA-4063-A2F4-06272F071EA1",
@@ -964,7 +969,7 @@
         "tags": [],
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Grasp dumbbells to each side. Bend knees and bend over through hips with back flat, close to horizontal. Position elbows with slight bend and palms facing together. Raise upper arms to sides until elbows are shoulder height. Maintain upper arms perpendicular to torso and fixed elbow position (10° to 30° angle) throughout exercise. Maintain height of elbows above wrists by raising \"pinkie finger\" side up. Lower and repeat."
+        "comment": "Hold the dumbbells at each side. Bend the knees and hinge forward at the hips until the back is flat and close to horizontal. Position the elbows with a slight bend and the palms facing each other. Raise the arms to the sides until the elbows reach shoulder height, keeping the upper arms perpendicular to the torso throughout. Lead with the little finger side to maintain elbow height above the wrists. Lower and repeat."
     },
     {
         "id": "AFA00CE7-E7CA-4610-BB63-34953AF1D084",
@@ -989,7 +994,7 @@
         "tags": [],
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Sit on edge of bench with feet placed beyond knees. Bend over and rest torso on thighs. Grasp dumbbells with each hand under legs. Position elbows with slight bend with palms facing together behind ankles (as shown) or just to sides of ankles. Raise upper arms to sides until elbows are shoulder height. Maintain upper arms perpendicular to torso and fixed elbow position (10° to 30° angle) throughout exercise. Maintain elbows height above wrists by raising \"pinkie finger\" side up. Lower and repeat."
+        "comment": "Sit on the edge of a bench with the feet planted slightly in front of the knees. Lean forward and rest the torso on the thighs. Grasp a dumbbell in each hand beneath the legs, with a slight bend in the elbows and the palms facing each other. Raise the arms to the sides until the elbows reach shoulder height, keeping the upper arms perpendicular to the torso throughout. Lead with the little finger side to maintain elbow height above the wrists. Lower and repeat."
     },
     {
         "id": "E8412249-AB19-4BBF-83D5-39899F0DBF85",
@@ -1015,7 +1020,7 @@
         "tertiaryMuscleGroup": "shoulders",
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Sit down on bench with dumbbells resting on lower thigh. Kick weights to shoulder and lie back. Position dumbbells to sides of chest with bent arm under each dumbbell. Press dumbbells up with elbows to sides until arms are extended. Lower weight to sides of chest until slight stretch is felt in chest or shoulder. Repeat."
+        "comment": "Sit on a flat bench with the dumbbells resting on the thighs. Use the thighs to drive the weights up to shoulder height as you lie back. Position the dumbbells to the sides of the chest. Press the dumbbells up until the arms are fully extended. Lower to the sides of the chest until a slight stretch is felt. Repeat."
     },
     {
         "id": "EAC2510D-52CE-4E9D-B3CB-4EF2BE36CD2C",
@@ -1039,7 +1044,7 @@
         "tags": [],
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Grasp dumbbells in both hands. Position dumbbells in front of upper legs with elbows straight or slightly bent. Raise dumbbells forward and upward until upper arms are above horizontal. Lower and repeat."
+        "comment": "Hold the dumbbells in front of the thighs with the elbows straight or slightly bent. Raise both dumbbells forward and upward until the upper arms are above horizontal. Lower under control and repeat."
     },
     {
         "id": "F86687B7-0F4E-4829-BB96-8E2B79BCA6BF",
@@ -1064,7 +1069,7 @@
         "tags": [],
         "primaryEquipment": "cable",
         "isFeatured": true,
-        "comment": "Grasp stirrup cable attachment. Stand facing with side of resting arm toward low pulley. Grasp ballet bar if available. With elbow slightly bent, raise arm to side away from low pulley until elbow is shoulder height. Lower and repeat. Continue with opposite arm."
+        "comment": "Attach a stirrup to a low cable pulley. Stand with the non-working side facing the pulley, holding the attachment in the hand furthest from the machine. Grasp a fixed support with the other hand if available. With a slight bend in the elbow, raise the working arm out to the side until the elbow reaches shoulder height. Lower and repeat, then switch sides."
     },
     {
         "id": "FBB9E51F-DB71-40D9-87E3-C4697F291D43",
@@ -1090,7 +1095,7 @@
         "tertiaryMuscleGroup": "shoulders",
         "primaryEquipment": "dumbbells",
         "isFeatured": true,
-        "comment": "Sit down on incline bench with dumbbells resting on lower thigh. Kick weights to shoulders and lean back. Position dumbbells to sides of chest with upper arm under each dumbbell. Press dumbbells up with elbows to sides until arms are extended. Lower weight to sides of upper chest until slight stretch is felt in chest or shoulder. Repeat."
+        "comment": "Sit on an incline bench with the dumbbells resting on the thighs. Use the thighs to drive the weights up to shoulder height as you lean back. Position the dumbbells to the sides of the upper chest. Press the dumbbells up until the arms are fully extended. Lower to the sides of the chest until a slight stretch is felt. Repeat."
     },
     {
         "id": "09E34F75-97FB-4332-94DD-63CA7C817F9B",
@@ -1108,11 +1113,13 @@
         "type": "strength",
         "measurement": "repetitions",
         "aliases": [
-            "cable crunch"
+            "cable crunch",
+            "cable kneeling crunch"
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "isFeatured": true
+        "isFeatured": true,
+        "comment": "Kneel below a high pulley. Grasp the rope attachment with both hands and place the wrists against the forehead. Push the hips back and allow the cable to extend the torso into a slight arch. With the hips stationary, curl the torso down by flexing the waist until the elbows travel towards the thighs. Return and repeat."
     },
     {
         "id": "1426BAE3-6F07-4096-88D0-81523D6C6993",
@@ -1136,7 +1143,7 @@
         "tags": [],
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Facing bench, stand between bench and lever pads. Lie prone on bench with knees just beyond edge of bench and lower legs under lever pads. Grasp handles. Raise lever pad to back of thighs by flexing knees. Lower lever pads until knees are straight. Repeat."
+        "comment": "Lie face down on the bench with the knees just beyond the edge and the lower legs positioned under the lever pads. Grasp the handles. Curl the legs up by flexing the knees until the pads reach the back of the thighs. Lower until the knees are straight. Repeat."
     },
     {
         "id": "3417A336-862C-47D8-B4B6-686359812D6B",
@@ -1162,7 +1169,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Bend knees slightly and bend over lever handles with back        straight. Grasp lever handles with shoulder width to wide overhand        grip.\r\npull lever up to torso. Return until arms are extended and        shoulders are stretched downward. Repeat."
+        "comment": "Bend the knees slightly and hinge forward over the handles with a flat back. Grasp the handles with a shoulder-width to wide overhand grip. Pull the bar up to the torso. Return until the arms are fully extended and the shoulders are stretched downward. Repeat."
     },
     {
         "id": "502FB37E-248D-4F06-9796-74BD2FB1B138",
@@ -1190,7 +1197,7 @@
         "secondaryMuscleGroup": "arms",
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Grasp cable bar with wide grip. Sit with thighs under supports. Pull down cable bar to upper chest. Return until arms and shoulders are fully extended. Repeat."
+        "comment": "Grasp the cable bar with a wide grip. Sit with the thighs secured under the supports. Pull the bar down to the upper chest. Return until the arms and shoulders are fully extended. Repeat."
     },
     {
         "id": "5A387ED0-3CAF-4256-B65E-B2D1EE651E67",
@@ -1214,7 +1221,7 @@
         "tags": [],
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Face high pulley and grasp cable attachment with narrow overhand grip. Position elbows to side. Extend arms down. Return until forearm is close to upper arm. Repeat."
+        "comment": "Stand facing the high pulley and grasp the cable attachment with a narrow overhand grip. Pin the elbows to the sides. Extend the arms downward until fully straight. Return until the forearms are close to the upper arms. Repeat."
     },
     {
         "id": "6A010270-54BC-4FB0-B219-65F46DAAE0E1",
@@ -1237,7 +1244,8 @@
         "tags": [],
         "secondaryMuscleGroup": "back",
         "primaryEquipment": "machine",
-        "isFeatured": true
+        "isFeatured": true,
+        "comment": "Set the cable machine with a rope attachment at approximately eye height. Grasp the rope with an overhand or neutral grip. Pull the rope towards the face, flaring the elbows high and out to the sides and separating the hands at the end of the movement. Return under control and repeat."
     },
     {
         "id": "7483C009-2BF4-48DB-AEF8-90ED92DD1106",
@@ -1261,7 +1269,7 @@
         "tags": [],
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Sit on machine with back on padded support. Place feet slightly high on platform. Extend hips and knees. Release dock lever and grasp handles to sides. Flex hips and knees to lower lever until hips are completely flexed. Push platform by extending knees and hips. Repeat."
+        "comment": "Sit on the machine with the back against the padded support. Place the feet slightly high on the platform. Extend the hips and knees, then release the dock lever and grasp the handles. Bend the hips and knees to lower the platform until the hips are fully flexed. Push the platform back up by extending the knees and hips. Repeat."
     },
     {
         "id": "80C0CA8A-0705-4B65-95CB-C5D01854AA76",
@@ -1285,7 +1293,7 @@
         "tags": [],
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Sit on seat with back on padded support. Place feet on platform. Grasp handles to sides and extend hips and knees. Place toes and balls of feet on lower portion of platform with heels and arches extending off. Push platform by extending ankles as far as possible. Return by bending ankles until calves are stretched. Repeat."
+        "comment": "Sit on the machine with the back against the padded support. Extend the hips and knees and grasp the handles to the sides. Place the toes and balls of the feet on the lower portion of the platform with the heels and arches hanging off. Push through the toes by extending the ankles as far as possible. Return by bending the ankles until the calves are fully stretched. Repeat."
     },
     {
         "id": "9177B785-95AF-41E4-BD58-026897971DC5",
@@ -1310,7 +1318,7 @@
         "tags": [],
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Place shoulders under padded lever. Position toes and balls of feet on calf block with arches and heels extending off. Grasp handles or sides of padded lever. Stand erect by extending hips and knees. Raise heels by extending ankles as high as possible. Lower heels by bending ankles until calves are stretched. Repeat."
+        "comment": "Position the shoulders under the padded lever. Place the toes and balls of the feet on the calf block with the heels and arches hanging off. Grasp the handles or sides of the lever. Stand upright by extending the hips and knees. Raise the heels by extending the ankles as high as possible, then lower until the calves are fully stretched. Repeat."
     },
     {
         "id": "99B24C66-4EB7-4DDB-9895-45AAA00BDB70",
@@ -1335,7 +1343,7 @@
         "tags": [],
         "primaryEquipment": "machine",
         "isFeatured": true,
-        "comment": "Sit on seat facing lever. Reach forward and pull hand lever toward body. Place forefeet on platform with heels extending off. Position lower thighs under lever pads. Release hand lever by pushing away from body. Place hands on top of thigh pads. Raise heels by extending ankles as high as possible. Lower heels by bending ankles until calves are stretched. Repeat."
+        "comment": "Sit on the seat facing the lever. Pull the hand lever towards the body to release it. Place the balls of the feet on the platform with the heels hanging off, then position the lower thighs under the lever pads. Push the hand lever away to engage. Place the hands on top of the thigh pads. Raise the heels by extending the ankles as high as possible, then lower until the calves are fully stretched. Repeat."
     },
     {
         "id": "B78059D9-48FB-4799-9E05-0799D098C880",
