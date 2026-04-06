@@ -1959,7 +1959,7 @@
         "position": "incline_bench",
         "grip": [],
         "laterality": "bilateral",
-        "benchAngle": 45,
+        "benchAngle": "45",
         "type": "strength",
         "measurement": "repetitions",
         "aliases": [
