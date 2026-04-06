@@ -4629,7 +4629,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Sit next to elevated surface, approximately arm pit height. With hand of upper arm, grasp unilaterally loaded dumbbell; pinkie positioned near weighted side. Bend elbow approximately 90-degrees and place upperarm on elevated surface. Position thumb upward (supinated). Rotate dumbbell so thumb turns downward (pronation). Return and repeat.",
+        "comment": "Sit next to a surface at approximately armpit height. Grasp a unilaterally loaded dumbbell with the little finger positioned near the weighted side. Bend the elbow to approximately 90° and place the upper arm on the surface. Begin with the thumb facing upward (supinated). Rotate the dumbbell until the thumb faces downward (pronation). Return and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_seated_pronation"
     },
@@ -4651,7 +4651,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat. Grasp rotating handles with underhand grip on each side and place forearms on pads. Rotate shafts by turning palm downward. Return and repeat.",
+        "comment": "Sit on the seat. Grasp the rotating handles with an underhand grip on each side and place the forearms on the pads. Rotate the shafts by turning the palms downward. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_seated_forearm_pronation"
     },
@@ -4673,7 +4673,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Sit next to elevated surface, approximately arm pit height. With hand of arm next to elevated surface, grasp unilaterally loaded dumbbell; thumb next to side with weight. Bend elbow approximately 90-degrees and place upperarm on elevated surface. Position thumb downward (pronated). Rotate dumbbell so thumb turns upward (supination). Return and repeat.",
+        "comment": "Sit next to a surface at approximately armpit height. Grasp a unilaterally loaded dumbbell with the thumb next to the weighted side. Bend the elbow to approximately 90° and place the upper arm on the surface. Begin with the thumb facing downward (pronated). Rotate the dumbbell until the thumb faces upward (supination). Return and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_seated_supination"
     },
@@ -4695,7 +4695,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat. Grasp rotating handles with overhand grip on each side and place forearms on pads. Rotate shafts by turning palm upward. Return and repeat.",
+        "comment": "Sit on the seat. Grasp the rotating handles with an overhand grip on each side and place the forearms on the pads. Rotate the shafts by turning the palms upward. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_forearm_supination"
     },
@@ -4717,7 +4717,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Bend knees slightly and bend over bar with back straight. Grasp bar with underhand grip. Pull bar to waist. Return until arms are extended and shoulders are stretched downward. Repeat.",
+        "comment": "Bend the knees slightly and hinge forward over the bar, keeping the back straight. Grasp the bar with an underhand grip. Pull the bar to the waist. Return until the arms are extended and the shoulders are stretched downward. Repeat.",
         "isFeatured": false,
         "translationKey": "barbell_underhand_bent_over_row"
     },
@@ -4739,7 +4739,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit on seat or bench. Bend forward and grasp cable stirrup with one hand. Position torso upright allowing shoulder to be pulled forward under weight on cable. Pull cable attachment to side of torso while pulling shoulder back, arching spine, and pushing chest forward. Return until arm is extended and shoulder is pulled forward. Repeat. Continue with opposite arm.",
+        "comment": "Sit on a bench and grasp a cable stirrup with one hand. Sit upright and allow the shoulder to be drawn forward by the cable. Pull the stirrup to the side of the torso while pulling the shoulder back, arching the back, and lifting the chest. Return until the arm is extended and the shoulder is drawn forward. Repeat, then switch arms.",
         "isFeatured": false,
         "translationKey": "cable_one_arm_straight_back_seated_high_row"
     },
@@ -4762,7 +4762,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit slightly forward on bench with feet on foot bar or vertical platform. Grasp close grip cable attachment. Straighten torso   upright and slide hips back so knees are slightly bent. Pull cable attachment to waist. Pull shoulders back and lift chest by arching back. Return until arms are extended, back is straight, and shoulders are stretched forward. Repeat.",
+        "comment": "Sit slightly forward on the bench with the feet on the foot bar or vertical platform. Grasp the close-grip cable attachment. Straighten the torso upright and slide the hips back so the knees are slightly bent. Pull the attachment to the waist. Pull the shoulders back and lift the chest by arching the back. Return until the arms are extended, the back is straight, and the shoulders are stretched forward. Repeat.",
         "isFeatured": true,
         "translationKey": "cable_straight_back_seated_row"
     },
@@ -4784,7 +4784,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit slightly forward on platform in order to grasp cable attachment with wider than shoulder width grip. Place feet on vertical platform and slide hips back positioning knees with slight bend. Pull cable attachment to waist while pulling torso upright.   pull shoulders back and push chest forward while arching back. Return until arms are extended, shoulders are stretched forward, and lower back is flexed forward. Repeat.",
+        "comment": "Sit slightly forward on the platform and grasp the cable attachment with a wider than shoulder-width grip. Place the feet on the vertical platform and slide the hips back with the knees slightly bent. Pull the attachment to the waist while straightening the torso upright. Pull the shoulders back and push the chest forward, arching the back. Return until the arms are extended, the shoulders are stretched forward, and the lower back is flexed forward. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_wide_grip_seated_row"
     },
@@ -4806,7 +4806,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit slightly forward on bench or platform in order to grasp cable bar attachment with wider than shoulder width overhand grip. Place feet on vertical platform. With torso upright, slide hips back positioning knees with slight bend. Pull cable attachment to waist. Pull shoulders back and lift chest by arching back. Return until arms are extended, back is straight, and shoulders are stretched forward. Repeat.",
+        "comment": "Sit slightly forward on the bench or platform and grasp the cable bar with a wider than shoulder-width overhand grip. Place the feet on the vertical platform. With the torso upright, slide the hips back with the knees slightly bent. Pull the bar to the waist. Pull the shoulders back and lift the chest by arching the back. Return until the arms are extended, the back is straight, and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_wide_grip_straight_back_seated_row"
     },
@@ -4828,7 +4828,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Kneel over side of bench by placing knee and hand of supporting arm on bench. Position foot of opposite leg slightly back to side. Grasp dumbbell from floor. Pull dumbbell to up to side until it makes contact with ribs or until upper arm is just beyond horizontal. Return until arm is extended and shoulder is stretched downward. Repeat and continue with opposite arm.",
+        "comment": "Kneel over the side of a bench, placing one knee and hand on the bench for support. Place the opposite foot slightly back to the side. Grasp a dumbbell from the floor. Pull the dumbbell up to the side until it makes contact with the ribs or until the upper arm is just beyond horizontal. Lower until the arm is extended and the shoulder is stretched downward. Repeat, then switch sides.",
         "isFeatured": false,
         "translationKey": "dumbbell_bent_over_row"
     },
@@ -4850,7 +4850,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Lie chest down on elevated bench. Grasp dumbbells below. Pull dumbbells up to sides. Arch thoracic spine, pull shoulder blades back, and continue to pull until upper arms are just beyond height of back. Return until arms are extended and shoulders are stretched downward. Repeat.",
+        "comment": "Lie face down on an elevated bench. Grasp the dumbbells hanging below. Pull the dumbbells up to the sides, arching the upper back and retracting the shoulder blades, until the upper arms are just beyond the height of the back. Return until the arms are extended and the shoulders are stretched downward. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_lying_row"
     },
@@ -4872,7 +4872,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie prone on inclined platform and place feet on foot rest. Grasp angled handles and lift lever out of support rack. Position lever directly under body with arms extended down. Pull lever up. As lever approaches, hyperextend thoracic spine and squeeze shoulders back. Lower lever until arms are extended and shoulders are pulled downward. Repeat.",
+        "comment": "Lie prone on the inclined platform and place the feet on the foot rest. Grasp the angled handles and lift the lever from the support rack, with the arms extended. Pull the lever upward. As it approaches, arch the upper back and retract the shoulders. Lower until the arms are extended and the shoulders are stretched downward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_neutral_grip_incline_row_plate_loaded"
     },
@@ -4894,7 +4894,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie prone on inclined platform and place feet on foot rest. Grasp wide handles and lift lever out of support rack. Position lever directly under body with arms extended down. Pull lever up. As lever approaches, hyperextend thoracic spine and squeeze shoulders back. Lower lever until arms are extended and shoulders are pulled downward. Repeat.",
+        "comment": "Lie prone on the inclined platform and place the feet on the foot rest. Grasp the wide handles and lift the lever from the support rack, with the arms extended. Pull the lever upward. As it approaches, arch the upper back and retract the shoulders. Lower until the arms are extended and the shoulders are stretched downward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_wide_grip_incline_row_plate_loaded"
     },
@@ -4916,7 +4916,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp lever handles with underhand grip. Pull levers back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the lever handles with an underhand grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_narrow_grip_seated_row_plate_loaded"
     },
@@ -4938,7 +4938,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp lever handles with overhand grip. Pull lever back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the lever handles with an overhand grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_seated_high_row_plate_loaded"
     },
@@ -4960,7 +4960,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp lever handles with overhand/neutral grip. Pull levers back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the lever handles with an overhand or neutral grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_seated_low_row_plate_loaded"
     },
@@ -4982,7 +4982,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp lever handles with underhand grip. Pull levers back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the lever handles with an underhand grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_wide_grip_seated_row_high_bar_plate_loaded"
     },
@@ -5004,7 +5004,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp lever handles with underhand grip. Pull levers back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the lever handles with an underhand grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_wide_grip_seated_row_plate_loaded"
     },
@@ -5026,7 +5026,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Bend knees slightly and bend over lever handles with back straight. Grasp narrow grip parallel lever handles. Pull handles up to waist. Return until arms are extended and shoulders are stretched downward. Repeat.",
+        "comment": "Bend the knees slightly and hinge forward over the handles, keeping the back straight. Grasp the narrow parallel grip handles. Pull the handles up to the waist. Return until the arms are extended and the shoulders are stretched downward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_close_grip_t_bar_row_plate_loaded"
     },
@@ -5048,7 +5048,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp lever handles with overhand grip. Pull lever back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the lever handles with an overhand grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_seated_high_row"
     },
@@ -5070,7 +5070,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Push foot lever if available. Grasp narrower parallel grip handles. Pull lever back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Engage the foot lever if available. Grasp the narrow parallel grip handles. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_row"
     },
@@ -5092,7 +5092,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp outer lever handles with overhand grip. Pull lever back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the outer lever handles with an overhand grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_wide_grip_seated_row"
     },
@@ -5114,7 +5114,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and grasp handles with each hand. Place feet on vertically angled platform. Slide hips back with knees slightly bent. Pull handles to waist while straightening torso upright. Pull shoulders back and push chest forward while arching back. Return until arms are extended, shoulders are stretched forward, and lower back is flexed forward. Repeat.",
+        "comment": "Sit on the seat and grasp the handles. Place the feet on the vertically angled platform. Slide the hips back with the knees slightly bent. Pull the handles to the waist while straightening the torso upright. Pull the shoulders back and push the chest forward, arching the back. Return until the arms are extended, the shoulders are stretched forward, and the lower back is flexed forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_row_no_chest_pad"
     },
@@ -5136,7 +5136,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with feet positioned on foot bar or platform.        Grasp handles with each hand. Position torso upright with knees        bent slightly.\r\npull handles to body. Pull shoulders back and lift chest        by arching back. Return until arms are extended, back is straight,        and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat with the feet on the foot bar or platform. Grasp the handles and position the torso upright with the knees slightly bent. Pull the handles to the body. Pull the shoulders back and lift the chest by arching the back. Return until the arms are extended, the back is straight, and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_straight_back_seated_row_no_chest_pad"
     },
@@ -5158,7 +5158,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and position chest against pad. Grasp lever handles with underhand grip. Pull levers back until elbows are behind back and shoulders are pulled back. Return until arms are extended and shoulders are stretched forward. Repeat.",
+        "comment": "Sit on the seat and position the chest against the pad. Grasp the lever handles with an underhand grip. Pull the levers back until the elbows are behind the back and the shoulders are retracted. Return until the arms are extended and the shoulders are stretched forward. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_underhand_seated_row"
     },
@@ -5180,7 +5180,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Bend knees slightly and bend over bar with back straight.        Grasp bar with wide overhand grip. Disengage bar by rotating        bar back.\r\npull bar to upper waist. Return until arms are extended and        shoulders are stretched downward. Repeat.",
+        "comment": "Bend the knees slightly and hinge forward over the bar, keeping the back straight. Grasp the bar with a wide overhand grip. Unrack the bar by rotating it back. Pull the bar to the upper waist. Return until the arms are extended and the shoulders are stretched downward. Rack the bar and repeat.",
         "isFeatured": false,
         "translationKey": "smith_bent_over_row"
     },
@@ -5202,7 +5202,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Step up and grasp bar with underhand shoulder width grip. Kneel onto platform or step onto bar. Pull body up until elbows are to sides. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Step up and grasp the bar with a shoulder-width underhand grip. Kneel onto the platform. Pull the body up until the elbows are at the sides. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_chin_up"
     },
@@ -5224,7 +5224,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Step up and grasp bar with wide overhand grip. Step down onto assistance lever or platform. Pull body up until neck reaches height of hands. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Step up and grasp the bar with a wide overhand grip. Step down onto the assistance platform. Pull the body up until the chin reaches the level of the bar. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_pull_up_open_centered_bar_standing"
     },
@@ -5246,7 +5246,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Step up and grasp parallel grips. Kneel on padded platform and lower body down with arm extended. Pull body up until elbows are to sides. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Step up and grasp the parallel grips. Kneel on the padded platform with the arms extended. Pull the body up until the elbows are at the sides. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_parallel_close_grip_pull_up"
     },
@@ -5268,7 +5268,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Lie upper back perpendicular on bench. Flex hips slightly. Grasp barbell from behind and position over chest with elbows bent slightly. With elbows bent slightly, lower bar over and beyond head until shoulders are fully flexed or upper arms are approximately parallel to torso. Return and repeat.",
+        "comment": "Lie with the upper back across the bench, hips flexed slightly. Grasp the barbell and hold it above the chest with the elbows slightly bent. Lower the bar over and beyond the head until the shoulders are fully flexed or the upper arms are parallel to the torso. Return and repeat.",
         "isFeatured": false,
         "translationKey": "barbell_pullover"
     },
@@ -5291,7 +5291,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Face high pulley and grasp revolving cable attachment with arm slightly bent. Place one foot slightly back and bend over at hip until shoulder is fully flexed (upper arms at sides of head). With elbows fixed approximately 30°, pull cable attachment down until upper arms are to sides. Return attachment overhead. Repeat.",
+        "comment": "Face the high pulley and grasp the revolving cable attachment with the arms slightly bent. Place one foot slightly back and hinge forward at the hip until the shoulders are fully flexed (upper arms alongside the head). With the elbows fixed at approximately 30°, pull the attachment down until the upper arms are at the sides. Return overhead and repeat.",
         "isFeatured": true,
         "translationKey": "cable_bent_over_pullover"
     },
@@ -5313,7 +5313,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp parallel cable attachment. Sit with thighs under supports. Pull down cable attachment to upper chest. Return until arms and shoulders are fully extended. Repeat.",
+        "comment": "Grasp the parallel cable attachment. Sit with the thighs under the supports. Pull the attachment down to the upper chest. Return until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_parallel_grip_pulldown"
     },
@@ -5335,7 +5335,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Place dip belt around waist. Kneel close to low pulley or lever and attach hook to dip belt chains. Step up and grasp bars with shoulder width underhand grip. Lift legs off of steps or floor. Pull body up until elbow are to sides. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Put on a dip belt and kneel close to the low pulley, attaching the hook to the belt. Step up and grasp the bar with a shoulder-width underhand grip. Lift the legs off the steps. Pull the body up until the elbows are at the sides. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_chin_up"
     },
@@ -5357,7 +5357,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Place dip belt around waist. Kneel as close as possible to low pulley or lever and attach hook to dip belt in front between legs. Step up and grasp close grip p   arallel bars with hands facing inward. Lift legs off of steps or floor. Pull body up until elbow are to sides. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Put on a dip belt and kneel close to the low pulley, attaching the hook to the belt between the legs. Step up and grasp the close-grip parallel bars with the hands facing inward. Lift the legs off the steps. Pull the body up until the elbows are at the sides. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_parallel_close_grip_pull_up"
     },
@@ -5379,7 +5379,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Place dip belt around waist. Kneel as close as possible to low pulley or lever and attach hook to dip belt in front between legs. Step up and grasp parallel bars with hands facing inward. Lift legs off of steps or floor. Pull body up until elbow are to sides. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Put on a dip belt and kneel close to the low pulley, attaching the hook to the belt between the legs. Step up and grasp the parallel bars with the hands facing inward. Lift the legs off the steps. Pull the body up until the elbows are at the sides. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_parallel_grip_pull_up"
     },
@@ -5401,7 +5401,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Place dip belt around waist. Kneel close to low pulley or lever and attach hook to dip belt. Step up and grasp bars with overhand wide grip. Lift legs off of steps or floor. Pull body up until chin is above bar. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Put on a dip belt and kneel close to the low pulley, attaching the hook to the belt. Step up and grasp the bar with a wide overhand grip. Lift the legs off the steps. Pull the body up until the chin is above the bar. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_pull_up"
     },
@@ -5423,7 +5423,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp cable bar with underhand grip. Sit with thighs under supports. Pull down cable bar to upper chest until elbows are to sides. Return until arms and shoulders are fully extended. Repeat.",
+        "comment": "Grasp the cable bar with an underhand grip. Sit with the thighs under the supports. Pull the bar down to the upper chest until the elbows are at the sides. Return until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_underhand_pulldown"
     },
@@ -5445,7 +5445,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Grasp lever handles with underhand grip. Sit with thighs under supports. Pull down lever handles toward sides until elbows are to sides. Return until arms and shoulders are fully extended. Repeat.",
+        "comment": "Grasp the lever handles with an underhand grip. Sit with the thighs under the supports. Pull the handles down to the sides until the elbows are at the sides. Return until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_underhand_pulldown_plate_loaded"
     },
@@ -5467,7 +5467,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Grasp parallel lever bars. Sit with thighs under supports. Pull down handles to sides of chest while leaning back slightly. Return until arms and shoulders are fully extended. Repeat.",
+        "comment": "Grasp the parallel lever handles. Sit with the thighs under the supports. Pull the handles down to the sides of the chest while leaning back slightly. Return until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_close_grip_pulldown"
     },
@@ -5489,7 +5489,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Grasp lever handles. Sit with thighs under supports. Pull down lever to upper chest. Return until arms and shoulders are fully extended. Repeat.",
+        "comment": "Grasp the lever handles. Sit with the thighs under the supports. Pull the lever down to the upper chest. Return until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_front_pulldown"
     },
@@ -5511,7 +5511,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat. Reach up and grasp handles with wide overhand grip. Pull levers down to sides of shoulders. Return until arms and shoulders are fully extended. Repeat.",
+        "comment": "Sit on the seat. Reach up and grasp the handles with a wide overhand grip. Pull the levers down to the sides of the shoulders. Return until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_pulldown"
     },
@@ -5533,7 +5533,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Adjust seat height so lever is near shoulder axis. Sit on machine and push foot lever. Place elbows on pads and grasp bar from behind. Release foot lever and place feet on platform or to sides. Pull lever forward and down until elbows are to sides. Return until shoulders are fully flexed, or upper arms are parallel to torso. Repeat.",
+        "comment": "Adjust the seat height so the lever is near the shoulder axis. Sit on the machine and engage the foot lever. Place the elbows on the pads and grasp the bar from behind. Release the foot lever and place the feet on the platform or to the sides. Pull the lever forward and down until the elbows are at the sides. Return until the shoulders are fully flexed or the upper arms are parallel to the torso. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_pullover"
     },
@@ -5555,7 +5555,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Step up and grasp close grip parallel bars. Pull body up until elbow are to sides. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Step up and grasp the close-grip parallel bars. Pull the body up until the elbows are at the sides. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_parallel_close_grip_pull_up"
     },
@@ -5577,7 +5577,7 @@
         ],
         "tags": [],
         "primaryEquipment": "other",
-        "comment": "Loop either one band on center of bar as shown or two bands on each side of bar. Grab each side of hanging exercise band with both hands. Stretch exercise band down and step onto bottom inside of band with one foot. Stretch band down further by extending leg straight down. If second band is used, pull down and step into the other band. Reach up and grasp bar with overhand wide grip while keeping banded leg(s) straight. Pull body up to one side while keeping far arm extended or only slightly bent. Point elbow forward and downward while pulling body toward pulling hand. As chin approaches and rises above pulling hand, position extended arm by pointing elbow back while extending hand over top of bar. Lower body by extending bent arm while keeping extended arm straight and reestablishing grip on bar. When hanging from bar with both arms extended, repeat movement to opposite side. Continue alternating movement between sides.",
+        "comment": "Loop one band on the centre of the bar, or two bands on each side. Grasp each side of the hanging band with both hands. Stretch the band down and step onto the inside of the loop with one foot, extending the leg to hold the band taut. If a second band is used, repeat on the other foot. Reach up and grasp the bar with a wide overhand grip, keeping the banded leg(s) straight. Pull the body up to one side while keeping the far arm extended or only slightly bent. Point the elbow forward and downward while pulling towards the pulling hand. As the chin rises above the pulling hand, point the elbow of the extended arm back and extend the hand over the top of the bar. Lower by extending the bent arm while keeping the extended arm straight and re-establishing the grip. Return to a dead hang and repeat to the other side, alternating.",
         "isFeatured": false,
         "translationKey": "band_assisted_archer_pull_up"
     },
@@ -5599,7 +5599,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Step up and grasp bar with overhand wide grip. Pull body up to one side while keeping far arm extended or only slightly bent. Point elbow forward and downward while pulling body toward pulling hand. As chin approaches and rises above pulling hand, position extended arm by pointing elbow back while extending hand over top of bar. Lower body by extending bent arm while keeping extended arm straight and reestablishing grip on bar. When hanging from bar with both arms extended, repeat movement to opposite side. Continue alternating movement between sides.",
+        "comment": "Step up and grasp the bar with a wide overhand grip. Pull the body up to one side while keeping the far arm extended or only slightly bent. Point the elbow forward and downward while pulling towards the pulling hand. As the chin rises above the pulling hand, point the elbow of the extended arm back and extend the hand over the top of the bar. Lower by extending the bent arm while keeping the extended arm straight and re-establishing the grip. Return to a dead hang and repeat to the other side, alternating.",
         "isFeatured": false,
         "translationKey": "archer_pull_up"
     },
@@ -5621,7 +5621,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Stand under bar with shoulder positioned 45° relative to bar angled toward working arm. Grasp bar with one hand using overhand shoulder width grip. Place other arm to side. Pull body up while turning shoulders inward perpendicular to bar. Elbow travels forward then down to navel while head is raised above bar on same side of bar as working arm. Near top of pull, shoulder of resting arm is pulled toward bar. Lower body until arm is fully extended in original starting position. Repeat.",
+        "comment": "Stand under the bar with the working shoulder positioned at 45° to the bar. Grasp the bar with one hand using a shoulder-width overhand grip and place the other arm to the side. Pull the body up while rotating the shoulders perpendicular to the bar. The elbow travels forward then down towards the navel while the head rises above the bar on the working side. Near the top, the shoulder of the resting arm is drawn towards the bar. Lower until the arm is fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "one_arm_pull_up"
     },
@@ -5643,7 +5643,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Step up and grasp bar with underhand shoulder width grip. Bend knees so partner can assist from behind. Pull body up until elbows are to sides or chin is just above bar. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Step up and grasp the bar with a shoulder-width underhand grip. Bend the knees so a partner can assist from behind. Pull the body up until the elbows are at the sides or the chin is just above the bar. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "partner_assisted_chin_up"
     },
@@ -5665,7 +5665,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Step up and grasp bar with wide overhand grip. Bend knees so partner can assist from behind. Pull body up until chin is just above bar. Lower body until arms and shoulders are fully extended. Repeat.",
+        "comment": "Step up and grasp the bar with a wide overhand grip. Bend the knees so a partner can assist from behind. Pull the body up until the chin is just above the bar. Lower until the arms and shoulders are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "partner_assisted_pull_up"
     },
@@ -5687,7 +5687,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Step into trap barbell and stand holding handles of trap bar to sides. Elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Step into the trap bar and stand holding the handles at the sides. Raise the shoulders as high as possible. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "trap_bar_shrug"
     },
@@ -5709,7 +5709,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand facing low pulley and grasp cable bar with shoulder width or slightly wider overhand grip. Stand close to pulley. With arms straight, elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Stand facing the low pulley and grasp the cable bar with a shoulder-width or slightly wider overhand grip. Stand close to the pulley. With the arms straight, raise the shoulders as high as possible. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "cable_shrug"
     },
