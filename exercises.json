@@ -2428,7 +2428,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": " execution\r\npush head into mat and hold position. Relax and repeat.",
+        "comment": "Lie on the back on a mat. Gently press the back of the head into the mat. Hold the position briefly, then release and repeat.",
         "isFeatured": false,
         "translationKey": "lying_neck_retraction_isometric"
     },
@@ -2450,7 +2450,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Grasp barbell with overhand grip with elbows straight or slightly bent. Raise barbell forward and upward until upper arms are above horizontal. Lower and repeat.",
+        "comment": "Grasp the barbell with an overhand grip, with the elbows straight or slightly bent. Raise the barbell forward and upward until the upper arms are above horizontal. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "barbell_front_raise"
     },
@@ -2472,7 +2472,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit on seat above twin cable pulleys. Grasp stirrups on each side. Sit upright with arms straight down to each side with palms facing back. Raise stirrups forward and upward until upper arms are well above horizontal. Lower and repeat.",
+        "comment": "Sit on the seat above the twin cable pulleys. Grasp the stirrups on each side. Sit upright with the arms hanging straight down to each side, palms facing back. Raise the stirrups forward and upward until the upper arms are well above horizontal. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_seated_front_raise"
     },
@@ -2494,7 +2494,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand with low double pulleys behind. Grasp stirrup attachments, one in each hand. Stand away from pulley slightly with arms back somewhat at side and elbows straight or slightly bent. Raise one stirrup forward and upward until upper arm is well above horizontal. Lower and repeat with opposite arm, alternating between arms.",
+        "comment": "Stand facing away from two low cable pulleys with a stirrup in each hand. Step forward slightly so the arms hang back at the sides, elbows straight or slightly bent. Raise one arm forward and upward until well above horizontal. Lower and repeat with the opposite arm, alternating throughout.",
         "isFeatured": false,
         "translationKey": "cable_alternating_isolateral_front_raise"
     },
@@ -2516,7 +2516,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp stirrup attachment. Stand away from pulley slightly with arm back somewhat at side and elbow straight or slightly bent. Raise stirrup forward and upward until upper arm is well above horizontal. Lower and repeat. Repeat with opposite arm.",
+        "comment": "Attach a stirrup to a low cable pulley. Stand facing away from the pulley with the arm back at the side, elbow straight or slightly bent. Raise the arm forward and upward until well above horizontal. Lower and repeat. Switch arms and continue.",
         "isFeatured": false,
         "translationKey": "cable_one_arm_front_raise"
     },
@@ -2538,7 +2538,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two low to medium height pulleys. Grasp cable stirrups from each side. Position stirrups to each side of shoulders with elbows down to sides and stirrups above or slightly narrower than elbows. Push stirrups upward until arms are extended overhead. Return stirrups to sides of shoulders and repeat.",
+        "comment": "Stand between two low to mid-height cable pulleys. Grasp the stirrups on each side and position them at shoulder height with the elbows down and hands just above or slightly inside the elbows. Press the stirrups overhead until the arms are fully extended. Return to the sides of the shoulders and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_standing_shoulder_press"
     },
@@ -2560,7 +2560,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit on seat and grasp stirrups from low to medium low position from each side. Position stirrups to each side of shoulders with elbows down to sides and stirrups above or slightly narrower than elbows. Push stirrups upward until arms are extended overhead. Return stirrups to sides of shoulders and repeat.",
+        "comment": "Sit on a seat and grasp the stirrups on each side from a low position. Position the stirrups at shoulder height with the elbows down and hands just above or slightly inside the elbows. Press the stirrups overhead until the arms are fully extended. Return to the sides of the shoulders and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_shoulder_press"
     },
@@ -2582,7 +2582,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Stand with two dumbbells position in front of shoulders, palms facing body and elbows under wrists. Initiate movement by bringing elbows out to sides. Continue to raise elbows outward while pressing dumbbells overhead until arms are straight. Lower to front of shoulders in opposite pattern and repeat.",
+        "comment": "Hold two dumbbells in front of the shoulders with the palms facing the body and elbows under the wrists. Begin by rotating the elbows out to the sides, then continue pressing the dumbbells overhead as the palms rotate to face forward. Lower back to the starting position in reverse and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_arnold_press"
     },
@@ -2604,7 +2604,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Grasp dumbbells in both hands. Position dumbbells in front of upper legs with elbows straight or slightly bent. Raise one dumbbell forward and upward with palms positioned downward until upper arm is above horizontal. Lower and repeat with opposite arm, alternating between arms.",
+        "comment": "Hold the dumbbells in front of the thighs with the elbows straight or slightly bent. Raise one dumbbell forward and upward, palm facing down, until the upper arm is above horizontal. Lower and repeat with the opposite arm. Continue alternating.",
         "isFeatured": false,
         "translationKey": "dumbbell_alternating_front_raise"
     },
@@ -2626,7 +2626,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Stand with dumbbell positioned near shoulder with elbow below wrist. Press dumbbell upward until arm is extended overhead. Lower to side of shoulder and repeat.",
+        "comment": "Hold a dumbbell at the shoulder with the elbow below the wrist. Press the dumbbell overhead until the arm is fully extended. Lower to the side of the shoulder and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_one_arm_shoulder_press"
     },
@@ -2648,7 +2648,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Set and grasp lever handles to each side with overhand grip. Press lever until arms are extended upward. Lower and repeat.",
+        "comment": "Sit in the machine and grasp the lever handles on each side with an overhand grip. Press the handles upward until the arms are fully extended. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_military_press_plate_loaded"
     },
@@ -2670,7 +2670,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie on back pad facing up. Grasp lever handles on each side with overhand grip. Press lever until arms are extended. Lower and repeat.",
+        "comment": "Lie back on the padded support facing upward. Grasp the lever handles on each side with an overhand grip. Press until the arms are fully extended. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "lever_reclined_shoulder_press_plate_loaded"
     },
@@ -2692,7 +2692,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Set and grasp lever handles to each side with overhand grip. Press lever upward until arms are extended overhead. Lower and repeat.",
+        "comment": "Sit in the machine and grasp the lever handles on each side with an overhand grip. Press the handles overhead until the arms are fully extended. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_shoulder_press_plate_loaded"
     },
@@ -2714,7 +2714,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie on back pad facing up. Grasp lever handles to each side with overhand grip. Press lever until arms are extended. Lower and repeat.",
+        "comment": "Lie back on the padded support facing upward. Grasp the lever handles on each side with an overhand grip. Press until the arms are fully extended. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "lever_reclined_shoulder_press"
     },
@@ -2736,9 +2736,9 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "",
         "isFeatured": false,
-        "translationKey": "lever_shoulder_press_parallel_grip"
+        "translationKey": "lever_shoulder_press_parallel_grip",
+        "comment": "Sit on the machine and grasp the parallel bar handles at shoulder height on each side. Press the levers overhead until the arms are fully extended. Lower and repeat."
     },
     {
         "id": "32D5F708-0F9C-47CD-8396-E317C9A39F86",
@@ -2758,7 +2758,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Set and grasp lever handles to each side with overhand grip. Press handles upward until arms are extended overhead. Lower and repeat.",
+        "comment": "Grasp the lever handles on each side with an overhand grip. Press the handles overhead until the arms are fully extended. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "sled_shoulder_press"
     },
@@ -2780,7 +2780,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on bench with bar positioned in front of shoulders. Grasp bar with wide overhand grip. Disengage bar by raising and rotating bar back. Press bar upward until arms are extended overhead. Lower bar to front of shoulders and repeat.",
+        "comment": "Sit on a bench with the bar positioned in front of the shoulders. Grasp the bar with a wide overhand grip. Disengage by raising and rotating the bar back. Press the bar overhead until the arms are fully extended. Lower to the front of the shoulders and repeat.",
         "isFeatured": false,
         "translationKey": "smith_shoulder_press"
     },
@@ -2802,7 +2802,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp suspension handles and momentarily step back until arms are extended forward and straight. While keeping arms straight and shoulders back, step forward so body reclines back behind suspension handles. Position body and legs straight at desired angle, hanging from handles with arms straight and palms facing downward. Raise arms upward overhead by flexing shoulders with arms straight. Return and lower body back until arms are extended straight forward in original position. Repeat.",
+        "comment": "Grasp the suspension handles and step back until the arms are fully extended in front. Keeping the arms straight and shoulders back, step forward to recline the body to the desired angle. With the palms facing down and body straight, raise the arms overhead by flexing at the shoulders. Return to the starting position and repeat.",
         "isFeatured": false,
         "translationKey": "suspended_front_raise"
     },
@@ -2824,7 +2824,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp cable bar with shoulder width or slightly narrower overhand grip. Stand close to pulley. Pull bar to neck with elbows leading. Allow wrists to flex as bar rises. Lower and repeat.",
+        "comment": "Grasp the cable bar with a shoulder-width or slightly narrower overhand grip. Stand close to the pulley. Pull the bar up towards the chin with the elbows leading. Allow the wrists to flex as the bar rises. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "cable_upright_row"
     },
@@ -2846,7 +2846,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp stirrup on low pulley with overhand grip. Stand with side of arm with stirrup away from pulley machine, arm against front of body. Place other hand on ballet bar or side of pulley column for support. Pull stirrup to front side of chest with elbow leading. Allow wrist to flex as stirrup is lifted. Lower and repeat. position body in opposite orientation and continue with other arm.",
+        "comment": "Attach a stirrup to a low cable pulley. Stand sideways to the machine with the working arm on the far side. Grasp the stirrup with an overhand grip. Place the other hand on the machine column or a fixed support for stability. Pull the stirrup up towards the front of the shoulder with the elbow leading. Allow the wrist to flex as it rises. Lower and repeat, then switch sides.",
         "isFeatured": false,
         "translationKey": "cable_one_arm_upright_row"
     },
@@ -2868,7 +2868,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp each side of rope with overhand grip, just under rope ends. Stand close to pulley. Pull rope ends to front of shoulders with elbows leading. Allow wrists to flex as stirrups are lifted. Lower and repeat.",
+        "comment": "Grasp the rope close to each end with an overhand grip. Stand close to the pulley. Pull the rope up towards the front of the shoulders with the elbows leading. Allow the wrists to flex as the rope rises. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "cable_upright_row_with_rope_attachment"
     },
@@ -2890,7 +2890,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand facing between low pulleys medium width apart, grasp left stirrup with right hand and right stirrup with left hand. Step back slightly away from pulleys and stand upright with cables crossed in front of hips. With elbows slightly bent, raise arms upward and outward to sides in y configuration until elbows are approximately lateral to each ear. Lower stirrups forward and downward in reverse pattern. Repeat.",
+        "comment": "Stand between two low cable pulleys set medium-width apart. Grasp the left stirrup with the right hand and the right stirrup with the left, crossing the cables in front of the hips. Step back slightly and stand upright. With the elbows slightly bent, raise both arms upward and out to the sides in a Y shape until the hands are above head height. Lower in the reverse pattern and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_y_raise"
     },
@@ -2912,7 +2912,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Grasp dumbbell in one hand. Lie on 30° to 45° incline bench with opposite side of body on incline, arm over top of bench, lower leg positioned on front side of seat, and upper leg on back side of seat. Position dumbbell inside of lower leg, just in front of upper leg. Raise dumbbell from until upper arm is perpendicular to torso. Maintain slight fixed bend in elbow throughout exercise. Lower dumbbell to front of upper leg and repeat.",
+        "comment": "Grasp a dumbbell in one hand. Lie on a 30°–45° incline bench on the opposite side, with the top arm hanging down and the dumbbell in front of the lower thigh. Raise the dumbbell until the upper arm is perpendicular to the torso, maintaining a slight fixed bend in the elbow throughout. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_incline_lateral_raise"
     },
@@ -2934,7 +2934,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Lie on side with legs separated for support. Grasp dumbbell in front of thigh. Raise dumbbell from floor until arm is vertical. Maintain fixed elbow position (10° to 30° angle) throughout exercise. Lower and repeat.",
+        "comment": "Lie on the side with the legs slightly separated for support. Grasp a dumbbell in front of the thigh. Raise the dumbbell until the arm is vertical, maintaining a fixed elbow position (10°–30° bend) throughout. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_lying_lateral_raise"
     },
@@ -2956,7 +2956,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Grasp dumbbells and stand with palms facing front of thighs. Pull dumbbells to front of shoulders or front sides of chest with elbows leading out to sides. Allow wrists to flex as dumbbells rise upward. Lower and repeat.",
+        "comment": "Grasp the dumbbells and stand with the palms facing the front of the thighs. Pull the dumbbells up towards the front of the shoulders with the elbows leading out to the sides. Allow the wrists to flex as the dumbbells rise. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_upright_row"
     },
@@ -2978,7 +2978,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Grasp dumbbell with palm facing front of thigh. Position other hand for support. Pull dumbbell to front side of chest with elbow leading. Allow wrist to flex as dumbbell rises upward. Lower and repeat. Continue with opposite arm.",
+        "comment": "Hold a dumbbell with the palm facing the front of the thigh. Use the free hand to steady against a fixed support. Pull the dumbbell up towards the front of the shoulder with the elbow leading. Allow the wrist to flex as the dumbbell rises. Lower and repeat, then switch arms.",
         "isFeatured": false,
         "translationKey": "dumbbell_one_arm_upright_row"
     },
@@ -3000,7 +3000,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit in machine. Situate bent arms between padded lever and sides of body. Raise arms to sides until upper arms are horizontal. Return and repeat.",
+        "comment": "Sit in the machine. Position the bent arms between the padded lever arms and the sides of the body. Raise the arms to the sides until the upper arms are horizontal. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_lateral_raise_plate_loaded"
     },
@@ -3022,7 +3022,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit in machine. Situate bent arms between padded lever and sides of body. Grasp handles if available. Raise arms to sides until upper arms are horizontal. Return and repeat.",
+        "comment": "Sit in the machine. Position the bent arms between the padded lever arms and the sides of the body. Grasp the handles if available. Raise the arms to the sides until the upper arms are horizontal. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_lateral_raise"
     },
@@ -3044,7 +3044,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand behind bar mid-thigh height. Grasp bar with shoulder width or slightly narrower overhand grip. Disengage bar by rotating bar back and stand upright. Pull bar to neck with elbows leading. Allow wrists to flex as bar rises. Lower and repeat.",
+        "comment": "Stand facing the bar set at mid-thigh height. Grasp the bar with a shoulder-width or slightly narrower overhand grip. Disengage by rotating the bar back and standing upright. Pull the bar up towards the chin with the elbows leading. Allow the wrists to flex as the bar rises. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "smith_upright_row"
     },
@@ -3066,7 +3066,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp suspension handles and momentarily step back until arms are extended forward and straight. While keeping arms straight and shoulders back, step forward so body reclines back behind suspension handles. Position body and legs straight at desired angle hanging from handles with arms straight and palms angled inward. Raise arms upward and outward in shape of a y while keeping arms straight. Return and lower body back in opposite motion until arms are extended straight forward in original position. Repeat.",
+        "comment": "Grasp the suspension handles and step back, then lean forward to recline the body to the desired angle with the arms extended in front and palms angled inward. Keeping the arms straight, raise them upward and outward into a Y shape. Return and repeat.",
         "isFeatured": false,
         "translationKey": "suspended_y_lateral_raise"
     },
@@ -3088,7 +3088,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand with cable columns to each side. Grasp left stirrup with right hand and right stirrup with left hand. Bend knees and bend over at hips, so torso is approximately horizontal with back straight. Point elbows outward with arms slightly bent. Raise upper arms to sides until elbows are shoulder height. Maintain upper arms perpendicular to torso and slight bend in elbows as arms are raised to sides. Lower and repeat.",
+        "comment": "Stand between two cable columns. Grasp the left stirrup with the right hand and the right stirrup with the left. Bend the knees and hinge forward at the hips until the torso is approximately horizontal, keeping the back flat. With the elbows slightly bent and pointing outward, raise the arms to the sides until the elbows reach shoulder height, keeping the upper arms perpendicular to the torso. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_rear_lateral_raise"
     },
@@ -3110,7 +3110,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand facing twin pulley cables positioned close together and approximately shoulder height. Grasp stirrup cable attachment in each hand. Step back away from machine so cable is taut. Stand with feet staggered. Point elbows outward with arms straight or slightly bent. Pull stirrups out to sides, maintaining stiff elbow position throughout exercise. Return to original position and repeat.",
+        "comment": "Stand facing two cable pulleys set close together at approximately shoulder height. Grasp a stirrup in each hand and step back until the cables are taut. Adopt a staggered stance. With the elbows pointing out and arms straight or slightly bent, pull the stirrups out to the sides. Maintain the elbow position throughout. Return and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_reverse_fly"
     },
@@ -3132,7 +3132,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Kneel over side of bench with arm and leg to side. Grasp dumbbell. Pull dumbbell up out to side with upper arm perpendicular to trunk until upper arm is just beyond horizontal. Lower and repeat.",
+        "comment": "Kneel over the side of a bench, supporting the body with one hand and the same-side knee on the bench. Grasp a dumbbell in the free hand. Pull the dumbbell out and up to the side, keeping the upper arm perpendicular to the torso, until the upper arm is just beyond horizontal. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_rear_delt_row"
     },
@@ -3154,7 +3154,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie on machine with chest against padding. Position arms between padded lever arms with elbows below shoulders. Pull arms up until elbows are beyond back. Return and repeat.",
+        "comment": "Lie face down on the machine with the chest against the padding. Position the arms between the padded lever arms with the elbows below the shoulders. Pull the arms up and out until the elbows are beyond the level of the back. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_lying_rear_lateral_raise_plate_loaded"
     },
@@ -3176,7 +3176,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place seat at low position. Sit on seat with chest against pad and grasp upper handles. Pull lever with elbows up out to sides until upper arms are just beyond parallel, keeping upper arm horizontal, perpendicular to torso. Return and repeat.",
+        "comment": "Set the seat to a low position. Sit with the chest against the pad and grasp the upper handles. Pull the lever with the elbows flaring out to the sides until the upper arms are just beyond parallel to the floor, keeping them horizontal and perpendicular to the torso. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_rear_delt_row_plate_loaded"
     },
@@ -3198,7 +3198,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie on machine with chest against padding. Position arms between padded lever arms with elbows below shoulders. Pull arms up until elbows are beyond back. Lower and repeat.",
+        "comment": "Lie face down on the machine with the chest against the padding. Position the arms between the padded lever arms with the elbows below the shoulders. Pull the arms up and out until the elbows are beyond the level of the back. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_lying_rear_lateral_raise"
     },
@@ -3220,7 +3220,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place seat at low position. Sit on seat with chest against pad and grasp upper handles. Pull lever with elbows up out to sides until upper arms are just beyond parallel, keeping upper arm horizontal, perpendicular to torso. Return and repeat.",
+        "comment": "Set the seat to a low position. Sit with the chest against the pad and grasp the upper handles. Pull the lever with the elbows flaring out to the sides until the upper arms are just beyond parallel to the floor, keeping them horizontal and perpendicular to the torso. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_rear_delt_row"
     },
@@ -3242,7 +3242,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit in machine with chest against pad. Grasp parallel handles from inside with thumbs down at shoulder height. Keeping elbows pointed high, pull handles apart and to rear until elbows are just behind back. Return and repeat.",
+        "comment": "Sit in the machine with the chest against the pad. Grasp the parallel handles from the inside with the thumbs pointing down at shoulder height. Keeping the elbows elevated, pull the handles apart and back until the elbows are just behind the back. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_seated_reverse_fly_pronated_parallel_grip"
     },
@@ -3264,7 +3264,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand near low smith bar. Bend knees and bend over bar with back straight. Grasp bar with wide   overhand grip. Disengage bar by rotating bar back. Keeping upper arm perpendicular to torso, pull bar up toward upper chest until upper arms are just beyond parallel to floor. Return and repeat.",
+        "comment": "Set the Smith bar to a low height. Bend the knees and hinge forward with a flat back. Grasp the bar with a wide overhand grip. Disengage by rotating the bar back. Keeping the upper arms perpendicular to the torso, pull the bar up towards the upper chest until the upper arms are just beyond parallel to the floor. Return and repeat.",
         "isFeatured": false,
         "translationKey": "smith_rear_delt_row"
     },
@@ -3286,7 +3286,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp suspension handles and momentarily step back until arms are extended forward and straight. While keeping arms straight and shoulders back, step forward so body reclines back behind suspension handles. Position body and legs straight at desired angle hanging from handles with arms straight. Internally rotate shoulders so elbows are positioned directly outwards with arms straight or slightly bent. Shoulder should be positioned approximately 90° relative to torso position. Pull handles out to sides while keeping stiff elbow position and maintaining shoulder at 90° plane to torso throughout exercise. Raise up until upper arms are in-line to one another. Return to original position in same plane and repeat.",
+        "comment": "Grasp the suspension handles and step back, then lean forward to recline the body to the desired angle with the arms extended in front. Internally rotate the shoulders so the elbows point outward, keeping the arms straight or slightly bent. Pull the handles out to the sides in the plane of the shoulders, maintaining a fixed elbow position, until the arms are in line with one another. Return and repeat.",
         "isFeatured": false,
         "translationKey": "suspended_reverse_fly"
     },
@@ -3308,7 +3308,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp dumbbell cable attachment. Stand facing side with resting arm toward low pulley. Grasp ballet bar if available for support. Internally rotate shoulders so elbows point out to sides. With elbow straight or slightly bent, raise upper arm away from low pulley to side, slightly to front (30°) until upper arm is shoulder height. Lower and repeat. Continue with opposite arm.",
+        "comment": "Attach a stirrup to a low cable pulley. Stand with the non-working side facing the pulley. Grasp a fixed support with the other hand if available. With the elbow straight or slightly bent, raise the working arm out to the side at approximately 30° in front until it reaches shoulder height. Lower and repeat, then switch sides.",
         "isFeatured": false,
         "translationKey": "cable_front_lateral_raise"
     },
@@ -3330,7 +3330,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Grasp dumbbell and position in front of thigh with arm straight. Turn pinkie finger side outward. Raise arms to side, slightly to front until shoulder height or slightly higher. Lower and repeat. Continue with opposite arm.",
+        "comment": "Hold a dumbbell in front of the thigh with the arm straight. Rotate the little finger side outward. Raise the arm to the side and slightly forward until shoulder height or slightly higher. Lower and repeat, then switch arms.",
         "isFeatured": false,
         "translationKey": "dumbbell_front_lateral_raise"
     },
@@ -3352,7 +3352,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Grasp dumbbells with each hand with palms facing forward. Raise arms to side with thumb side up. Lower and repeat.",
+        "comment": "Hold the dumbbells with the palms facing forward. Raise both arms out to the sides with the thumb side up. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_full_can_lateral_raise"
     },
@@ -3374,7 +3374,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Mount shoulder width dip bar, arms straight with shoulders above hands. Step down onto assistance lever. Keep hips and knees straight. Lower body until slight stretch is felt in shoulders. Push body up until arms are straight. Repeat.",
+        "comment": "Mount the shoulder-width dip bars with the arms straight and shoulders above the hands. Step down onto the assistance lever. Keep the hips and knees straight. Lower the body until a slight stretch is felt in the shoulders. Push back up until the arms are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_triceps_dip"
     },
@@ -3396,7 +3396,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Mount shoulder width dip bar, arms straight with shoulders above hands. Kneel on padded platform, lowering it down slightly so hips are slightly bent. Lower body until slight stretch is felt in shoulders. Push body up until arms are straight. Repeat.",
+        "comment": "Mount the shoulder-width dip bars with the arms straight and shoulders above the hands. Kneel on the padded assistance platform with the hips slightly bent. Lower the body until a slight stretch is felt in the shoulders. Push back up until the arms are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_triceps_dip_kneeling"
     },
@@ -3418,7 +3418,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Lie on bench with narrow overhand grip on barbell. Position barbell over shoulders with arms extended. Lower bar to forehead by bending elbows. Extend arms and repeat.",
+        "comment": "Lie on a bench with a narrow overhand grip on the barbell. Hold the bar above the forehead with the arms extended. Lower the bar to the forehead by bending the elbows. Extend the arms and repeat.",
         "isFeatured": false,
         "translationKey": "barbell_lying_triceps_extension_skull_crusher"
     },
@@ -3440,7 +3440,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Sit on utility weight bench with barbell. Position barbell overhead with narrow overhand grip. Lower barbell behind upper shoulders by flexing elbows allowing forearms to travel behind upper arms with elbows remaining overhead. Raise barbell overhead by extending elbows until arms are positioned straight and vertical. Lower and repeat.",
+        "comment": "Sit on a bench holding the barbell overhead with a narrow overhand grip. Lower the barbell behind the head by bending the elbows, allowing the forearms to travel behind the upper arms while the elbows remain pointing up. Extend the elbows to raise the barbell back overhead until the arms are straight and vertical. Repeat.",
         "isFeatured": false,
         "translationKey": "barbell_triceps_extension"
     },
@@ -3462,7 +3462,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp cable bar from medium-high pulley with narrow or shoulder width overhand grip. Turn body away from pulley apparatus and position turned cable bar behind neck. Bend over downward with cable bar positioned behind neck, gripped at each side. Lunge forward with one leg. Allow elbows to be pulled back under cable resistance. Extend forearms forward until elbows are straight. Allow cable bar to return back over neck. Repeat.",
+        "comment": "Grasp the cable bar from a medium-high pulley with a narrow or shoulder-width overhand grip. Turn away from the pulley and position the bar behind the neck. Hinge forward and adopt a split stance. Allow the elbows to be drawn back by the cable tension. Extend the forearms forward until the elbows are straight. Return the bar over the neck and repeat.",
         "isFeatured": false,
         "translationKey": "cable_bent_over_triceps_extension"
     },
@@ -3484,7 +3484,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Lie on bench and grasp bar with narrow overhand grip. With arms extended, position bar over face. Lower bar by bending elbow. As bar nears head, move elbows slightly back just enough to allow bar to clear around curvature of head. Extend arm. As bar clears head, reposition elbows to its former position until arm is fully extended. Repeat.",
+        "comment": "Lie on a bench and grasp the cable bar with a narrow overhand grip. Hold the bar above the face with the arms extended. Lower the bar by bending the elbows. As the bar approaches the head, draw the elbows slightly back to allow it to clear. Extend the arms, returning the elbows to their original position. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_lying_triceps_extension"
     },
@@ -3506,7 +3506,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp dumbbell cable attachment with underhand grip. Position elbow to side. Extend arm down. Return until forearm is close to upper arm. Repeat. Continue with opposite arm.",
+        "comment": "Attach a stirrup to a high cable pulley. Grasp the stirrup with an underhand grip and pin the elbow to the side. Extend the arm downward until fully straight. Return until the forearm is close to the upper arm. Repeat, then switch arms.",
         "isFeatured": false,
         "translationKey": "cable_one_arm_pushdown"
     },
