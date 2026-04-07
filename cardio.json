@@ -527,5 +527,130 @@
         "cardioCategory": "calisthenics",
         "trackResistance": false,
         "comment": "Place the hands on the floor, slightly wider than shoulder-width. On the forefeet, position one leg forward and bent under the body and extend the other leg back. Whilst holding the upper body in place, alternate the leg positions by pushing the hips up whilst immediately extending the forward leg back and pulling the rear leg forward under the body, landing on both forefeet simultaneously. Repeat."
+    },
+    {
+        "id": "8CFC0E43-ED0E-49F0-B1A4-C8115E7717AC",
+        "name": "bear crawl",
+        "muscleGroup": "fullBody",
+        "translationKey": "cardio_bear_crawl",
+        "family": "crawl",
+        "canonicalKey": "cardio_bear_crawl",
+        "type": "cardio",
+        "measurement": "distance",
+        "aliases": [
+            "bear crawl"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "circuitDrills",
+        "trackResistance": false,
+        "comment": "Kneel on the hands and knees facing the crawling path. Raise the knees off the floor whilst keeping the hips low. Crawl forward whilst keeping the hips low."
+    },
+    {
+        "id": "A010F4C2-51E4-4B56-B45F-0F7994090E5B",
+        "name": "butt kick",
+        "muscleGroup": "legs",
+        "translationKey": "cardio_butt_kick",
+        "family": "running",
+        "canonicalKey": "cardio_butt_kick",
+        "type": "cardio",
+        "measurement": "distance",
+        "aliases": [
+            "butt kick",
+            "heel flick"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "circuitDrills",
+        "trackResistance": false,
+        "comment": "Lean forward slightly with a staggered stance. Bend the arms at the sides. Jog whilst pulling the heels up high towards the glutes. Swing the bent arms at the sides forward and backward in opposition to the leg motion. Keep the body upright with the head up, the arms at the sides, and the hands relaxed. Continue until a specific distance is covered or the desired number of kicks have been completed."
+    },
+    {
+        "id": "BBB5E968-C536-415A-8590-678036319678",
+        "name": "grapevine",
+        "muscleGroup": "legs",
+        "translationKey": "cardio_grapevine",
+        "family": "agility",
+        "canonicalKey": "cardio_grapevine",
+        "type": "cardio",
+        "measurement": "distance",
+        "aliases": [
+            "grapevine",
+            "carioca"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "circuitDrills",
+        "trackResistance": false,
+        "comment": "Stand with the right side facing the intended path, the feet slightly apart, and the knees slightly bent. Hop off the left foot and step the right foot slightly forward and to the right of where the left foot was placed. As the right forefoot makes contact with the ground, step the left leg behind the right foot. Hop up off the ground with the left foot and pull the right leg back under the body whilst pulling the left knee up high. Hop up off the right foot and step the left foot across the front of where the right foot was placed. Continue the movement pattern to the desired point or duration by crossing the trailing leg over, stepping back into place, crossing the trailing leg behind, and stepping back into place. If desired, repeat in the opposite direction so the left leg leads."
+    },
+    {
+        "id": "C445EEA2-4094-4A57-8863-0D8304FD0678",
+        "name": "high knee run",
+        "muscleGroup": "legs",
+        "translationKey": "cardio_high_knee_run",
+        "family": "running",
+        "canonicalKey": "cardio_high_knee_run",
+        "type": "cardio",
+        "measurement": "distance",
+        "aliases": [
+            "high knee run",
+            "high knees"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "circuitDrills",
+        "trackResistance": false,
+        "comment": "Stand with the left foot slightly in front of the other foot. Lean forward and place the left arm back and the right arm forward. Lift the right knee high and step forward whilst swinging the left arm up and the right arm back. Propel the body upward and forward by extending the left leg. Lower the right leg whilst beginning to raise the left knee, pulling the left arm back and the right arm forward. Land on the extended right leg. Continue the movement on the opposite side, alternating quickly between sides."
+    },
+    {
+        "id": "E6718F49-C5D2-4D69-BBD8-DCF307A76F89",
+        "name": "side shuffle",
+        "muscleGroup": "legs",
+        "translationKey": "cardio_side_shuffle",
+        "family": "agility",
+        "canonicalKey": "cardio_side_shuffle",
+        "type": "cardio",
+        "measurement": "distance",
+        "aliases": [
+            "side shuffle",
+            "lateral shuffle"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "circuitDrills",
+        "trackResistance": false,
+        "comment": "Stand with the right side facing the intended path in an athletic position: a wide stance with the knees, hips, and arms bent, and the chest up. Step sideways in the direction of the intended path with the right leg. Sidestep with the left leg and push off the second sidestep with the right leg before landing the left leg. Continue the shuffling pattern to the desired point."
+    },
+    {
+        "id": "3EB8B9EE-C4A0-457C-801F-FE3AE431CA51",
+        "name": "bouldering",
+        "muscleGroup": "fullBody",
+        "translationKey": "cardio_bouldering",
+        "family": "climb",
+        "canonicalKey": "cardio_bouldering",
+        "type": "cardio",
+        "measurement": "duration",
+        "aliases": [
+            "bouldering",
+            "rock climbing"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "low",
+        "cardioCategory": "climb",
+        "trackResistance": false,
+        "comment": "Stand facing the climbing wall with the feet shoulder-width apart. Identify the starting holds marked with tape or colour. Place both hands on the designated start holds and position the feet on the starting footholds or the ground. Look ahead to plan the next moves. Step up with one foot to a higher foothold. Reach with the opposite hand to the next handhold. Shift weight onto the new holds before releasing the previous ones. Continue alternating hand and foot movements upward. Identify the finish hold. Match both hands on the top hold and hold the position for 2–3 seconds to complete the route ascent. To descend, reverse the climbing sequence, moving slowly and in a controlled manner. Place the foot on the hold below before releasing the handhold. Look down briefly to spot the next footholds. Continue the controlled descent in a hand-foot-hand-foot pattern. Step down to the ground when low enough to drop safely. Repeat or release the final handholds and step away from the wall."
     }
 ]
