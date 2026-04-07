@@ -9031,7 +9031,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand between lever handles to sides. Place forefoot of one foot on floor to rear and other foot slightly forward. Squat down and grasp handles to sides. With chest high, lift lever by extending hips and knees to full extension. Return until knee of rear leg is almost in contact with floor and repeat. Continue with opposite leg.",
+        "comment": "Stand between the lever handles and place one foot behind on the floor with the forefoot down, and the other foot slightly forward. Squat down and grasp the handles at each side. With the chest high, lift the lever by extending the hips and knees to full extension. Return until the knee of the rear leg is almost in contact with the floor. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_split_squat_plate_loaded"
     },
@@ -9053,7 +9053,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Squat down to place shoulders under padded lever. Place feet shoulder width apart slightly in front of shoulders. Extend knees and hips until legs are straight. Release support lever. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. Descend by bending knees and hip until thighs are just past parallel to floor. Lift lever up by extending knees and hips until legs are straight. Repeat.",
+        "comment": "Squat down to place the shoulders under the padded lever. Place the feet shoulder-width apart, slightly in front of the shoulders. Extend the knees and hips until the legs are straight, then release the support lever. Squat down by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Lift the lever by extending the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_squat_plate_loaded"
     },
@@ -9075,7 +9075,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Step onto platform facing padded levers. Squat down to place shoulders under padded lever. Place feet shoulder width apart on platform. Extend knees and hips until legs are straight. Release support lever if it does not disengage by itself. Lower lever by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Lift lever up by extending knees and hips until legs are straight. Repeat.",
+        "comment": "Step onto the platform facing the padded levers. Squat down to place the shoulders under the padded lever. Place the feet shoulder-width apart on the platform. Extend the knees and hips until the legs are straight, then release the support lever if it does not disengage automatically. Lower by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Lift the lever by extending the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_front_squat"
     },
@@ -9097,7 +9097,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Step up onto platform. Position belly on wide pad, forearms on padded arm rest, and grip handles. Position bottom of foot on foot lever with lower leg under pad. Push foot lever back by extending hip. Return leg to original position. Repeat. Reposition and continue with opposite leg.",
+        "comment": "Step up onto the platform. Position the belly on the wide pad, the forearms on the padded arm rest, and grip the handles. Place the sole of one foot on the foot lever with the lower leg under the pad. Push the foot lever back by extending the hip. Return the leg to the starting position. Repeat. Reposition and continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_bent_over_hip_extension"
     },
@@ -9119,7 +9119,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "With leg lever positioned in the lower position, lie supine on machine with legs over padded bar. Align hip joints with lever fulcrum. Strap hips down with belt if available. Release leg lever and adjust until leg lever is in upper position. Grasp handles to sides of head. Push padded leg bar down until hips are extended. Return and repeat.",
+        "comment": "With the leg lever in the lower position, lie on the machine with the legs over the padded bar. Align the hip joints with the lever fulcrum and strap the hips down with the belt if available. Release the leg lever and adjust it until it is in the upper position. Grasp the handles at the sides. Push the padded leg bar down until the hips are extended. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_lying_hip_extension"
     },
@@ -9141,7 +9141,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand on platform facing to one side and grasp bar for support. Place leg nearest machine on padded roller while standing on other leg. Lower lever by extending hip. Return until knee is higher than hip. Repeat. Continue with opposite leg.",
+        "comment": "Stand on the platform facing to one side and grasp the bar for support. Place the leg nearest the machine against the padded roller while standing on the other leg. Push the lever back by extending the hip. Return until the knee is higher than the hip. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_standing_hip_extension"
     },
@@ -9163,7 +9163,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand on platform so front of hips are against edge of abdominal pad. Position flexed leg over padded roller while standing on other leg. Grasp handles with both hands. Extend lever back by extending hip and straightening leg. Return by flexing hip and knee. Repeat. Continue with opposite leg.",
+        "comment": "Stand on the platform with the front of the hips against the edge of the abdominal pad. Place the flexed leg over the padded roller while standing on the other leg. Grasp the handles with both hands. Push the lever back by extending the hip and straightening the leg. Return by flexing the hip and knee. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_standing_hip_extension_with_abdominal_pad"
     },
@@ -9185,7 +9185,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back on padded support. Place feet slightly high on platform. Grasp handles to sides. Extend knees and hips until knees are fully extended. Return until hips are completely flexed. Repeat.",
+        "comment": "Sit on the machine with the back against the padded support. Place the feet slightly high on the platform. Grasp the handles at the sides. Extend the knees and hips until the knees are fully extended. Return until the hips are completely flexed. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_leg_press"
     },
@@ -9207,7 +9207,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lean over padded surface and grasp handles. Bend knee and position foot against lever platform or pedal. Push platform or pedal back by extending leg. Return leg to original position. Repeat. Continue with opposite leg.",
+        "comment": "Lean over the padded surface and grasp the handles. Bend one knee and position the foot against the lever platform or pedal. Push the platform or pedal back by extending the leg. Return the leg to the starting position. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_bent_over_glute_kickback"
     },
@@ -9229,7 +9229,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Kneel on machine by placing one knee on lower pad. Rest torso on middle pad, place forearms on padded arm rest, and grip handles. Position other foot of other leg up to lever platform. Push platform back by extending leg back. Return leg to original position and repeat. Continue with opposite leg.",
+        "comment": "Kneel on the machine by placing one knee on the lower pad. Rest the torso on the middle pad, place the forearms on the padded arm rest, and grip the handles. Place the foot of the other leg against the lever platform. Push the platform back by extending the leg. Return the leg to the starting position and repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_kneeling_glute_kickback"
     },
@@ -9251,7 +9251,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Step on left platform with left foot. Grasp handle bars to each side. Place right foot on highest lever platform. Push platform down by extending leg until straight. Return leg to original position. Repeat. Continue with opposite leg positions.",
+        "comment": "Step onto the platform with one foot and grasp the handles. Place the other foot on the lever platform. Push the platform back by extending the leg until straight. Return the leg to the starting position. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_standing_glute_kickback"
     },
@@ -9273,7 +9273,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Squat down to place shoulders under padded lever. Place feet shoulder width apart slightly in front of shoulders. Raise lever up by extending knees and hips until legs are straight. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Return and repeat.",
+        "comment": "Squat down to place the shoulders under the padded lever. Place the feet shoulder-width apart, slightly in front of the shoulders. Raise the lever by extending the knees and hips until the legs are straight. Squat down by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_squat"
     },
@@ -9295,7 +9295,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position shoulders under shoulder pads with back against back pad. Place feet on platform, shoulder or hip width apart. Squeeze hand lever. Keeping hand lever squeezed, squat down by bending hips and knees until knees or hips are just short of complete flexion. Release hand lever and raise up on sled just slightly until weight stack is engaged (click is heard). Raise lever by extending knees and hips until legs are straight. Squat down with knees pointed same direction as feet. Descend until knees or hips are near complete flexion. Repeat.",
+        "comment": "Position the shoulders under the shoulder pads with the back against the back pad. Place the feet on the platform, shoulder- or hip-width apart. Squeeze the hand lever and squat down by bending the hips and knees until just short of complete flexion. Release the hand lever and rise slightly on the sled until the weight stack is engaged. Raise the lever by extending the knees and hips until the legs are straight. Squat down with the knees pointed in the same direction as the feet. Descend until the knees and hips are near complete flexion. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_v_squat"
     },
@@ -9317,7 +9317,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Kneel on machine by placing knees on lower pad and feet against bars to rear, if available. Place forearms on padded armrest, and grip handles. Position one foot up so middle of sole is positioned under foot bar. Push foot bar up by extending leg   back as far as possible. Return leg to original position and repeat. Continue with opposite leg.",
+        "comment": "Kneel on the machine by placing the knees on the lower pad and the feet against the bars to the rear if available. Place the forearms on the padded armrest and grip the handles. Position one foot so the middle of the sole is under the foot bar. Push the foot bar back by extending the leg as far as possible. Return the leg to the starting position and repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "sled_kneeling_glute_kickback"
     },
@@ -9339,7 +9339,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Straddle sled and place foot on pedal. Place chest on pad and grasp handles. Push platform back by extending leg   back until straight. Return leg to original position. Repeat. Continue with opposite leg.",
+        "comment": "Straddle the sled and place one foot on the pedal. Place the chest on the pad and grasp the handles. Push the platform back by extending the leg until straight. Return the leg to the starting position. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "sled_standing_glute_kickback"
     },
@@ -9361,7 +9361,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back on padded support. Place feet slightly high on platform. Extend hips and knees. Release dock lever and grasp handles to sides. Lower sled by flexing hips and knees until knees are just short of complete flexion or until hips are completely flexed. Return by extending knees and hips. Repeat.",
+        "comment": "Sit on the machine with the back against the padded support. Place the feet slightly high on the platform. Extend the hips and knees, then release the dock lever and grasp the handles at the sides. Lower the sled by flexing the hips and knees until just short of complete flexion. Return by extending the knees and hips. Repeat.",
         "isFeatured": false,
         "translationKey": "sled_45_leg_press"
     },
@@ -9383,7 +9383,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on platform with shoulders against pad. Place feet slightly high on platform. Extend hips and knees. Return until hips are completely flexed. Repeat.",
+        "comment": "Lie on the platform with the shoulders against the pad. Place the feet slightly high on the platform. Extend the hips and knees to press the sled. Return until the hips are completely flexed. Repeat.",
         "isFeatured": false,
         "translationKey": "sled_lying_leg_press"
     },
@@ -9405,7 +9405,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back on padded support. Place feet slightly high on platform. Grasp handles to sides. Extend knees and hips until knees are fully extended. Return until hips are completely flexed. Repeat.",
+        "comment": "Sit on the machine with the back against the padded support. Place the feet slightly high on the platform. Grasp the handles at the sides. Extend the knees and hips until the knees are fully extended. Return until the hips are completely flexed. Repeat.",
         "isFeatured": false,
         "translationKey": "sled_seated_leg_press"
     },
@@ -9427,7 +9427,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Squat down to place shoulders under padded bars. Lean back against back pad if available. Place feet shoulder width apart, slightly in front of shoulders. If hand or lever lock is available, disengage weight, squat to lowest position and re-engage lock. Lift sled by extending knees and hips until legs are straight. Lower sled by bending knees forward slightly while allowing hips to bend back behind, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Return and repeat.",
+        "comment": "Squat down to place the shoulders under the padded bars and lean back against the back pad if available. Place the feet shoulder-width apart, slightly in front of the shoulders. If a hand or lever lock is available, disengage the weight, squat to the lowest position, and re-engage the lock. Lift the sled by extending the knees and hips until the legs are straight. Lower the sled by allowing the knees to bend slightly forward while the hips bend back, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Return and repeat.",
         "isFeatured": false,
         "translationKey": "sled_squat"
     },
@@ -9449,7 +9449,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand with shoulder width or narrower stance with thigh against bar. Grasp bar with shoulder width or slightly wider overhand grip. Disengage bar by rotating bar back. With knees bent, lower bar toward top feet by bending hips and keeping waist straight. Lift bar by extending at hips until standing upright. Pull shoulders back slightly if rounded. Extend knees at top if desired. Repeat.",
+        "comment": "Stand with a shoulder-width or narrower stance with the thighs against the bar. Grasp the bar with a shoulder-width or slightly wider overhand grip. Unrack the bar by rotating it back. With the knees slightly bent, lower the bar towards the top of the feet by bending at the hips, keeping the back straight. Lift the bar by extending at the hips until standing upright. Retract the shoulders if rounded. Extend the knees at the top if desired. Repeat.",
         "isFeatured": false,
         "translationKey": "smith_straight_back_stiff_leg_deadlift"
     },
@@ -9471,7 +9471,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet under bar or slightly forward. Straighten legs so weight is lifted. Disengage bar by rotating bar back. Place feet slightly forward. Step back with one leg while bending supporting leg. Plant forefoot far back on floor. Lower body by flexing knee and hip of supporting leg until knee of rear leg is almost in contact with floor. Return to original standing position by extending hip and knee of forward supporting leg and return rear leg next to supporting leg. Repeat movement with opposite legs, alternating between sides.",
+        "comment": "With the bar at upper chest height, position it on the back of the shoulders and grasp it at each side. Place the feet under the bar or slightly forward. Straighten the legs to lift the weight, then unrack the bar by rotating it back. Step back with one leg, planting the forefoot far behind on the floor. Lower the body by flexing the knee and hip of the supporting leg until the knee of the rear leg is almost in contact with the floor. Return to the starting position by extending the hip and knee of the forward leg and bringing the rear leg back alongside it. Repeat with the opposite leg, alternating between sides.",
         "isFeatured": false,
         "translationKey": "smith_rear_lunge"
     },
@@ -9493,7 +9493,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet slightly forward. Disengage bar by rotating bar back. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "comment": "With the bar at upper chest height, position it on the back of the shoulders and grasp it at each side. Place the feet slightly forward. Unrack the bar by rotating it back. Squat down by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Extend the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "smith_squat"
     },
@@ -9515,7 +9515,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place sandbag or medicine ball between ankles. Lay torso and waist on bench and grasp handles. Feet should be above floor with legs straight. Raise weight by extending hips as high as possible until legs are nearly straight. Lower legs to original position. Repeat.",
+        "comment": "Place a sandbag or medicine ball between the ankles. Lay the torso on the bench and grasp the handles. Position the feet above the floor with the legs hanging straight. Raise the legs by extending the hips as high as possible, keeping the legs nearly straight. Lower the legs to the starting position. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_reverse_hyper_extension"
     },
@@ -9537,7 +9537,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand with arms extended out in front, holding medicine ball or weight plate. Balance on one leg with opposite leg extended forward off of ground. Squat down as far as possible while keeping leg elevated off of floor. Keep supporting knee pointed same direction as foot supporting. Raise body back up to original position until knee and hip of supporting leg is straight. Return and repeat. Continue with opposite leg.",
+        "comment": "Stand with the arms extended forward, holding a medicine ball or weight plate. Balance on one leg with the opposite leg extended forward off the floor. Squat down as far as possible while keeping the elevated leg off the floor and the supporting knee pointed in the same direction as the foot. Return to the starting position until the knee and hip of the supporting leg are straight. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "weighted_single_leg_squat"
     },
@@ -9559,7 +9559,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Sit on floor facing suspension trainer loops in low position. Grasp bottom of loops, then lay supine. Raise legs and place heels in loops with soles contacting handles. Lie down supine on mat so knees and hips are bent with suspension straps hanging vertical. Place arms off to sides. Raise hips up by extending hips until fully extended. Lower hips until hips and back make contact with mat. Repeat.",
+        "comment": "Sit on the floor facing the suspension trainer loops. Grasp the bottom of the loops, then lie back. Raise the legs and place the heels in the loops with the soles contacting the handles. Lie on the mat with the knees and hips bent and the straps hanging vertically. Place the arms at the sides. Raise the hips by extending until fully extended. Lower the hips to the mat. Repeat.",
         "isFeatured": false,
         "translationKey": "suspended_hip_bridge"
     },
@@ -9581,7 +9581,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp suspension handles and momentarily step back until arms are extended forward and straight. While keeping arms straight and shoulders back, step forward so body reclines back behind suspension handles. Position body and legs straight at desired angle hanging from handles with arms straight. Balance on one leg with opposite leg extended forward off of ground. Squat down as far as possible while keeping leg elevated off of floor. Keep supporting knee pointed same direction as foot supporting. Raise body back, up to original position until knee and hip of supporting leg is straight. Repeat and continue with opposite leg.",
+        "comment": "Grasp the suspension handles and step back until the arms are extended forward and straight. Step forward so the body reclines behind the handles, keeping the arms straight and the shoulders back. Position the body and legs straight at the desired angle. Balance on one leg with the opposite leg extended forward off the floor. Squat down as far as possible while keeping the elevated leg off the floor and the supporting knee pointed in the same direction as the foot. Return to the starting position until the knee and hip of the supporting leg are straight. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "suspended_single_leg_squat"
     },
@@ -9603,7 +9603,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand in front of low pulley facing to one side. Attach cable cuff to far ankle. Step out away from stack and grasp ballet bar. Stand on near foot and allow far leg to cross in front. Move leg to opposite side of low pulley by abduction hip. Return and repeat. Turn around and continue with opposite leg.",
+        "comment": "Attach the cable cuff to the far ankle and stand facing to one side of the low pulley. Step away from the stack and grasp the ballet bar. Stand on the near foot and allow the far leg to cross in front. Raise the far leg to the opposite side by abducting the hip. Return and repeat. Turn around and continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "cable_hip_abduction"
     },
@@ -9625,7 +9625,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Lie on side on floor or mat. Extend top leg down straight and position lower leg back underneath. Grasping dumbbell with hand of arm furthest from floor, position dumbbell as low as possible on top side of thigh. Raise weighted leg up off ground as high as possible, keeping dumbbell positioned on side of upper thigh. Return to leg to floor and repeat. Repeat and continue with opposite leg.",
+        "comment": "Lie on one side on a mat. Extend the top leg down straight and position the lower leg back underneath. Grasp the dumbbell with the hand furthest from the floor and position it on the upper side of the thigh. Raise the weighted leg as high as possible, keeping the dumbbell on the side of the thigh. Return the leg to the floor and repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "dumbbell_lying_hip_abduction"
     },
@@ -9647,7 +9647,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand near side of apparatus. Place one leg onto far padded lever and sit on seat. Lift other leg onto other padded lever. Lean back onto back pad. Grasp handles to sides. Move legs away from one another as far as possible. Return and repeat.",
+        "comment": "Stand near the side of the apparatus. Place one leg onto the far padded lever and sit on the seat. Lift the other leg onto the other padded lever. Lean back onto the back pad. Grasp the handles at the sides. Move the legs apart as far as possible. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_hip_abduction_plate_loaded"
     },
@@ -9669,7 +9669,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with legs inside of side pads. If available, place heels on foot bars. Release and pull lever brace to position legs together. Engage lever into locked position. Lie back and grasp bars to sides. Move legs apart as far as possible. Return and repeat.",
+        "comment": "Sit on the machine with the legs inside the side pads. If available, place the heels on the foot bars. Release and pull the lever brace to position the legs together, then engage the lever into the locked position. Lean back and grasp the bars at the sides. Move the legs apart as far as possible. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_hip_abduction"
     },
@@ -9691,7 +9691,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Adjust platform so lever fulcrum is same height as hip articulation. Adjust roller in low position. Face machine and grasp bars to sides. Place outside of thigh against roller pad and shift body weight to opposite leg. Raise leg against roller pad to side by abduction hip. Return and repeat. Reposition roller pad lever and continue with opposite leg.",
+        "comment": "Adjust the platform so the lever fulcrum is at the same height as the hip. Set the roller to the low position. Face the machine and grasp the bars. Place the outside of one thigh against the roller pad and shift the body weight to the opposite leg. Raise the leg to the side by abducting the hip. Return and repeat. Reposition the roller pad lever and continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_standing_hip_abduction"
     },
@@ -9713,7 +9713,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on floor or mat with bar, plates loaded on one side. Sit on hip with knees bent and place bar on outside of shoe with weight plate(s) positioned beyond foot. Holding on to opposite end of bar, lie on side with weighted leg extended out straight and lower leg bent underneath. Raise weighted leg up off ground as high as possible. Balance bar on side of foot while holding onto closest side of bar. Return to floor and repeat. Continue with opposite leg.",
+        "comment": "Sit on a mat with the knees bent and load a bar with plates on one side. Place the bar on the outside of the foot with the weight plate positioned beyond the foot. Grasp the opposite end of the bar and lie on the side, with the weighted leg extended straight and the lower leg bent underneath. Raise the weighted leg as high as possible, balancing the bar on the side of the foot. Return to the floor and repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "weighted_lying_hip_abduction"
     },
@@ -9735,7 +9735,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Sit on floor facing suspension trainer loops in low position. Grasp bottom of loops, then lay supine. Raise legs and place heels in loops with soles contacting handles. Extend legs out and place arms on floor off to sides. Straighten low back, knees, and hips, raising back and hips off of floor. Pull legs apart as far as possible. Return by placing legs together and repeat.",
+        "comment": "Sit on the floor facing the suspension trainer loops. Grasp the bottom of the loops, then lie back. Raise the legs and place the heels in the loops with the soles contacting the handles. Extend the legs out and place the arms on the floor at the sides. Straighten the lower back, knees, and hips, raising the back and hips off the floor. Pull the legs apart as far as possible. Return by bringing the legs together. Repeat.",
         "isFeatured": false,
         "translationKey": "suspended_hip_abduction"
     },
@@ -9757,7 +9757,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Attach cable ankle straps to both ankles, then attach ankle straps to cable. Lie supine on floor, mat, or bench back far enough so cable is taut. Grasp support behind head. With knees straight, raise legs by flexing hips until thighs are just past perpendicular to torso or before hips raise off of mat. Return until hips are extended. Repeat.",
+        "comment": "Attach the cable ankle straps to both ankles. Lie on a mat or bench, far enough back so the cable is taut. Grasp a support behind the head. With the knees straight, raise the legs by flexing the hips until the thighs are just past perpendicular to the torso, or before the hips rise off the mat. Return until the hips are extended. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_lying_straight_leg_raise"
     },
@@ -9779,7 +9779,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Attach cable ankle cuff to one ankle. Stand facing away from low pulley. Step  forward  with opposite leg so leg with cuff is pulled back. Grasp lateral bars or other prop for support. Raise knee by flexing hip while allowing lower leg to bend back under resistance. When thigh is just beyond horizontal, lower leg until hip and knee is extended. Repeat. Continue with opposite leg.",
+        "comment": "Attach the cable ankle cuff to one ankle. Stand facing away from the low pulley. Step forward with the opposite leg so the cuffed leg is pulled back. Grasp the lateral bars or another support. Raise the knee by flexing the hip, allowing the lower leg to bend back under the resistance. When the thigh is just beyond horizontal, lower the leg until the hip and knee are extended. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "cable_standing_leg_raise"
     },
@@ -9801,7 +9801,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand on platform facing to one side and grasp bar for support. Position front of leg nearest to machine against padded roller while standing on other leg. Raise lever by flexing hip until knee is higher than hip. Return until hip is extended. Repeat. Continue with opposite leg.",
+        "comment": "Stand on the platform facing to one side and grasp the bar for support. Place the front of the leg nearest the machine against the padded roller while standing on the other leg. Raise the lever by flexing the hip until the knee is higher than the hip. Return until the hip is extended. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_hip_flexion"
     },
@@ -9823,7 +9823,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on apparatus with lower leg secured under padded bar. Hold weight in front of chest (as shown) or behind neck or use no weight. Lower body back until hips are almost extended. Raise body by flexing hips until torso is upright. Repeat.",
+        "comment": "Sit on the apparatus with the lower leg secured under the padded bar. Hold a weight in front of the chest or behind the neck, or use no weight. Lower the body back until the hips are almost extended. Raise the body by flexing the hips until the torso is upright. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_decline_sit_up"
     },
@@ -9845,7 +9845,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on incline board. Place weight between feet or use no weight. Lie supine on incline board with torso elevated. Grasp feet hooks or sides of board for support. Raise legs by flexing hips and knees until hips are completely flexed. Return until hips and knees are extended. Repeat.",
+        "comment": "Sit on the incline board and place a weight between the feet, or use no weight. Lie on the incline board with the torso elevated. Grasp the foot hooks or the sides of the board for support. Raise the legs by flexing the hips and knees until the hips are completely flexed. Return until the hips and knees are extended. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_incline_leg_raise"
     },
@@ -9867,7 +9867,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on end of bench. Place weight between feet. Lie supine on bench. Grasp bench on each side behind head for support. Raise legs by flexing hips and knees until hips are completely flexed. Return until hips and knees are extended. Repeat.",
+        "comment": "Sit on the end of a bench and place a weight between the feet. Lie on the bench. Grasp the bench on each side behind the head for support. Raise the legs by flexing the hips and knees until the hips are completely flexed. Return until the hips and knees are extended. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_lying_leg_raise"
     },
@@ -9889,7 +9889,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on apparatus with lower leg secured under padded bar. Hold weight to front of chest or behind neck or use no weight. Lower body back until hips are almost extended. Raise body by flexing hips until torso is upright. Repeat.",
+        "comment": "Sit on the apparatus with the lower leg secured under the padded bar. Hold a weight in front of the chest or behind the neck, or use no weight. Lower the body back until the hips are almost extended. Raise the body by flexing the hips until the torso is upright. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_roman_chair_sit_up"
     },
@@ -9911,7 +9911,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on edge of bench with legs extended to floor. Place weight between ankles. Grasp edge of bench. Lean torso back and balance bodyweight on edge of bench. Raise legs by flexing hips and knees while pulling torso slightly forward to maintain balance. Return by extending hips and knees and lean torso back to counter balance. Repeat.",
+        "comment": "Sit on the edge of a bench with the legs extended to the floor. Place a weight between the ankles and grasp the edge of the bench. Lean the torso back and balance on the edge of the bench. Raise the legs by flexing the hips and knees while pulling the torso slightly forward to maintain balance. Return by extending the hips and knees and leaning the torso back to counterbalance. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_seated_leg_raise"
     },
@@ -9933,7 +9933,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand in vertical leg raise apparatus. Place weight between ankles or feet. Position forearms on padded parallel bars with hands on handles and back on vertical pad. Hang with legs straight and feet off of floor. Raise legs by flexing hips and knees until hips are completely flexed or knees are well above hips. Return until hips and knees are extended. Repeat.",
+        "comment": "Stand in the vertical leg raise apparatus. Place a weight between the ankles. Position the forearms on the padded parallel bars with the hands on the handles and the back against the vertical pad. Hang with the legs straight and the feet off the floor. Raise the legs by flexing the hips and knees until the hips are completely flexed or the knees are well above the hips. Return until the hips and knees are extended. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_vertical_leg_raise"
     },
@@ -9955,7 +9955,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand between parallel bars and place weight between ankles. Grip bar on each side with overhand grip. Lift body off floor and balance body upright with arms and legs positioned straight. Raise legs by flexing hips and knees until thighs are just past parallel to floor. Return until hips and knees are extended. Repeat.",
+        "comment": "Stand between the parallel bars and place a weight between the ankles. Grip the bar on each side with an overhand grip. Lift the body off the floor and balance upright with the arms and legs straight. Raise the legs by flexing the hips and knees until the thighs are just past parallel to the floor. Return until the hips and knees are extended. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_vertical_leg_raise_on_parallel_bars"
     },
@@ -9977,7 +9977,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand in vertical leg raise apparatus. Place weight between ankles or feet. Position forearms on padded parallel bars with hands on handles and back on vertical pad. Hang with legs straight and feet off of floor. With knees straight, raise legs by flexing hips until thighs are just past parallel to floor. Return until hips are extended. Repeat.",
+        "comment": "Stand in the vertical leg raise apparatus. Place a weight between the ankles. Position the forearms on the padded parallel bars with the hands on the handles and the back against the vertical pad. Hang with the legs straight and the feet off the floor. With the knees straight, raise the legs by flexing the hips until the thighs are just past parallel to the floor. Return until the hips are extended. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_vertical_straight_leg_raise"
     },
@@ -9999,7 +9999,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on edge of bench with legs extended to floor. Place weight between ankles or use no weight. Grasp edge of bench. Lean torso back and balance body weight on edge of bench. Raise legs by flexing hips and knees while pulling torso slightly forward to maintain balance. Return by extending hips and knees and lean torso back to counter balance. Repeat.",
+        "comment": "Sit on the edge of a bench with the legs extended to the floor. Place a weight between the ankles, or use no weight. Grasp the edge of the bench. Lean the torso back and balance on the edge of the bench. Raise the legs by flexing the hips and knees while pulling the torso slightly forward to maintain balance. Return by extending the hips and knees and leaning the torso back to counterbalance. Repeat.",
         "isFeatured": false,
         "translationKey": "seated_leg_raise"
     },
@@ -10021,7 +10021,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Stand on platform under loaded trap bar. Squat down until thighs are just past parallel to floor with knees pointed same direction as feet and feet flat on platform. Grasp handles to sides. Posture chest up with back arched tightly. Lift weight upward by extending knees and hips until straight. Pull shoulders back at top of lift if rounded. Return weights to floor by bending hips back while allowing knees to bend forward. Repeat.",
+        "comment": "Stand on the platform under the loaded trap bar. Squat down until the thighs are just past parallel to the floor, with the knees pointed in the same direction as the feet and the feet flat on the platform. Grasp the handles at the sides. Keep the chest up with the back arched. Lift the weight by extending the knees and hips until straight. Retract the shoulders at the top if rounded. Return by bending the hips back while allowing the knees to bend forward. Repeat.",
         "isFeatured": false,
         "translationKey": "trap_bar_squat"
     },
@@ -10043,7 +10043,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp cable stirrup(s) with both hands. Place one foot on elevated platform positioned near or between low pulleys. Raise body by extending knee and hip on platform until leg is straight. Return until foot of lower leg makes contact with lower platform or floor and repeat. Continue with opposite leg.",
+        "comment": "Grasp the cable stirrups with both hands. Place one foot on the elevated platform positioned near or between the low pulleys. Raise the body by extending the knee and hip of the supporting leg until the leg is straight. Return until the foot of the lower leg makes contact with the floor. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "cable_step_down"
     },
@@ -10065,7 +10065,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back on padded support. Place feet on platform. Grasp handles to sides. Push platform(s) away by extending knees and hips until knees are fully extended. Return until hips are completely flexed. Repeat.",
+        "comment": "Sit on the machine with the back against the padded support. Place the feet on the platform. Grasp the handles at the sides. Push the platforms away by extending the knees and hips until the knees are fully extended. Return until the hips are completely flexed. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_leg_press_plate_loaded"
     },
@@ -10087,7 +10087,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "With bar upper chest height, position bar on back of shoulders and grasp bar to sides. Place feet under bar. Disengage bar by rotating bar back. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "comment": "With the bar at upper chest height, position it on the back of the shoulders and grasp it at each side. Place the feet under the bar. Unrack the bar by rotating it back. Squat down by bending the hips back while allowing the knees to bend forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Extend the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_barbell_squat_plate_loaded"
     },
@@ -10109,7 +10109,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position ankles between padded supports, feet on platform, and knees on near-upper side of padded hump or on horizontal pad (depending on model). Position chest against padded roller with both arms wrapped under roller. With hips nearly straight, lower body by slowly straightening knees. Once knees are straight, return to upright kneeling position and repeat.",
+        "comment": "Position the ankles between the padded supports, with the feet on the platform and the knees on the near-upper side of the padded hump or on the horizontal pad, depending on the model. Position the chest against the padded roller with both arms wrapped under it. With the hips nearly straight, lower the body by slowly straightening the knees. Once the knees are straight, return to the upright kneeling position. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_inverse_leg_curl_plate_loaded"
     },
