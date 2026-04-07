@@ -403,5 +403,129 @@
         "cardioCategory": "machine",
         "trackResistance": true,
         "comment": "Step onto the side cover of the treadmill with a hand on the side rail. Facing the console, straddle the belt by standing on the side covers with a hand on the rails at each side. Place the hands on the upper handles with the body angled forward and the feet staggered. Walk forward whilst pushing the handles. Under greater resistances, the hands can be placed on the lower bars with the body leaning forward more. Self-propelled treadmills allow starting, stopping, or changing speed at will without having to push console buttons. To accelerate, take longer steps, speed up, and step forward beyond the centre of the treadmill. To slow down, take shorter steps, slow down, and keep the feet closer to the centre of the treadmill with the body upright. To stop, simply stop walking."
+    },
+    {
+        "id": "D9BC7730-D4FA-4B6B-93E4-A39BD4A0F217",
+        "name": "walking",
+        "muscleGroup": "legs",
+        "translationKey": "cardio_walking",
+        "family": "walking",
+        "canonicalKey": "cardio_walking",
+        "type": "cardio",
+        "measurement": "duration",
+        "aliases": [
+            "walk"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "low",
+        "cardioCategory": "basic",
+        "trackResistance": false,
+        "comment": "Walk at a steady pace. Spinal rotation occurs during brisk walking."
+    },
+    {
+        "id": "920CA2E0-CEB2-4A0C-AE60-0410BFB24B58",
+        "name": "running",
+        "muscleGroup": "legs",
+        "translationKey": "cardio_running",
+        "family": "running",
+        "canonicalKey": "cardio_running",
+        "type": "cardio",
+        "measurement": "duration",
+        "aliases": [
+            "run",
+            "jogging"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "basic",
+        "trackResistance": false,
+        "comment": "Run at a steady pace. Maintain an upright posture with the arms swinging naturally at the sides."
+    },
+    {
+        "id": "EBC57CCB-2F0F-42C5-958E-5C831FDD10C5",
+        "name": "burpee",
+        "muscleGroup": "fullBody",
+        "translationKey": "cardio_burpee",
+        "family": "burpee",
+        "canonicalKey": "cardio_burpee",
+        "type": "cardio",
+        "measurement": "repetitions",
+        "aliases": [
+            "burpee"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "low",
+        "cardioCategory": "calisthenics",
+        "trackResistance": false,
+        "comment": "Stand upright with the arms at the sides. Bend over and squat down. Place the hands on the floor, slightly wider than shoulder-width. Whilst holding the upper body in place, buck the hips up slightly by extending the knees and hips, then immediately kick the legs back. Land on the forefeet with the body in a straight plank position. Keeping the upper body in place, buck the hips up and rapidly pull the legs forward under the body, returning the feet to the original position. Rise up to the original standing posture. Repeat."
+    },
+    {
+        "id": "2528532A-839A-4EB1-AF4B-44148E15A856",
+        "name": "burpee push-up",
+        "muscleGroup": "fullBody",
+        "translationKey": "plyometric_burpee_push_up",
+        "family": "burpee",
+        "canonicalKey": "plyometric_burpee_push_up",
+        "type": "plyometric",
+        "measurement": "repetitions",
+        "aliases": [
+            "burpee push-up",
+            "burpee press-up"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "plyometricMechanics": "compound",
+        "plyometricForce": "push",
+        "plyometricFunction": "forward push",
+        "plyometricIntensity": "low",
+        "cardioCategory": "calisthenics",
+        "comment": "Stand with the feet shoulder-width or slightly wider apart. Squat down until the knees are at approximately 90° and bend over until the torso is nearly horizontal. Position the bent arms just below the head. Lean forward and take a short dive to the floor whilst kicking the legs back behind the body. Catch the body by placing the hands on the floor shoulder-width or slightly wider apart. Support the lower body on the forefeet. Lower the body to the floor by bending the arms whilst keeping the body straight. Quickly reverse direction by raising the body whilst keeping the body straight. Buck the hips up and rapidly pull the legs forward so the feet land on the floor under the midsection, whilst pulling the hands off the floor so the body ends up in the original bent-over squatting position. Repeat."
+    },
+    {
+        "id": "84177A0C-D4C0-4586-A449-A26514604258",
+        "name": "jumping jack",
+        "muscleGroup": "fullBody",
+        "translationKey": "cardio_jumping_jack",
+        "family": "jump",
+        "canonicalKey": "cardio_jumping_jack",
+        "type": "cardio",
+        "measurement": "repetitions",
+        "aliases": [
+            "jumping jack",
+            "star jump"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "calisthenics",
+        "trackResistance": false,
+        "comment": "Stand with the feet together, the knees slightly bent, and the arms at the sides. Jump whilst raising the arms and separating the legs to the sides. Land on the forefoot with the legs apart and the arms overhead. Jump again whilst lowering the arms and returning the legs to the midline. Land on the forefoot with the arms and legs in the original position. Repeat."
+    },
+    {
+        "id": "267AED9B-5A93-4D06-A806-AC5333C4BC1A",
+        "name": "mountain climber",
+        "muscleGroup": "fullBody",
+        "translationKey": "cardio_mountain_climber",
+        "family": "mountain_climber",
+        "canonicalKey": "cardio_mountain_climber",
+        "type": "cardio",
+        "measurement": "repetitions",
+        "aliases": [
+            "mountain climber"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "calisthenics",
+        "trackResistance": false,
+        "comment": "Place the hands on the floor, slightly wider than shoulder-width. On the forefeet, position one leg forward and bent under the body and extend the other leg back. Whilst holding the upper body in place, alternate the leg positions by pushing the hips up whilst immediately extending the forward leg back and pulling the rear leg forward under the body, landing on both forefeet simultaneously. Repeat."
     }
 ]
