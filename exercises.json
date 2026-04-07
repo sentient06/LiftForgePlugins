@@ -5731,7 +5731,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two low pulleys and grasp stirrups to each side. Stand upright with arms straight down to each side. With arms straight, elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Stand between the two low pulleys and grasp the stirrups at each side. Stand upright with the arms straight down. With the arms straight, raise the shoulders as high as possible. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_shrug"
     },
@@ -5753,7 +5753,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Stand holding dumbbells to sides. Elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Stand holding the dumbbells at the sides. Raise the shoulders as high as possible. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_shrug"
     },
@@ -5775,7 +5775,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on bench and grasp lower handles to each side. Sit upright. Elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Sit on the bench and grasp the lower handles at each side. Sit upright. Raise the shoulders as high as possible. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_shrug_plate_loaded"
     },
@@ -5797,7 +5797,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand holding lever bar with shoulder width overhand or mixed grip. Elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Stand holding the lever bar with a shoulder-width overhand or mixed grip. Raise the shoulders as high as possible. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "lever_shrug"
     },
@@ -5819,7 +5819,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand with shoulders under padded bar. Elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Stand with the shoulders under the padded bar. Raise the shoulders as high as possible. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "sled_gripless_shrug"
     },
@@ -5841,7 +5841,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand grasping smith bar with shoulder width or slightly wider overhand grip. Disengage bar by rotating bar back. Elevate shoulders as high as possible. Lower and repeat.",
+        "comment": "Grasp the Smith bar with a shoulder-width or slightly wider overhand grip. Unrack the bar by rotating it back. Raise the shoulders as high as possible. Lower, rack the bar, and repeat.",
         "isFeatured": false,
         "translationKey": "smith_shrug"
     },
@@ -5863,7 +5863,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand between parallel bars. Squat down and grasp parallel bars from above. Kick legs up inverting and balancing body upside down. Legs can be kept bent or straight, positioned vertically. Raise body up a high as possible by pulling shoulders toward ears. Lower body to original position and repeat.",
+        "comment": "Stand between the parallel bars. Squat down and grasp the bars from above. Kick the legs up, inverting and balancing the body upside down. Keep the legs bent or straight, positioned vertically. Raise the body as high as possible by pulling the shoulders towards the ears. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "inverted_shrug_on_parallel_bars"
     },
@@ -5885,7 +5885,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp gymnastics rings, one in each hand. Sit on mat between parallel bars. Kick legs up inverting and balancing body upside down. Raise body up a high as possible by pulling shoulders toward ears. Lower body to original position and repeat.",
+        "comment": "Grasp a set of gymnastics rings, one in each hand. Position beneath the rings and kick the legs up, inverting and balancing the body upside down. Raise the body as high as possible by pulling the shoulders towards the ears. Lower and repeat.",
         "isFeatured": false,
         "translationKey": "suspended_inverted_shrug"
     },
@@ -5907,7 +5907,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand with side to elbow height cable pulley. Grasp stirrup attachment with far arm. Position elbow against side and forearm across belly. Pull cable attachment away from body as far as possible by externally rotating shoulder. Return and repeat. Turn around and continue with opposite arm.",
+        "comment": "Stand sideways to a cable pulley set at elbow height. Grasp the stirrup with the far arm. Pin the elbow to the side with the forearm across the belly. Pull the stirrup away from the body as far as possible by externally rotating the shoulder. Return and repeat. Turn around and repeat with the other arm.",
         "isFeatured": false,
         "translationKey": "cable_standing_shoulder_external_rotation"
     },
@@ -5929,7 +5929,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Lie on side with legs separated for support. Grasp dumbbell and position elbow against side and forearm across belly. Lift dumbbell by rotating shoulder. Return and repeat. Flip over and continue with opposite arm.",
+        "comment": "Lie on one side with the legs slightly separated for support. Grasp a dumbbell and pin the elbow to the side with the forearm across the belly. Lift the dumbbell by externally rotating the shoulder. Return and repeat. Turn over and repeat with the other arm.",
         "isFeatured": false,
         "translationKey": "dumbbell_lying_shoulder_external_rotation"
     },
@@ -5951,7 +5951,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Stand or sit with side against chest height platform. With dumbbell in hand, position upper arm horizontally on platform, elbow bent so forearm is upright. Lower dumbbell forward by rotating shoulder. Return and repeat. Continue with opposite arm.",
+        "comment": "Stand or sit with the side against a chest-height platform. Holding a dumbbell, place the upper arm flat on the platform with the elbow bent so the forearm is upright. Lower the dumbbell forward by rotating the shoulder. Return and repeat. Switch arms.",
         "isFeatured": false,
         "translationKey": "dumbbell_upright_shoulder_external_rotation_with_support"
     },
@@ -5973,7 +5973,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on section of bench nearest pads to each side. Position body so shoulders and elbows are aligned to fulcrum on each side. Place wrists or back of hands on under upper set of pads to each side. Pull both lever arms back and down as far as possible to each side of head by simultaneously rotating upper arms. Lower lever arms to original position and repeat.",
+        "comment": "Lie supine on the bench nearest the pads. Position the body so the shoulders and elbows are aligned with the fulcrum on each side. Place the wrists or the backs of the hands against the upper set of pads on each side. Pull both lever arms back and down as far as possible to each side of the head by simultaneously rotating the upper arms. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_shoulder_external_rotation_plate_loaded"
     },
@@ -5995,7 +5995,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place elbow on forearm pad and grasp handle with upper arm to side of body and forearm against body. Pull lever away from body. Return and repeat. Adjust lever to opposite side and repeat with other arm.",
+        "comment": "Place the elbow on the forearm pad and grasp the handle with the upper arm at the side and the forearm against the body. Pull the lever away from the body as far as possible. Return and repeat. Adjust the lever to the opposite side and repeat with the other arm.",
         "isFeatured": false,
         "translationKey": "lever_shoulder_external_rotation"
     },
@@ -6017,7 +6017,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp suspension handles and position bent elbows to each sides of waist.",
+        "comment": "Grasp the suspension handles and position the bent elbows at each side of the waist. Step back until the straps are taut. Step forward slightly so the body reclines behind the handles, keeping the body and legs straight. Pull the handles apart to each side, maintaining the fixed elbow position throughout. Rise forward until the handles are at each side of the body. Return until the handles come back together in front of the body. Repeat.",
         "isFeatured": false,
         "translationKey": "suspended_shoulder_external_rotation"
     },
@@ -6039,7 +6039,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand with side to elbow height cable pulley. Grasp cable stirrup with near arm. Position elbow against side with elbow bent approximately 90°. Pull cable stirrup toward body by internally rotating shoulder until forearm is across belly. Return and repeat. Continue with opposite arm.",
+        "comment": "Stand sideways to a cable pulley set at elbow height. Grasp the stirrup with the near arm. Pin the elbow to the side with the elbow bent to approximately 90°. Pull the stirrup towards the body by internally rotating the shoulder until the forearm is across the belly. Return and repeat. Turn around and repeat with the other arm.",
         "isFeatured": false,
         "translationKey": "cable_standing_shoulder_internal_rotation"
     },
@@ -6061,7 +6061,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Hold dumbbell in one hand. Lie on mat with dumbbell in hand. Position upper arm on mat close to body. Bend elbow approximately 90° with dumbbell held upright above elbow. Maintaining 90° bend in elbow, lower dumbbell toward floor until slight stretch is felt in shoulder. Lift dumbbell toward body by internally rotating shoulder until forearm is vertical and repeat. Continue with opposite arm.",
+        "comment": "Lie on a mat and hold a dumbbell in one hand. Position the upper arm flat on the mat close to the body, with the elbow bent to approximately 90° and the forearm held upright. Maintaining the bend in the elbow, lower the dumbbell towards the floor until a slight stretch is felt in the shoulder. Internally rotate the shoulder to raise the dumbbell back until the forearm is vertical. Repeat, then switch arms.",
         "isFeatured": false,
         "translationKey": "dumbbell_shoulder_internal_rotation_on_floor"
     },
@@ -6083,7 +6083,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on section of bench furthest away from pads to each side. Position body so shoulders and elbows are aligned to fulcrum on each side. Place wrists or hands on under lower set of pads to each side of head. Pull lever arms upward and toward each side of torso as far as possible by simultaneously rotating upper arms. Lower lever arms to original position and repeat.",
+        "comment": "Lie supine on the bench furthest from the pads. Position the body so the shoulders and elbows are aligned with the fulcrum on each side. Place the wrists or hands against the lower set of pads on each side of the head. Pull both lever arms upward and towards each side of the torso as far as possible by simultaneously rotating the upper arms. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_shoulder_internal_rotation_plate_loaded"
     },
@@ -6105,7 +6105,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place elbow on forearm pad and grasp handle with upper arm to side of body and forearm away from body. Pull lever toward from body. Return and repeat. Adjust lever to opposite side and repeat with other arm.",
+        "comment": "Place the elbow on the forearm pad and grasp the handle with the upper arm at the side and the forearm pointing away from the body. Pull the lever towards the body as far as possible. Return and repeat. Adjust the lever to the opposite side and repeat with the other arm.",
         "isFeatured": false,
         "translationKey": "lever_shoulder_internal_rotation"
     },
@@ -6127,7 +6127,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Mount wide dip bar with oblique grip (bar diagonal under palm), arms straight with shoulders above hands. Step down onto assistance lever with hips and knees bent. Lower body by bending arms, allowing elbows to flare out to sides. When slight stretch is felt in chest or shoulders, push body up until arms are straight. Repeat.",
+        "comment": "Mount the wide dip bar with an oblique grip (bar diagonal under the palm), with the arms straight and the shoulders above the hands. Step down onto the assistance platform with the hips and knees bent. Lower the body by bending the arms, allowing the elbows to flare out to the sides. When a slight stretch is felt in the chest or shoulders, push up until the arms are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_chest_dip"
     },
@@ -6149,7 +6149,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Mount wide dip bar with oblique grip (bar diagonal under palm), arms straight with shoulders above hands. Kneel on padded platform, lowering it down slightly so hips are slightly bent. Lower body by bending arms, allowing elbows to flare out to sides. When slight stretch is felt in chest or shoulders push body up until arms are straight. Repeat.",
+        "comment": "Mount the wide dip bar with an oblique grip (bar diagonal under the palm), with the arms straight and the shoulders above the hands. Kneel on the padded platform, lowering it slightly so the hips are slightly bent. Lower the body by bending the arms, allowing the elbows to flare out to the sides. When a slight stretch is felt in the chest or shoulders, push up until the arms are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "machine_assisted_chest_dip_kneeling"
     },
@@ -6171,7 +6171,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp two opposing low pulley stirrup attachments. Lie supine on bench, in middle and perpendicular to both pulleys. Slightly bend elbows and internally rotate shoulders so elbows are back. Bring cable attachments together in hugging motion with elbows in fixed position and shoulders internally rotated so elbows are to sides. Return to starting position until slight stretch. Repeat.",
+        "comment": "Grasp the two opposing low pulley stirrups. Lie supine on a bench positioned in the middle and perpendicular to both pulleys. Slightly bend the elbows and internally rotate the shoulders so the elbows point back. Bring the stirrups together in a hugging motion, keeping the elbows fixed. Return to the starting position until a slight stretch is felt in the chest. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_lying_fly"
     },
@@ -6193,7 +6193,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp two opposing high pulley dumbbell attachments. Stand with pulleys to each side. Bend over slightly by flexing hips and knees. Bend elbows slightly and internally rotate shoulders so elbows are back initially. Bring cable attachments together in hugging motion with elbows in fixed position. Keep shoulders internally rotated so elbows are pointed upward at top and out to sides at bottom. Return to starting position until chest muscles are stretched. Repeat.",
+        "comment": "Grasp the two opposing high pulley stirrups. Stand with the pulleys to each side. Lean forward slightly by flexing at the hips and knees. With the elbows slightly bent and the shoulders internally rotated so the elbows point back, bring the stirrups together in a hugging motion, keeping the elbows fixed. Return to the starting position until the chest muscles are stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_standing_fly"
     },
@@ -6215,7 +6215,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Lie on bench and grasp stirrups attached to low cable pulley on each side. Position stirrups out to each side of chest with bent arm under each wrist. Push stirrups up over each shoulder until arms are straight and parallel to one another. Return stirrups to original position, until slight stretch is felt in shoulders or chest. Repeat.",
+        "comment": "Lie on a bench and grasp the stirrups attached to the low cable pulleys on each side. Position the stirrups at the sides of the chest with the elbows under the wrists. Push the stirrups upward over each shoulder until the arms are straight and parallel. Return to the starting position until a slight stretch is felt in the chest or shoulders. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_bench_press"
     },
@@ -6237,7 +6237,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit on seat and grasp stirrups to each side. Position elbows out to sides, slightly lower than shoulder height. Position hands slightly narrower than elbow width in front of upper arms. Push stirrups out straight until arms are straight and parallel to one another. Return stirrups to original position, until slight stretch is felt in shoulders or chest. Repeat.",
+        "comment": "Sit on the seat and grasp the stirrups at each side. Position the elbows out to the sides, slightly lower than shoulder height, with the hands in front of the upper arms. Push the stirrups forward until the arms are straight and parallel. Return to the starting position until a slight stretch is felt in the chest or shoulders. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_chest_press"
     },
@@ -6259,7 +6259,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two shoulder height pulleys, facing away from cable columns. Grasp cable stirrups from each side. Position stirrups to sides of chest with elbows out to sides. Position forearms horizontally and parallel with hands elbow width. Step forward in lunging posture (one foot in front and other foot behind). Lean and step forward with one foot in front, bending forward leg. Push stirrups forward until arms are straight and parallel to one another. Return stirrups to original position until slight stretch is felt in chest or shoulders. Repeat.",
+        "comment": "Stand between two shoulder-height pulleys, facing away from the cable columns. Grasp the stirrups from each side and position them at the sides of the chest with the elbows out. Adopt a split stance with one foot forward and one foot back, leaning slightly forward. Push the stirrups forward until the arms are straight and parallel. Return to the starting position until a slight stretch is felt in the chest or shoulders. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_standing_chest_press"
     },
@@ -6281,7 +6281,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit on seat and grasp stirrups to each side. Position elbows out to sides, slightly lower than shoulder height. Position hands slightly narrower than elbow width in front of upper arms. Push stirrups forward and slightly downward until arms are straight and parallel to one another. Return stirrups to original position, until slight stretch is felt in shoulders or chest. Repeat.",
+        "comment": "Sit on the seat and grasp the stirrups at each side. Position the elbows out to the sides, slightly lower than shoulder height, with the hands in front of the upper arms. Push the stirrups forward and slightly downward until the arms are straight and parallel. Return to the starting position until a slight stretch is felt in the chest or shoulders. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_decline_chest_press"
     },
@@ -6303,7 +6303,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Sit down on decline bench with feet under leg brace and dumbbells resting on thigh. Lie back with dumbbells. Position dumbbells to sides of chest with bent arm under each dumbbell. Press dumbbells up with elbows to sides until arms are extended. Lower weight to sides of chest until slight stretch is felt in chest or shoulder. Repeat.",
+        "comment": "Sit on the decline bench with the feet secured under the leg brace and the dumbbells resting on the thighs. Lie back, bringing the dumbbells to the sides of the chest with the elbows under the wrists. Press the dumbbells upward until the arms are extended. Lower to the sides of the chest until a slight stretch is felt. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_decline_bench_press"
     },
@@ -6325,7 +6325,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Lie on upper back perpendicular to bench. Flex hips slightly. Grasp one dumbbell from behind or from side with both hands under inner plate of dumbbell. Position dumbbell over chest with elbows slightly bent. Keeping elbows slightly bent throughout movement, lower dumbbell over and beyond head until upper arms are in-line with torso. Pull dumbbell up and over chest. Repeat.",
+        "comment": "Lie with the upper back across the bench, hips flexed slightly. Grasp a single dumbbell with both hands cupped under the inner plate. Hold it above the chest with the elbows slightly bent. Keeping the elbows slightly bent throughout, lower the dumbbell over and beyond the head until the upper arms are in line with the torso. Pull the dumbbell back over the chest. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_pullover"
     },
@@ -6347,7 +6347,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on bench with chest under lever bar. Grasp lever bar with wide oblique overhand grip. Press bar until arms are extended. Lower weight to upper chest. Repeat.",
+        "comment": "Lie on the bench with the chest under the lever bar. Grasp the lever bar with a wide oblique overhand grip. Press the bar until the arms are extended. Lower to the upper chest. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_bench_press_plate_loaded"
     },
@@ -6369,7 +6369,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat and grasp handles with oblique grip. If available, place handles in wider position. Lean forward slightly. Push lever down with elbows away from body. Return until chest is slightly stretched. Repeat.",
+        "comment": "If available, set the handles to the wider position. Sit on the seat and grasp the handles with an oblique grip. Lean forward slightly. Push the lever down with the elbows pointing away from the body. Return until the chest is slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_chest_dip_plate_loaded"
     },
@@ -6391,7 +6391,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with chest approximately height of handles. Grasp handles with wide overhand grip; elbows out to sides just below shoulders. Press levers until arms are extended. Return weight until chest muscles are slightly stretched. Repeat.",
+        "comment": "Sit on the seat with the chest at approximately the height of the handles. Grasp the handles with a wide overhand grip, elbows out to the sides just below the shoulders. Press the levers until the arms are extended. Return until the chest muscles are slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_chest_press_plate_loaded"
     },
@@ -6413,7 +6413,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with lever grips lower chest height. Grasp grips with wide overhand grip; elbows out to sides just below shoulders. Press lever until arms are extended. Return weight until chest muscles are slightly stretched. Repeat.",
+        "comment": "Sit on the seat with the lever grips at lower chest height. Grasp the grips with a wide overhand grip, elbows out to the sides just below the shoulders. Press the lever until the arms are extended. Return until the chest muscles are slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_decline_chest_press_plate_loaded"
     },
@@ -6435,7 +6435,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "If possible, place handles in wide position. Sit on seat and grasp handles with oblique grip. Lean forward slightly and allow elbows to flare out. Push lever down by straightening arms. Return lever up with elbows flaring out until chest is slightly stretched. Repeat.",
+        "comment": "If available, set the handles to the wider position. Sit on the seat and grasp the handles with an oblique grip. Lean forward slightly and allow the elbows to flare out. Push the lever down by extending the arms. Return with the elbows flaring out until the chest is slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_chest_dip"
     },
@@ -6457,7 +6457,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on bench. Position both arms under padded levers. Slightly bend elbows and internally rotate shoulders so elbows are back. Bring padded levers upward and together in hugging motion. Return to starting position until chest muscles are stretched. Repeat.",
+        "comment": "Lie on the bench. Position both arms under the padded levers. Slightly bend the elbows and internally rotate the shoulders so the elbows point back. Bring the padded levers upward and together in a hugging motion. Return to the starting position until the chest muscles are stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_lying_fly_gripless"
     },
@@ -6479,7 +6479,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back on pad. Grasp handles to both sides, shoulder height. Bend elbows slightly and internally rotate shoulders so elbows are pointing backward. Maintaining shoulders internally rotated, move handles forward and together handles reach forward position. Return handles back toward original position until mild stretch is felt in chest or shoulder. Repeat.",
+        "comment": "Sit on the machine with the back against the pad. Grasp the handles at each side at shoulder height. Slightly bend the elbows and internally rotate the shoulders so the elbows point backward. Move the handles forward and together until they meet in front. Return towards the starting position until a mild stretch is felt in the chest or shoulders. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_seated_fly"
     },
@@ -6501,7 +6501,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on bench with chest under lever bar. Grasp lever bar with wide oblique overhand grip. Press bar until arms are extended. Lower weight to upp   er chest. Repeat.",
+        "comment": "Lie on the bench with the chest under the lever bar. Grasp the lever bar with a wide oblique overhand grip. Press the bar until the arms are extended. Lower to the upper chest. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_bench_press"
     },
@@ -6523,7 +6523,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with chest approximately height of horizontal handles. If available, push foot lever until lever is within grasping range. Grasp handles with wide overhand grip; elbows out to sides just below shoulders. Release foot lever. Press lever until arms are extended. Return weight until chest muscles are slightly stretched. Repeat.",
+        "comment": "Sit on the seat with the chest at approximately the height of the handles. If available, engage the foot lever to bring the levers within grasping range. Grasp the handles with a wide overhand grip, elbows out to the sides just below the shoulders. Release the foot lever. Press the lever until the arms are extended. Return until the chest muscles are slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_chest_press"
     },
@@ -6545,7 +6545,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with chest approximately height of handles. Grasp handles with wide overhand grip; elbows out to sides just below shoulders. Press lever until arms are extended. Return weight until chest muscles are slightly stretched. Repeat.",
+        "comment": "Sit on the seat with the chest at approximately the height of the handles. Grasp the handles with a wide overhand grip, elbows out to the sides just below the shoulders. Press the lever until the arms are extended. Return until the chest muscles are slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_chest_press"
     },
@@ -6567,7 +6567,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with lever grips lower chest height. Grasp grips with wide overhand grip; elbows out to sides just below shoulders. Press lever until arms are extended. Return weight until chest muscles are slightly stretched. Repeat.",
+        "comment": "Sit on the seat with the lever grips at lower chest height. Grasp the grips with a wide overhand grip, elbows out to the sides just below the shoulders. Press the lever until the arms are extended. Return until the chest muscles are slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_decline_chest_press"
     },
@@ -6589,7 +6589,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on bench with chest under bar. Grasp bar with wide oblique overhand grip. Disengage bar by raising and rotating bar back. Lower weight to chest. Press bar until arms are extended. Repeat.",
+        "comment": "Lie on a bench with the chest under the bar. Grasp the bar with a wide oblique overhand grip. Unrack the bar by raising and rotating it back. Lower to the chest. Press the bar until the arms are extended. Rack the bar and repeat.",
         "isFeatured": false,
         "translationKey": "smith_bench_press"
     },
@@ -6611,7 +6611,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on decline bench with feet under leg brace and lower chest under bar. Grasp bar with wide oblique overhand grip. Disengage bar by raising and rotating bar back. Lower weight to lower chest. Press bar until arms are extended. Repeat.",
+        "comment": "Lie on the decline bench with the feet secured under the leg brace and the lower chest under the bar. Grasp the bar with a wide oblique overhand grip. Unrack the bar by raising and rotating it back. Lower to the lower chest. Press the bar until the arms are extended. Rack the bar and repeat.",
         "isFeatured": false,
         "translationKey": "smith_decline_bench_press"
     },
@@ -6633,7 +6633,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Stand between two suspension handles, approximately mid-thigh height. Grasp handles on each side and straighten arms with shoulders above hands. Hold position firmly and place portion of body weight on handles. Lower body by bending arms back. If necessary, use minimal assistance of lower body to control descent, allowing knees to bend, keeping feet in contact with floor. When slight stretch is felt in chest or shoulders, push body up back up until arms are straight. Repeat with minimal assistance from legs.",
+        "comment": "Set the suspension handles to approximately mid-thigh height. Grasp the handles at each side and straighten the arms with the shoulders above the hands. Lower the body by bending the arms back, allowing the knees to bend slightly and keeping the feet in contact with the floor for self-assistance as needed. When a slight stretch is felt in the chest or shoulders, push the body up until the arms are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "suspended_self_assisted_chest_dip"
     },
@@ -6655,7 +6655,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp handles and step forward between suspension trainers. Position arms downward and slightly forward, nearly parallel with suspension straps. Lean forward, placing upper body weight onto handles with arms straight, while stepping back onto forefeet so body is leaning forward at desired angle. Straighten body so torso is in-line with legs. Lower body by bending arms while keeping body straight. Allow handles to come apart slightly to keep in-line with elbows flaring out. Stop descent once mild stretch is felt through shoulders or chest. Push body up to original position, allowing handles to travel inward to keep in line with elbows converging until arms are fully extended. Repeat.",
+        "comment": "Grasp the handles and step forward between the suspension trainers. Position the arms downward and slightly forward, nearly parallel with the straps. Lean forward and step back onto the forefeet so the body is at the desired angle, with the arms straight and the torso in line with the legs. Lower the body by bending the arms, keeping the body straight and allowing the handles to separate slightly in line with the elbows as they flare out. Stop once a mild stretch is felt through the chest or shoulders. Push back up to the starting position, allowing the handles to travel inward until the arms are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "suspended_chest_press"
     },
@@ -6677,7 +6677,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp handles and step forward between suspension trainer. Position arms downward and slightly forward, nearly parallel with suspension straps. Lean forward, placing upper body weight onto handles with arms straight, while stepping back onto forefeet, so body is leaning forward at desired angle. Straighten body so torso is in-line with legs. Bend elbows slightly and internally rotate shoulders, so elbows are pointed outward to each side. Lower body by allowing suspension handles to separate outward until mild stretch is felt in chest. Reverse motion by bringing handles back together in hugging motion. Repeat.",
+        "comment": "Grasp the handles and step forward between the suspension trainers. Position the arms downward and slightly forward, nearly parallel with the straps. Lean forward and step back onto the forefeet so the body is at the desired angle, with the arms straight and the torso in line with the legs. Slightly bend the elbows and internally rotate the shoulders so the elbows point outward to each side. Lower the body by allowing the handles to separate outward until a mild stretch is felt in the chest. Bring the handles back together in a hugging motion. Repeat.",
         "isFeatured": false,
         "translationKey": "suspended_fly"
     },
@@ -6699,7 +6699,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit on seat with stirrups in each hand (attached to low cable pulleys). Lie back on incline back support. Position stirrups out to each side of chest with bent arm under each wrist. Press stirrups over each shoulder until arms vertical. Bend elbows slightly and internally rotate shoulders so elbows point out to sides. Lower stirrups outward to sides of shoulders. Keep elbows fixed in slightly bent position. When a stretch is felt in chest or shoulders, bring stirrups back together in hugging motion above upper chest until stirrups are nearly together repeat.",
+        "comment": "Sit on the seat and grasp the stirrups attached to the low cable pulleys. Lie back on the incline support. Position the stirrups at the sides of the chest with the elbows under the wrists. Press the stirrups upward until the arms are vertical. Bend the elbows slightly and internally rotate the shoulders so the elbows point out to the sides. Lower the stirrups outward to the sides of the shoulders, keeping the elbows fixed. When a stretch is felt in the chest or shoulders, bring the stirrups back together in a hugging motion above the upper chest. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_incline_fly"
     },
@@ -6721,7 +6721,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Grasp two dumbbells. Lie supine on bench. Support dumbbells above upper chest with arms fixed in slightly bent position. Bend elbows slightly and internally rotate shoulders so elbows point out to sides. Lower dumbbells outward to sides of shoulders. Keep elbows fixed in slightly bent position. When a stretch is felt in chest or shoulders, bring dumbbells back together in hugging motion above upper chest until dumbbells are nearly together. Repeat.",
+        "comment": "Grasp two dumbbells and lie on an incline bench. Hold the dumbbells above the upper chest with the elbows slightly bent. Internally rotate the shoulders so the elbows point out to the sides. Lower the dumbbells outward to the sides of the shoulders, keeping the elbows fixed in the slightly bent position. When a stretch is felt in the chest or shoulders, bring the dumbbells back together in a hugging motion above the upper chest. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_incline_fly"
     },
@@ -6743,7 +6743,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with upper chest just above base of handles on lever. Grasp grips with wide overhand grip. Lift levers into starting position with elbows slightly low. Press levers until arms are extended. Return weight until chest muscles are slightly stretched with elbows positioned out to sides. Repeat.",
+        "comment": "Sit on the seat with the upper chest just above the base of the handles. Grasp the handles with a wide overhand grip, elbows slightly lowered. Press the levers until the arms are extended. Return until the chest muscles are slightly stretched with the elbows out to the sides. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_incline_chest_press_on_hammer_military_press_plate_loaded"
     },
@@ -6765,7 +6765,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on incline bench with chest under lever bar. Grasp lever bar with wide oblique overhand grip. Press bar until arms are extended. Lower weight toward chest. Repeat.",
+        "comment": "Lie on the incline bench with the chest under the lever bar. Grasp the lever bar with a wide oblique overhand grip. Press the bar until the arms are extended. Lower towards the chest. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_incline_bench_press"
     },
@@ -6787,7 +6787,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with upper chest just above grips on lever. If available, push foot lever until handles are within grasping range. Grasp handles with wide oblique overhand grip and position elbows out to sides. Release foot lever. Press lever until arms are extended. Return weight until shoulders or chest feels slightly stretched. Repeat.",
+        "comment": "Sit on the seat with the upper chest just above the grips. If available, engage the foot lever to bring the handles within grasping range. Grasp the handles with a wide oblique overhand grip and position the elbows out to the sides. Release the foot lever. Press the lever until the arms are extended. Return until the chest or shoulders feel slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_incline_chest_press"
     },
@@ -6809,7 +6809,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on seat with upper chest just above grips on lever. Grasp grips with wide overhand grip and position elbows out to sides. Press lever until arms are extended. Return weight until chest muscles are slightly stretched. Repeat.",
+        "comment": "Sit on the seat with the upper chest just above the grips. Grasp the grips with a wide overhand grip and position the elbows out to the sides. Press the lever until the arms are extended. Return until the chest muscles are slightly stretched. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_incline_chest_press"
     },
