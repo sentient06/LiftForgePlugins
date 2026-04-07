@@ -6831,7 +6831,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on bench. Position inside of forearms under roller pads with arms out to each side. Slightly bend elbows and internally rotate shoulders so elbows are back. Raise lever upward and together in hugging motion. Lower weight until slight stretch is felt in chest or shoulder. Repeat.",
+        "comment": "Lie on the bench and position the inside of the forearms under the roller pads with the arms out to each side. Slightly bend the elbows and internally rotate the shoulders so the elbows are directed back. Raise the levers upward and together in a hugging motion. Lower until a slight stretch is felt in the chest or shoulders. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_incline_fly"
     },
@@ -6853,7 +6853,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on incline bench with chest under bar. Grasp bar with wide oblique overhand grip. Disengage bar by raising and rotating bar back. Lower weight to chest. Press bar until arms are extended. Repeat.",
+        "comment": "Lie on the incline bench with the chest under the bar. Grasp the bar with a wide oblique overhand grip. Unrack the bar by raising and rotating it back. Lower the bar to the chest. Press the bar until the arms are extended. Repeat.",
         "isFeatured": false,
         "translationKey": "smith_incline_bench_press"
     },
@@ -6875,7 +6875,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Lie supine on incline bench. Dismount barbell from rack with shoulder width overhand grip. Position barbell over upper chest with elbows extended. Raise shoulders toward bar as high as possible. Lower shoulders to bench and repeat.",
+        "comment": "Lie on the incline bench and unrack the barbell with a shoulder-width overhand grip. Position the barbell over the upper chest with the elbows extended. Raise the shoulders towards the bar as high as possible. Lower the shoulders to the bench and repeat.",
         "isFeatured": false,
         "translationKey": "barbell_incline_shoulder_raise"
     },
@@ -6897,7 +6897,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit on seat and grasp stirrups to each side. Push stirrups out at 30º to 45º until arms are straight and parallel to one another. Raise shoulders toward stirrups as high as possible. Lower shoulders down and back and repeat.",
+        "comment": "Sit on the seat and grasp the stirrups at each side. Push the stirrups out at 30° to 45° until the arms are straight and parallel to one another. Raise the shoulders towards the stirrups as high as possible. Lower the shoulders and repeat.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_incline_shoulder_raise"
     },
@@ -6919,7 +6919,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Sit down on incline bench with dumbbells resting on lower thigh. Kick weights to shoulders and lean back. Position dumbbells above shoulders with elbows extended. Raise shoulders toward dumbbells as high as possible. Lower shoulders to bench and repeat.",
+        "comment": "Sit on the incline bench with the dumbbells resting on the lower thighs. Kick the dumbbells up to the shoulders and lean back. Position the dumbbells above the shoulders with the elbows extended. Raise the shoulders towards the dumbbells as high as possible. Lower the shoulders to the bench and repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_incline_shoulder_raise"
     },
@@ -6941,7 +6941,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on lever chest press machine with shoulders aligned with lever grips. Grasp lever grips with shoulder width overhand grip. Push weight up so arms are straight. Raise shoulders toward lever grips as far as possible. Lower shoulders to bench and repeat.",
+        "comment": "Sit on the machine with the shoulders aligned with the lever grips. Grasp the lever grips with a shoulder-width overhand grip. Push the weight up until the arms are straight. Raise the shoulders towards the grips as far as possible. Lower the shoulders to the bench and repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_incline_shoulder_raise_plate_loaded"
     },
@@ -6963,7 +6963,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on lever chest press machine with shoulders aligned with lever grips. Grasp lever grips with shoulder width overhand grip. Push weight up so arms are straight. Raise shoulders toward lever grips as far as possible. Lower shoulders to bench and repeat.",
+        "comment": "Sit on the machine with the shoulders aligned with the lever grips. Grasp the lever grips with a shoulder-width overhand grip. Push the weight up until the arms are straight. Raise the shoulders towards the grips as far as possible. Lower the shoulders to the bench and repeat.",
         "isFeatured": false,
         "translationKey": "lever_incline_shoulder_raise"
     },
@@ -6985,7 +6985,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on incline bench with shoulders under bar. Grasp bar with shoulder width overhand grip. Extend elbows. Disengage bar by rotating bar back. Raise shoulders toward bar as high as possible. Lower shoulders to bench and repeat.",
+        "comment": "Lie on the incline bench with the shoulders under the bar. Grasp the bar with a shoulder-width overhand grip and extend the elbows. Unrack the bar by rotating it back. Raise the shoulders towards the bar as high as possible. Lower the shoulders to the bench and repeat.",
         "isFeatured": false,
         "translationKey": "smith_incline_shoulder_raise"
     },
@@ -7007,7 +7007,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Kneel below high pulley. Grasp cable rope attachment with both hands. Place wrists against head. Position hips back and flex hips, allowing resistance on cable pulley to lift torso upward so spine is hyperextended. With hips stationary, flex waist so elbows travel toward middle of thighs. Return and repeat.",
+        "comment": "Kneel below the high pulley and grasp the rope attachment with both hands. Place the fists against the sides of the head. Sit the hips back and allow the cable tension to extend the torso until the spine is fully extended. With the hips stationary, flex the waist so the elbows travel towards the middle of the thighs. Return and repeat.",
         "isFeatured": false,
         "translationKey": "cable_kneeling_crunch"
     },
@@ -7029,7 +7029,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Sit with back support away from medium high pulley. Grasp cable rope attachment with both hands and place securely over both shoulders. Allow weight to lift chest up with spine arched back slightly. With hips stationary, flex waist so elbows travel toward hips. Return and repeat.",
+        "comment": "Sit facing away from the medium-height pulley with the back against a back support. Grasp the rope attachment with both hands and place it securely over both shoulders. Allow the weight to extend the torso slightly. With the hips stationary, flex the waist so the elbows travel towards the hips. Return and repeat.",
         "isFeatured": false,
         "translationKey": "cable_seated_crunch"
     },
@@ -7051,7 +7051,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Position back against back pad with knees slightly bent, shoulders back, and chest high. Position both cable ropes over shoulders, one in each hand. Place hands with cable ropes in front of each shoulder so that cable is taut. If available, place hand in rope slot that allows cable to be taut when hands are in position. Flex waist so torso pulls ropes forward and downward. Return until back of shoulders return to surface. Repeat alternating twists with opposite sides.",
+        "comment": "Stand with the back against the back pad, knees slightly bent, shoulders back, and chest high. Place both cable ropes over the shoulders, one in each hand, with the fists in front of each shoulder and the cables taut. Flex the waist so the torso pulls the ropes forward and downward. Return until the shoulders meet the back pad. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_standing_crunch_with_isolateral_straps"
     },
@@ -7073,7 +7073,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "With dumbbells in each hand, position feet under foot pad and lie supine on steep incline bench. Position dumbbells straight over shoulders. Flex waist to raise upper torso from bench, keeping low back on bench. Return until back of shoulders contact padded incline bench. Repeat.",
+        "comment": "Lie on the steep incline bench with the feet hooked under the foot pad. Hold a dumbbell in each hand and position them directly above the shoulders. Flex the waist to raise the upper torso from the bench, keeping the lower back on the bench. Return until the shoulders contact the bench. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_push_crunch"
     },
@@ -7095,7 +7095,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie on machine with feet on foot bar. Place forearms on bars at sides or grasp handles above to each side. With hips stationary, raise upper back pad by flexing waist. Return and repeat.",
+        "comment": "Lie on the machine with the feet on the foot bar. Place the forearms on the bars at the sides, or grasp the handles above at each side. With the hips stationary, flex the waist to raise the upper pad. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_lying_crunch_plate_loaded"
     },
@@ -7117,7 +7117,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back against back support and lower legs under padded bar. Grasp handles above to each side. Pull handles down while pulling lower leg bar up by flexing waist and pelvis. Return and repeat.",
+        "comment": "Sit on the machine with the back against the back support and the lower legs under the padded bar. Grasp the handles above at each side. Pull the handles down while pulling the lower leg bar up by flexing the waist and pelvis. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_leg_raise_crunch_plate_loaded"
     },
@@ -7139,7 +7139,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back and hips against back supports. If available, place lower legs under pads or on platform. Grasp handles above and position back of arm against pads to each side. With hips stationary, flex waist so elbows travel downward. Return and repeat.",
+        "comment": "Sit on the machine with the back and hips against the supports. If available, place the lower legs under the pads or on the platform. Grasp the handles above and position the backs of the arms against the pads at each side. With the hips stationary, flex the waist so the elbows travel downward. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_crunch"
     },
@@ -7161,7 +7161,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back and hips against padded supports. Place feet on floor or feet bars so thigh is approximately horizontal. Grasp handles and position forearms on bars or pads. With hips stationary, flex waist so arms and upper torso travel forward and downward. Return and repeat.",
+        "comment": "Sit on the machine with the back and hips against the padded supports. Place the feet on the floor or foot bars so the thighs are approximately horizontal. Grasp the handles and position the forearms on the bars or pads. With the hips stationary, flex the waist so the arms and upper torso travel forward and downward. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_crunch_arm_bar"
     },
@@ -7183,7 +7183,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position seat so shoulders are same height of padded lever. Sit on machine and place arms over lever pad. Push padded lever down slightly until shoulder is fixed at approximately 90º or slightly greater. With hips stationary, flex waist in \"c\" shape so elbows point downward. Return and repeat.",
+        "comment": "Adjust the seat so the shoulders are at the same height as the padded lever. Sit on the machine and place the arms over the lever pad. Push the padded lever down slightly until the shoulders are fixed at approximately 90° or slightly greater. With the hips stationary, flex the waist in a \"c\" shape so the elbows point downward. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_crunch_arm_pad"
     },
@@ -7205,7 +7205,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position seat so chest is same height of padded lever. Sit on machine with back of hips against hip pad. Place hands on outside of lever pad. With hips stationary, flex waist in \"c\" shape so shoulders travel forward and downward. Return and repeat.",
+        "comment": "Adjust the seat so the chest is at the same height as the padded lever. Sit on the machine with the back of the hips against the hip pad. Place the hands on the outside of the lever pad. With the hips stationary, flex the waist in a \"c\" shape so the shoulders travel forward and downward. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_crunch_chest_pad"
     },
@@ -7227,7 +7227,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Straddle machine facing handles. Grasp handles on each side and place forearms on pads. Place shins on padded sled with knees forward and feet hanging off of back end. Sit back toward heels without bending over. Slide forward and up by pulling knees up high. Deliberately attempt to flex waist in a \"c\" shape. Return sled down and back arching spine in opposite direction while keeping hips bent. Repeat.",
+        "comment": "Straddle the machine facing the handles. Grasp the handles and place the forearms on the pads. Place the shins on the padded sled with the knees forward and the feet hanging off the back. Sit back towards the heels without bending forward. Slide forward and upward by pulling the knees up, flexing the waist in a \"c\" shape. Return the sled down and back, arching the spine in the opposite direction while keeping the hips bent. Repeat.",
         "isFeatured": false,
         "translationKey": "sled_leg_hip_raise_ab_coaster"
     },
@@ -7249,7 +7249,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on bench with head hanging off and knees and hips bent. Hold plate behind neck. Flex waist to raise upper torso from bench. Keep low back on bench and raise torso up as high as possible. Return until back of shoulders contact padded incline board. Repeat.",
+        "comment": "Lie on a bench with the head hanging off and the knees and hips bent. Hold a plate behind the neck. Flex the waist to raise the upper torso from the bench, keeping the lower back on the bench. Return until the shoulders contact the bench. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_crunch"
     },
@@ -7271,7 +7271,7 @@
         ],
         "tags": [],
         "primaryEquipment": "plate",
-        "comment": "Lie supine on mat with lower legs on bench. Hold plate on chest with both hands. Flex waist to raise upper torso from mat. Keep low back on mat and raise torso up as high as possible. Return until back of shoulders contact mat. Repeat.",
+        "comment": "Lie on a mat with the lower legs resting on a bench. Hold a plate on the chest with both hands. Flex the waist to raise the upper torso from the mat, keeping the lower back on the mat. Return until the shoulders contact the mat. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_crunch_plate_on_chest"
     },
@@ -7293,7 +7293,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on exercise ball. Walk forward on ball and lie back on ball with shoulders and head hanging off and knees and hips bent. Gently hyperextend back to contour of ball. Hold plate behind neck or on chest with both hands or use no weight. Flex waist to raise upper torso. Return to original position. Repeat.",
+        "comment": "Sit on the exercise ball, then walk the feet forward until the shoulders and head hang off the back of the ball, with the knees and hips bent. Gently extend the back over the contour of the ball. Hold a plate behind the neck or on the chest, or use no weight. Flex the waist to raise the upper torso. Return to the starting position. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_crunch_on_stability_ball"
     },
@@ -7315,7 +7315,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Hook feet under support and lie supine on incline bench with hips bent. Hold plate behind neck or clasp hands behind neck with no weight. Flex waist to raise upper torso from bench. Keep low back on bench and raise torso up as high as possible. Return until back of shoulders contact padded incline board. Repeat.",
+        "comment": "Hook the feet under the support and lie on the incline bench with the hips bent. Hold a plate behind the neck, or clasp the hands behind the neck to use no weight. Flex the waist to raise the upper torso from the bench, keeping the lower back on the bench. Return until the shoulders contact the padded incline board. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_incline_crunch"
     },
@@ -7337,7 +7337,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Hook feet under foot brace and lie supine on incline board with hips bent. Hold plate on chest with both hands or use no weight. Flex waist to raise upper torso from bench. Keep low back on bench and raise torso up as high as possible. Return until back of shoulders contact padded incline board. Repeat.",
+        "comment": "Hook the feet under the foot brace and lie on the incline board with the hips bent. Hold a plate on the chest with both hands, or use no weight. Flex the waist to raise the upper torso from the board, keeping the lower back on the board. Return until the shoulders contact the padded incline board. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_incline_crunch_arms_crossed"
     },
@@ -7359,7 +7359,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Position back against back pad with knees slightly bent, shoulders back, and chest high. Place both cable straps over shoulders, one in each hand. Place hands with cable strap in front of each shoulder so that cable is taut. If available, place hands in strap slots that allow cable to be taut when hands are in position with shoulders back. Flex and twist spine so torso pulls strap forward and downward while twisting one shoulder to forward center. Return until back of shoulders return to back pad. Repeat alternating twists with opposite sides.",
+        "comment": "Stand with the back against the back pad, knees slightly bent, shoulders back, and chest high. Place both cable straps over the shoulders, one in each hand, with the fists in front of each shoulder and the cables taut. Flex and twist the spine so the torso pulls the straps forward and downward, rotating one shoulder towards the centre. Return until the shoulders meet the back pad. Repeat, alternating sides.",
         "isFeatured": false,
         "translationKey": "cable_isolateral_standing_twisting_crunch_with_straps"
     },
@@ -7381,7 +7381,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with position back against back support and lower legs under padded bar. Grasp handles above to each side. Pull handles down while pulling lower leg bar up and over to one side by flexing and twisting waist and pelvis. Return and repeat movement to opposite side. Continue alternating between sides.",
+        "comment": "Sit on the machine with the back against the back support and the lower legs under the padded bar. Grasp the handles above at each side. Pull the handles down while pulling the lower leg bar up and to one side by flexing and twisting the waist and pelvis. Return and repeat to the opposite side. Continue alternating between sides.",
         "isFeatured": false,
         "translationKey": "lever_seated_twisting_leg_raise_crunch_plate_loaded"
     },
@@ -7403,7 +7403,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Hook feet under padding and lie supine on incline bench with hips bent. Hold plate on upper chest with both hands or use no weight. Flex and twist waist to raise upper torso from bench to one side. Return until back of shoulders contact padded incline board. Repeat to opposite side alternating twists.",
+        "comment": "Hook the feet under the padding and lie on the incline bench with the hips bent. Hold a plate on the upper chest with both hands, or use no weight. Flex and twist the waist to raise the upper torso from the bench to one side. Return until the shoulders contact the padded incline board. Repeat to the opposite side, alternating sides.",
         "isFeatured": false,
         "translationKey": "weighted_incline_twisting_crunch_arms_crossed"
     },
@@ -7425,7 +7425,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie upper back supine on floor or mat. With both legs together, knees and hips bent, position outside of leg down to side. Use no weight or hold weight to opposite side of head or across upper chest. Flex waist, raising upper torso off surface. Return until back of shoulders return to surface. Repeat and continue with movement in opposite position.",
+        "comment": "Lie on a mat with the legs together, knees and hips bent, and lower both legs to one side. Hold a weight on the opposite side of the head or across the upper chest, or use no weight. Flex the waist to raise the upper torso from the mat. Return until the shoulders contact the mat. Repeat. Reposition the legs to the opposite side and continue.",
         "isFeatured": false,
         "translationKey": "weighted_side_crunch"
     },
@@ -7447,7 +7447,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie supine on floor or bench with knees and hips bent. Hold plate behind neck or on chest with both hands. Flex and twist waist to raise upper torso off surface to one side. Return until back of shoulders return to surface. Repeat to opposite side alternating twists.",
+        "comment": "Lie on a mat or bench with the knees and hips bent. Hold a plate behind the neck or on the chest with both hands. Flex and twist the waist to raise the upper torso to one side. Return until the shoulders contact the surface. Repeat to the opposite side, alternating sides.",
         "isFeatured": false,
         "translationKey": "weighted_twisting_crunch"
     },
@@ -7469,7 +7469,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on exercise ball. Walk forward on ball and lie back on ball with shoulders and head hanging off and knees and hips bent. Gently hyperextend back to contour of ball. Hold plate behind neck or on chest with both hands or use no weight. Flex waist to raise upper torso. Return to original position and repeat.",
+        "comment": "Sit on the exercise ball, then walk the feet forward until the shoulders and head hang off the back of the ball, with the knees and hips bent. Gently extend the back over the contour of the ball. Hold a plate behind the neck or on the chest, or use no weight. Flex and twist the waist to raise the upper torso to one side. Return to the starting position. Repeat to the opposite side, alternating sides.",
         "isFeatured": false,
         "translationKey": "weighted_twisting_crunch_on_stability_ball"
     },
@@ -7491,7 +7491,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Hook feet under foot or ankle brace and lie supine on incline bench with hips and knees bent. Hold plate behind neck with both hands. Flex and twist waist to one direction while raising torso from bench by bending hips. Return until back of shoulders contact padded incline board. Repeat to opposite side, alternating twists.",
+        "comment": "Hook the feet under the foot or ankle brace and lie on the incline bench with the hips and knees bent. Hold a plate behind the neck with both hands. Flex and twist the waist to one side while raising the torso from the bench. Return until the shoulders contact the padded incline board. Repeat to the opposite side, alternating sides.",
         "isFeatured": false,
         "translationKey": "weighted_incline_twisting_sit_up"
     },
@@ -7513,7 +7513,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Hook feet under foot brace and lie supine on incline board with hips and knees bent. Hold plate on chest with both hands or use no weight. Flex and twist waist to one direction while raising torso from bench by bending hips. Return until back of shoulders contact padded incline board. Repeat to opposite side alternating twists.",
+        "comment": "Hook the feet under the foot brace and lie on the incline board with the hips and knees bent. Hold a plate on the chest with both hands, or use no weight. Flex and twist the waist to one side while raising the torso from the board. Return until the shoulders contact the padded incline board. Repeat to the opposite side, alternating sides.",
         "isFeatured": false,
         "translationKey": "weighted_incline_twisting_sit_up_arms_crossed"
     },
@@ -7535,7 +7535,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place feet under low overhanging stationary object. Lie supine on floor or mat with hips and knees bent. Hold plate behind neck with both hands. Flex and twist waist to one direction while raising torso from bench by bending hips. Return until back of shoulders contact floor or mat. Repeat to opposite side alternating twists.",
+        "comment": "Secure the feet under a low stationary object and lie on a mat with the hips and knees bent. Hold a plate behind the neck with both hands. Flex and twist the waist to one side while raising the torso from the mat. Return until the shoulders contact the mat. Repeat to the opposite side, alternating sides.",
         "isFeatured": false,
         "translationKey": "weighted_twisting_sit_up"
     },
@@ -7557,7 +7557,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place feet under low overhanging stationary object. Lie supine on floor or mat with hips and knees bent. With both hands, hold plate on chest with forearms crossed. Flex and twist waist to one direction while raising torso from bench by bending hips. Return until back of shoulders contact floor or mat. Repeat to opposite side alternating twists.",
+        "comment": "Secure the feet under a low stationary object and lie on a mat with the hips and knees bent. Hold a plate on the chest with both hands, forearms crossed. Flex and twist the waist to one side while raising the torso from the mat. Return until the shoulders contact the mat. Repeat to the opposite side, alternating sides.",
         "isFeatured": false,
         "translationKey": "weighted_twisting_sit_up_arms_crossed"
     },
@@ -7579,7 +7579,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Sit on floor with feet under suspension trainer loops in low position. If loops cannot be extended down close to floor, sit on bench near hanging suspension trainer, positioned perpendicular to body where hands will be placed. Place heels in loops with soles contacting handles (or ankles through loops as shown). Extend legs out straight. Sit up and place hands on floor or bench to sides at desired distance from suspension trainer. Raise hips from floor or bench by supporting upper body with arms extended. Pull hips back while flexing spine in c shape. Raise hips up high by straightening spine and hips until straight. Repeat.",
+        "comment": "Sit on the floor with the feet under the suspension trainer loops. Place the heels in the loops and extend the legs out straight. Place the hands on the floor at each side. Raise the hips from the floor, supporting the upper body with extended arms. Pull the hips back while flexing the spine in a \"c\" shape, then raise the hips by straightening the spine until fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "suspended_pull_through"
     },
@@ -7601,7 +7601,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "With side to low pulley, grasp stirrup attachment with near arm. Stand with arm straight. Pull stirrup by bending sideways through waist so torso moves away from pulley. Lower stirrup by leaning torso toward pulley. Repeat. Continue with opposite side.",
+        "comment": "Stand side-on to the low pulley and grasp the stirrup with the near hand, arm straight. Pull the stirrup by bending sideways at the waist so the torso moves away from the pulley. Lower by leaning the torso back towards the pulley. Repeat. Continue with the opposite side.",
         "isFeatured": false,
         "translationKey": "cable_side_bend"
     },
@@ -7623,7 +7623,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "With side close to high pulley, grasp stirrup attachment with near hand. Position stirrup at side of shoulder, palm orientated inward, and elbow down to side. Pull stirrup downward by bending toward cable column through waist so torso moves toward base of cable column. Bend in opposite direction by leaning torso away from cable column, allowing stirrup to rise upward. Repeat. Continue with opposite side.",
+        "comment": "Stand side-on to the high pulley and grasp the stirrup with the near hand. Position the stirrup at the side of the shoulder, with the palm facing inward and the elbow down. Pull the stirrup downward by bending at the waist towards the cable column so the torso moves towards the base of the column. Return by leaning the torso away from the column, allowing the stirrup to rise. Repeat. Continue with the opposite side.",
         "isFeatured": false,
         "translationKey": "cable_side_crunch"
     },
@@ -7645,7 +7645,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp stirrup and straddle bench orientated with side facing medium height cable pulley. Sit with feet on floor. Hold onto stirrup with both hands with arms extending out straight toward stirrup. Keeping arms straight, rotate torso to opposite side until cable makes contact with shoulder. Return to original position and repeat. Continue with opposite side.",
+        "comment": "Straddle a bench positioned with one side facing the medium-height cable pulley. Grasp the stirrup with both hands and sit with the feet on the floor. Extend the arms straight towards the pulley. Keeping the arms straight, rotate the torso to the opposite side until the cable makes contact with the shoulder. Return to the starting position and repeat. Continue with the opposite side.",
         "isFeatured": false,
         "translationKey": "cable_seated_twist"
     },
@@ -7668,7 +7668,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Grasp stirrup from shoulder height cable pulley with both hands. Step and turn lower body away from pulley until near arm is horizontal and straight. Position feet wide apart facing away from pulley, furthest foot further away from pulley. Raise heel of nearest foot off floor. Bend knees of both legs slightly. Place far hand over other hand or interlace fingers. Keeping arms straight, rotate torso to opposite side until cable makes contact with shoulder. Return to original position and repeat. Continue with opposite side.",
+        "comment": "Grasp the stirrup of the shoulder-height cable pulley with both hands. Turn the body away from the pulley, stepping the feet wide apart and positioning the far foot furthest from the pulley. Raise the heel of the near foot slightly off the floor and bend both knees slightly. Interlace the fingers or place one hand over the other. Keeping the arms straight, rotate the torso to the opposite side until the cable makes contact with the shoulder. Return to the starting position and repeat. Continue with the opposite side.",
         "isFeatured": true,
         "translationKey": "cable_twist"
     },
@@ -7690,7 +7690,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Grasp dumbbell with arm straight to side. Bend waist to opposite side of dumbbell until slight stretch is felt. Lower to opposite side, same distance, and repeat. Continue with opposite side.",
+        "comment": "Grasp a dumbbell in one hand with the arm straight at the side. Bend at the waist to the side opposite the dumbbell until a slight stretch is felt. Return to the opposite side the same distance. Repeat. Continue with the opposite side.",
         "isFeatured": false,
         "translationKey": "dumbbell_side_bend"
     },
@@ -7712,7 +7712,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with seat turned to one side. Position back against back support and lower legs under padded bar. Grasp handles above to each side. Pull handles down while pulling lower leg bar up by flexing waist and pelvis. Return and repeat. Turn seat to opposite side and repeat.",
+        "comment": "Sit on the machine with the seat turned to one side. Position the back against the back support and place the lower legs under the padded bar. Grasp the handles above at each side. Pull the handles down while pulling the lower leg bar up by flexing the waist and pelvis. Return and repeat. Turn the seat to the opposite side and repeat.",
         "isFeatured": false,
         "translationKey": "lever_seated_side_leg_raise_crunch_plate_loaded"
     },
@@ -7734,7 +7734,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Adjust range of motion setting on machine to one side. Kneel on padded stool with both knees between leg pads. Place torso against upper pads and grasp handles. Rotate lower body through waist to opposite side. Return and repeat. Adjust range of motion setting to opposite side and repeat in opposite direction.",
+        "comment": "Adjust the range-of-motion setting on the machine to one side. Kneel on the padded stool with both knees between the leg pads. Place the torso against the upper pads and grasp the handles. Rotate the lower body through the waist to the opposite side. Return and repeat. Adjust the setting to the opposite side and repeat in the opposite direction.",
         "isFeatured": false,
         "translationKey": "lever_kneeling_twist"
     },
@@ -7756,7 +7756,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Adjust range of motion setting on machine to one side. Sit with legs against padding. Place torso against pad and grasp handles. Rotate torso through waist to opposite side. Return and repeat. Adjust range of motion setting to opposite side and repeat in opposite direction.",
+        "comment": "Adjust the range-of-motion setting on the machine to one side. Sit with the legs against the padding. Place the torso against the pad and grasp the handles. Rotate the torso through the waist to the opposite side. Return and repeat. Adjust the setting to the opposite side and repeat in the opposite direction.",
         "isFeatured": false,
         "translationKey": "lever_seated_twist"
     },
@@ -7778,7 +7778,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Adjust range of motion setting on seat to one side. Sit with legs straddled against padding. Wrap arms behind and under padded bars around each side. Rotate torso through waist to opposite side. Return and repeat. Adjust range of motion setting to opposite side and repeat in opposite direction.",
+        "comment": "Adjust the range-of-motion setting on the machine to one side. Sit with the legs straddled against the padding. Wrap the arms behind and under the padded bars at each side. Rotate the torso through the waist to the opposite side. Return and repeat. Adjust the setting to the opposite side and repeat in the opposite direction.",
         "isFeatured": false,
         "translationKey": "lever_seated_twist_gripless"
     },
@@ -7800,7 +7800,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Straddle machine facing handles with seat turned to one side. Grasp handles on each side and place forearms on pads. Place shins on padded sled with knees in front of turned seat and feet hanging off of back end. Sit back toward heels without bending over. Slide forward and up by pulling knees up high. Deliberately attempt to flex waist in a \"c\" shape. Return sled down and back arching spine in opposite direction while keeping hips bent. Repeat. Turn seat to opposite side and repeat.",
+        "comment": "Straddle the machine facing the handles, with the seat turned to one side. Grasp the handles and place the forearms on the pads. Place the shins on the padded sled with the knees forward and the feet hanging off the back. Sit back towards the heels without bending forward. Slide forward and upward by pulling the knees up, flexing the waist in a \"c\" shape. Return the sled down and back, arching the spine in the opposite direction while keeping the hips bent. Repeat. Turn the seat to the opposite side and repeat.",
         "isFeatured": false,
         "translationKey": "sled_side_leg_hip_raise_ab_coaster"
     },
@@ -7822,7 +7822,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Stand with shoulder width or wide stance. Grasp dumbbell to side. Place opposite hand to side or behind low back. With knees straight, lower dumbbell between feet by bending hips and twisting waist, so shoulder of weighted side is turned forward. Allow hips to fall back and waist to bend as dumbbell approaches floor. Lift dumbbell upward and back to side by extending hips and waist until standing upright. Pull shoulder back if rounded. Repeat. Perform exercise with opposite arm.",
+        "comment": "Stand with a shoulder-width or wider stance. Grasp a dumbbell at one side and place the opposite hand at the side or behind the lower back. With the knees straight, lower the dumbbell between the feet by bending at the hips and rotating the torso so the shoulder of the weighted side is turned forward. Allow the hips to fall back as the dumbbell approaches the floor. Lift the dumbbell upward by extending the hips and torso until standing upright. Retract the shoulder if rounded. Repeat with the opposite arm.",
         "isFeatured": false,
         "translationKey": "dumbbell_one_arm_straight_leg_deadlift"
     },
@@ -7844,7 +7844,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Grasp and hang from high bar with shoulder width or slightly wider overhand grip. Raise legs to one side by flexing hips and knees until hips are completely flexed or knees are well above hips. Return until hips and knees are extended downward. Raise legs to opposite side in same manner. Continue by bending and lifting legs, alternating between sides.",
+        "comment": "Grasp and hang from a high bar with a shoulder-width or slightly wider overhand grip. Raise the legs to one side by flexing the hips and knees until the hips are completely flexed or the knees are well above the hips. Return until the hips and knees are extended downward. Raise the legs to the opposite side in the same manner. Continue, alternating between sides.",
         "isFeatured": false,
         "translationKey": "hanging_twisting_leg_raise"
     },
@@ -7866,7 +7866,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Grasp and hang from high bar with shoulder width or slightly wider overhand grip. Raise legs to one side by flexing hips and knees until hips are completely flexed or knees are well above hips. Continue to raise knees toward shoulder by flexing waist toward one side. Return until waist, hips, and knees are extended downward. Raise legs to opposite side in same manner. Continue by bending legs and lifting knees high to each side until spine is full flexed to one side, alternating between sides.",
+        "comment": "Grasp and hang from a high bar with a shoulder-width or slightly wider overhand grip. Raise the legs to one side by flexing the hips and knees until the hips are completely flexed. Continue to raise the knees towards the shoulder by flexing the waist to one side. Return until the waist, hips, and knees are extended downward. Raise the legs to the opposite side in the same manner. Continue, alternating between sides, until the spine is fully flexed to each side.",
         "isFeatured": false,
         "translationKey": "hanging_twisting_leg_hip_raise"
     },
@@ -7888,7 +7888,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Grasp handles, step away, and face body to one side of suspension trainer anchor. Hold handles above head with arms bent. Stand far enough away to make suspension trainer straps taut. Step in just enough to achieve desired lean of body, while keeping tension on suspension trainer straps. Lower hips away from direction of suspension trainer anchor by laterally flexing spine. Return to original upright position and repeat. Reposition body facing opposite direction. Continue with other side.",
+        "comment": "Grasp the handles and face one side of the suspension trainer anchor. Hold the handles above the head with the arms bent and step back until the straps are taut. Step forward slightly to achieve the desired lean, maintaining tension on the straps. Lower the hips away from the direction of the anchor by laterally flexing the spine. Return to the upright position and repeat. Reposition to face the opposite direction and continue with the other side.",
         "isFeatured": false,
         "translationKey": "suspended_side_bend"
     },
@@ -7910,7 +7910,7 @@
         ],
         "tags": [],
         "primaryEquipment": "bodyweight",
-        "comment": "Sit on floor facing suspension trainer loops in low position. Place right foot in left lower loop. Cross left leg over right leg placed in right lower loop. Turn body to right and place hands on floor, shoulder width apart. Turn body to kneel on hands and knees. Reposition hands (shoulder width or slightly wider) at desired distance from suspension trainer so that body is square with suspension trainer straps. With arms straight, raise knees from ground so body is supported by arms and suspension trainer. Pull knees toward one elbow by bending hips a   nd knees to one side. Twist legs to one side, until hips and knees are completely flexed. Return by extending hips and knees to original straight position. Perform movement to opposite side. Continue by alternating each side.",
+        "comment": "Sit on the floor facing the suspension trainer loops. Place the feet in the loops and turn to kneel on the hands and knees. Reposition the hands at shoulder-width or slightly wider from the suspension trainer so the body is square with the straps. With the arms straight, raise the knees from the floor so the body is supported by the arms and suspension trainer. Pull the knees towards one elbow by bending the hips and knees to one side until fully flexed. Return by extending the hips and knees. Repeat to the opposite side. Continue, alternating between sides.",
         "isFeatured": false,
         "translationKey": "suspended_twisting_jack_knife"
     },
