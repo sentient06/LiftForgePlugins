@@ -7932,7 +7932,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Position barbell on back of shoulders and grasp bar to sides. Bend hips to lower torso forward until parallel to floor. Bend knees slightly during descent. Raise torso until hips are extended. Repeat.",
+        "comment": "Position the barbell on the back of the shoulders and grasp the bar at each side. Bend at the hips to lower the torso forward until parallel to the floor, bending the knees slightly. Raise the torso until the hips are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "barbell_bent_knee_good_morning"
     },
@@ -7954,7 +7954,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Stand with shoulder width or narrower stance on shallow platform with feet flat beneath bar. Bend knees and bend over with lower back straight. Grasp barbell with shoulder width overhand or mixed grip, shoulder width or slightly wider. Lift weight to standing position. With knees straight, lower bar toward top of feet by bending hips and waist. Lift bar by extending waist and hip until standing upright. Pull shoulders back slightly if rounded. Repeat.",
+        "comment": "Stand with a shoulder-width or narrower stance on a shallow platform with the feet flat beneath the bar. Bend the knees and hinge forward with the lower back straight. Grasp the barbell with a shoulder-width or slightly wider overhand or mixed grip. Lift the weight to a standing position. With the knees straight, lower the bar towards the top of the feet by bending at the hips and waist. Lift the bar by extending the hips and waist until standing upright. Retract the shoulders if rounded. Repeat.",
         "isFeatured": false,
         "translationKey": "barbell_straight_leg_deadlift"
     },
@@ -7976,7 +7976,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Position thighs prone on large pad and lower legs under padded brace. Place barbell on back of shoulders and grasp bar to sides. Raise upper body until hips and waist are fully extended. Lower body by bending hips and waist until mild stretch is felt or torso is vertical. Repeat.",
+        "comment": "Position the thighs face down on the large pad and secure the lower legs under the padded brace. Place the barbell on the back of the shoulders and grasp the bar at each side. Raise the upper body until the hips and waist are fully extended. Lower the body by bending at the hips and waist until a mild stretch is felt or the torso is vertical. Repeat.",
         "isFeatured": false,
         "translationKey": "barbell_hyperextension"
     },
@@ -7998,7 +7998,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Position thighs prone on padding. Hook heels on platform lip or under padded brace. Place barbell on back of shoulders and grasp bar to sides. Raise upper body until hips and waist are fully extended. Lower body by bending hips and waist until mild stretch is felt or torso is approximately perpendicular to legs. Repeat.",
+        "comment": "Position the thighs face down on the padding and hook the heels on the platform lip or under the padded brace. Place the barbell on the back of the shoulders and grasp the bar at each side. Raise the upper body until the hips and waist are fully extended. Lower the body by bending at the hips and waist until a mild stretch is felt or the torso is approximately perpendicular to the legs. Repeat.",
         "isFeatured": false,
         "translationKey": "barbell_45_hyperextension"
     },
@@ -8020,7 +8020,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two very low pulleys with shoulder width or narrower stance. Squat down and grasp stirrup attachments to each side. Stand upright with arms straight down to sides. Bow forward by bending hips. Bend knees slightly during descent and keep waist straight, flexing low back at bottom. With knees slightly bent, raise torso by extending at waist, then hips, gradually extending knees until standing upright. Pull shoulders back slightly if rounded. Repeat.",
+        "comment": "Stand between two very low pulleys with a shoulder-width or narrower stance. Squat down and grasp the stirrup attachments at each side. Stand upright with the arms straight at the sides. Hinge forward by bending at the hips, bending the knees slightly and keeping the back straight. With the knees slightly bent, raise the torso by extending at the hips, gradually extending the knees until standing upright. Retract the shoulders if rounded. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_stiff_leg_deadlift"
     },
@@ -8042,7 +8042,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand in between lever handles. Squat down with feet flat and grasp handles to sides. Lift lever by extending hips and knees to full extension. Pull shoulders back at top of lift if rounded. Return and repeat.",
+        "comment": "Stand between the lever handles. Squat down with the feet flat and grasp the handles at each side. Lift the lever by extending the hips and knees to full extension. Retract the shoulders at the top if rounded. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_deadlift_plate_loaded"
     },
@@ -8064,7 +8064,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand between lever handles with shoulder width or narrower stance. Squat down and grasp handles to each side. Stand upright with arms straight down to sides. Bow forward by bending hips. Bend knees slightly during descent and keep waist straight, flexing low back at bottom. With knees slightly bent, raise torso by extending at waist, then hips, gradually extending knees until standing upright. Pull shoulders back slightly if rounded. Repeat.",
+        "comment": "Stand between the lever handles with a shoulder-width or narrower stance. Squat down and grasp the handles at each side. Stand upright with the arms straight at the sides. Hinge forward by bending at the hips, bending the knees slightly and keeping the back straight. With the knees slightly bent, raise the torso by extending at the hips, gradually extending the knees until standing upright. Retract the shoulders if rounded. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_stiff_leg_deadlift_plate_loaded"
     },
@@ -8086,7 +8086,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back against padded lever. Push hips back against back of seat by pushing feet against platform. Arch back in \"C\" shape. Extend spine until hyperextended. Return and repeat.",
+        "comment": "Sit on the machine with the back against the padded lever. Push the hips back against the seat by pressing the feet against the platform. Arch the back in a \"C\" shape, then extend the spine until fully extended. Return and repeat.",
         "isFeatured": false,
         "translationKey": "lever_back_extension"
     },
@@ -8108,7 +8108,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position bar on back of shoulders. Grasp bar to sides. Disengage bar by rotating bar back. Bend hips to lower torso forward until parallel to floor. Bend knees slightly during descent. Raise torso until hips are extended. Repeat.",
+        "comment": "Position the bar on the back of the shoulders and grasp it at each side. Unrack the bar by rotating it back. Bend at the hips to lower the torso forward until parallel to the floor, bending the knees slightly. Raise the torso until the hips are fully extended. Repeat.",
         "isFeatured": false,
         "translationKey": "smith_bent_knee_good_morning"
     },
@@ -8130,7 +8130,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand with shoulder width or narrower stance with feet flat beneath bar. Grasp bar with shoulder width or slightly wider mixed grip or slightly wider. Disengage bar by rotating bar back. Squat down to lower bar by bending hips and knees. Lift bar by extending hips and knees to full extension. Pull shoulders back at top of lift if rounded. Return and repeat.",
+        "comment": "Stand with a shoulder-width or narrower stance with the feet flat beneath the bar. Grasp the bar with a shoulder-width or slightly wider mixed grip. Unrack the bar by rotating it back. Squat down by bending at the hips and knees. Lift the bar by extending the hips and knees to full extension. Retract the shoulders at the top if rounded. Return and repeat.",
         "isFeatured": false,
         "translationKey": "smith_deadlift"
     },
@@ -8152,7 +8152,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand with shoulder width or narrower stance on elevated platform with thigh against bar. Grasp bar with shoulder width or slightly wider overhand grip. Disengage bar by rotating bar back. With knees slightly bent, lower bar toward top of feet by bending hips. Keep waist straight, flexing only slightly at bottom. Lift bar by extending at hips until standing upright. Pull shoulders back slightly if rounded. Extend knees at top if desired. Repeat.",
+        "comment": "Stand with a shoulder-width or narrower stance on an elevated platform with the thighs against the bar. Grasp the bar with a shoulder-width or slightly wider overhand grip. Unrack the bar by rotating it back. With the knees slightly bent, lower the bar towards the top of the feet by bending at the hips, keeping the back straight. Lift the bar by extending at the hips until standing upright. Retract the shoulders if rounded. Extend the knees at the top if desired. Repeat.",
         "isFeatured": false,
         "translationKey": "smith_stiff_leg_deadlift"
     },
@@ -8174,7 +8174,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position thighs prone on large pad and lower legs under padded brace. Hold weight to chest or behind neck. Raise upper body until hips and waist are fully extended. Lower body by bending hips and waist until mild stretch is felt or torso is vertical. Repeat.",
+        "comment": "Position the thighs face down on the large pad and secure the lower legs under the padded brace. Hold a weight plate to the chest or behind the neck. Raise the upper body until the hips and waist are fully extended. Lower the body by bending at the hips and waist until a mild stretch is felt or the torso is vertical. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_hyperextension"
     },
@@ -8196,7 +8196,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position thighs prone on padding. Hook heels on platform lip or under padded brace. Hold weight to chest or behind neck. Raise upper body until hips and waist are fully extended. Lower body by bending hips and waist until mild stretch is felt or torso is approximately perpendicular to legs. Repeat.",
+        "comment": "Position the thighs face down on the padding and hook the heels on the platform lip or under the padded brace. Hold a weight plate to the chest or behind the neck. Raise the upper body until the hips and waist are fully extended. Lower the body by bending at the hips and waist until a mild stretch is felt or the torso is approximately perpendicular to the legs. Repeat.",
         "isFeatured": false,
         "translationKey": "weighted_45_hyperextension"
     },
@@ -8218,7 +8218,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Kneel on mat on all fours with legs and hands slightly apart. Raise arm out straight beside head while raising and extending leg on opposite side up out behind body. Lower arm and leg to floor to original position and repeat. Perform movement with opposite arm and leg.",
+        "comment": "Kneel on a mat on all fours with the hands and knees slightly apart. Extend one arm out straight level with the head while simultaneously raising and extending the opposite leg behind the body. Lower the arm and leg to the floor. Repeat with the opposite arm and leg. Continue, alternating between sides.",
         "isFeatured": false,
         "translationKey": "bird_dog"
     },
@@ -8240,7 +8240,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Kneel on mat on all fours with legs and hands slightly apart. Raise left arm out straight beside head while raising and extending right leg up out behind body. Lower arm and leg to floor to original position. Repeat by raising and lowering right arm and left leg in same manner. Repeat by alternating between opposite sides.",
+        "comment": "Kneel on a mat on all fours with the hands and knees slightly apart. Extend the left arm out straight level with the head while simultaneously raising and extending the right leg behind the body. Lower the arm and leg to the floor. Repeat by raising the right arm and left leg in the same manner. Continue, alternating between sides.",
         "isFeatured": false,
         "translationKey": "alternating_bird_dog"
     },
@@ -8262,7 +8262,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Position thighs prone on padding. Hook heels on platform lip or under padded brace.  Place hands behind neck or to sides of head. Raise upper body until hips and waist are extended. Lower body by bending hips and waist until mild stretch is felt or torso is approximately perpendicular to legs. Repeat.",
+        "comment": "Position the thighs face down on the padding and hook the heels on the platform lip or under the padded brace. Place the hands behind the neck or at the sides of the head. Raise the upper body until the hips and waist are fully extended. Lower the body by bending at the hips and waist until a mild stretch is felt or the torso is approximately perpendicular to the legs. Repeat.",
         "isFeatured": false,
         "translationKey": "45_hyperextension_hands_behind_neck"
     },
@@ -8284,7 +8284,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie prone on mat with legs together and arms extended out on floor approximately parallel. Slowly raise upper body and legs off floor. Return upper body and legs to floor and repeat.",
+        "comment": "Lie face down on a mat with the legs together and the arms extended out on the floor. Raise the upper body and legs off the floor simultaneously. Return the upper body and legs to the floor. Repeat.",
         "isFeatured": false,
         "translationKey": "superman"
     },
@@ -8306,7 +8306,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie prone on mat with legs together and arms extended out on floor approximately parallel. Raise left arm and shoulder and right leg up off floor. Lower arm and shoulder and leg to floor. Repeat by raising and lowering right arm and shoulder and left leg. Repeat by alternating between opposite sides.",
+        "comment": "Lie face down on a mat with the legs together and the arms extended out on the floor. Raise the left arm and right leg off the floor simultaneously. Lower the arm and leg to the floor. Repeat by raising the right arm and left leg in the same manner. Continue, alternating between sides.",
         "isFeatured": false,
         "translationKey": "contralateral_superman"
     },
@@ -8328,7 +8328,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "",
+        "comment": "Sit on a mat with the knees bent and the feet flat on the floor. Place the hands on the floor at each side behind the body so the torso is reclined slightly. Raise the hips off the floor until the body forms a straight line from the knees to the shoulders. Hold the position, then lower and repeat.",
         "isFeatured": false,
         "translationKey": "rear_bridge"
     },
@@ -8350,7 +8350,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "",
+        "comment": "Sit on a mat with the legs straight and together. Place the hands on the floor at each side behind the body so the torso is reclined slightly. Raise the hips off the floor until the body is fully extended in a straight line. Hold the position, then lower and repeat.",
         "isFeatured": false,
         "translationKey": "incline_rear_bridge"
     },
@@ -8372,7 +8372,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Grasp barbell from rack or deadlift from floor with shoulder width or slightly wider overhand or mixed grip. Stand with shoulder width or narrower stance. With back straight, lower bar to top of feet by bending hips. Bend knees slightly during descent and keep waist straight. Place weight onto floor. With knees still bent, lift bar by straightening hips until standing upright. Pull shoulders back if rounded. Extend knees at top if desired. Repeat.",
+        "comment": "Grasp the barbell from a rack or the floor with a shoulder-width or slightly wider overhand or mixed grip. Stand with a shoulder-width or narrower stance. With the back straight, lower the bar towards the top of the feet by bending at the hips, bending the knees slightly. Lower the weight to the floor. With the knees still slightly bent, lift the bar by extending at the hips until standing upright. Retract the shoulders if rounded. Extend the knees at the top if desired. Repeat.",
         "isFeatured": false,
         "translationKey": "barbell_straight_back_stiff_leg_deadlift"
     },
@@ -8394,7 +8394,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "From rack with barbell upper chest height, position bar on back of shoulders and grasp barbell to sides. Dismount bar from rack. Step back with one leg while bending supporting leg. Plant forefoot far back on floor. Lower body by flexing knee and hip of supporting leg until knee of rear leg is almost in contact with floor. Return to original standing position by extending hip and knee of forward supporting leg and return rear leg next to supporting leg. Repeat movement with opposite legs alternating between sides.",
+        "comment": "Position the bar on the back of the shoulders at upper chest height and grasp it at each side. Unrack the bar. Step back with one leg, planting the forefoot far behind on the floor. Lower the body by flexing the knee and hip of the supporting leg until the knee of the rear leg is almost in contact with the floor. Return to the starting position by extending the hip and knee of the forward leg and bringing the rear leg back alongside it. Repeat with the opposite leg, alternating between sides.",
         "isFeatured": false,
         "translationKey": "barbell_rear_lunge"
     },
@@ -8416,7 +8416,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Stand facing away from bench. Position bar on back of shoulders and grasp barbell to sides. Extend leg back and place top of foot on bench. Squat down by flexing knee and hip of front leg until knee of rear leg is almost in contact with floor. Return to original standing position by extending hip and knee of forward leg. Repeat. Continue with opposite leg.",
+        "comment": "Stand facing away from the bench. Position the bar on the back of the shoulders and grasp it at each side. Extend one leg back and place the top of the foot on the bench. Squat down by flexing the knee and hip of the front leg until the knee of the rear leg is almost in contact with the floor. Return to the starting position by extending the hip and knee of the forward leg. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "barbell_single_leg_split_squat"
     },
@@ -8438,7 +8438,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Stand with arms extended out in front holding barbell. Balance on one leg with opposite leg extended forward off of ground. Squat down as far as possible while keeping leg elevated off of floor. Keep   supporting knee pointed same direction as foot supporting. Raise body back up to original position until knee and hip of supporting leg is straight. Return and repeat. Continue with opposite leg.",
+        "comment": "Stand with the arms extended forward, holding the barbell. Balance on one leg with the opposite leg extended forward off the floor. Squat down as far as possible while keeping the elevated leg off the floor and the supporting knee pointed in the same direction as the foot. Return to the starting position until the knee and hip of the supporting leg are straight. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "barbell_single_leg_squat"
     },
@@ -8460,7 +8460,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Position barbell on back of shoulders and grasp barbell to sides. Stand with feet far apart; one foot forward and other foot behind. Squat down by flexing knee and hip of front leg. Allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. Return to original standing position by extending hip and knee of forward leg. Repeat. Continue with opposite leg.",
+        "comment": "Position the barbell on the back of the shoulders and grasp it at each side. Stand with the feet far apart, one foot forward and the other foot behind. Squat down by flexing the knee and hip of the front leg, allowing the heel of the rear foot to rise while the knee bends slightly until it almost makes contact with the floor. Return to the starting position by extending the hip and knee of the forward leg. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "barbell_split_squat"
     },
@@ -8482,7 +8482,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Standing facing safety barbell on rack upper chest height. Position head in yoke with padded bar around shoulders. Hands can be placed on ends of yoke (as shown) or on safety bar out to sides. Dismount bar from rack and step back. Squat down by bending hips back while allowing knees to bend slightly forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Stand by extending hips and knees until legs are straight. Repeat.",
+        "comment": "Stand facing the safety barbell on the rack at upper chest height. Position the head in the yoke with the padded bar around the shoulders. Grasp the ends of the yoke or the safety bar out to the sides. Unrack the bar and step back. Squat down by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Return to standing by extending the hips and knees until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "safety_barbell_squat"
     },
@@ -8504,7 +8504,7 @@
         ],
         "tags": [],
         "primaryEquipment": "barbell",
-        "comment": "Stand facing side of bench. Position bar on back of shoulders and grasp barbell to sides. Place foot of first leg on bench. Stand on bench by extending hip and knee of first leg and place foot of second leg on bench. Step down with second leg by flexing hip and knee of first leg. Return to original standing position by placing foot of first leg to floor. Repeat first step with opposite leg alternating first steps between legs.",
+        "comment": "Stand facing the side of a bench. Position the bar on the back of the shoulders and grasp it at each side. Place the foot of the first leg on the bench. Stand on the bench by extending the hip and knee of the first leg, then place the foot of the second leg on the bench. Step down with the second leg by flexing the hip and knee of the first leg. Return to the starting position by placing the foot of the first leg back on the floor. Repeat, alternating the leading leg between sides.",
         "isFeatured": false,
         "translationKey": "barbell_step_up"
     },
@@ -8526,7 +8526,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Attach ankle cuff to low pulley. With cuff on one ankle, grasp ballet bar with both hands and step far back with other foot. Arms remain extended to support body leaning forward. Leg with ankle cuff attached is flexed at hip and knee. Pull cable attachment back by extending hip and knee. Return leg to original position and repeat. Continue with opposite leg.",
+        "comment": "Attach an ankle cuff to the low pulley and secure it to one ankle. Grasp the ballet bar with both hands and step far back with the other foot. Lean forward with the arms extended for support. Flex the cuffed leg at the hip and knee, then extend the hip and knee to kick back. Return the leg to the starting position and repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "cable_glute_kickback"
     },
@@ -8548,7 +8548,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two very low pulleys with shoulder width or narrower stance. Squat down and grasp stirrup attachments to each side. Stand upright with arms straight down to sides. Step back with one leg while bending supporting leg. Plant forefoot far back on floor. Lower body by flexing knee and hip of supporting leg until knee of rear leg is almost in contact with floor. Return to original standing position by extending hip and knee of forward supporting leg and return rear leg next to supporting leg. Repeat movement with opposite legs alternating between sides.",
+        "comment": "Stand between two very low pulleys with a shoulder-width or narrower stance. Squat down and grasp the stirrup attachments at each side, then stand upright with the arms straight at the sides. Step back with one leg, planting the forefoot far behind on the floor. Lower the body by flexing the knee and hip of the supporting leg until the knee of the rear leg is almost in contact with the floor. Return to the starting position by extending the hip and knee of the forward leg and bringing the rear leg back alongside it. Repeat with the opposite leg, alternating between sides.",
         "isFeatured": false,
         "translationKey": "cable_rear_lunge"
     },
@@ -8570,7 +8570,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two very low cable pulleys. Grasp stirrup attachments with each hand. Place one leg far forward and opposite leg far back to rear. Squat down by flexing knee and hip of front leg. Allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. Return to original straddle position by extending hip and knee of forward leg. Repeat. Continue with legs in opposite position.",
+        "comment": "Stand between two very low cable pulleys and grasp the stirrup attachments at each side. Place one leg far forward and the other far back. Squat down by flexing the knee and hip of the front leg, allowing the heel of the rear foot to rise while the knee bends slightly until it almost makes contact with the floor. Return to the starting position by extending the hip and knee of the forward leg. Repeat. Continue with the legs in the opposite position.",
         "isFeatured": false,
         "translationKey": "cable_split_squat"
     },
@@ -8592,7 +8592,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand with feet shoulder width or slightly wider on platform between very low and close pulley cables. Squat down with knees slightly beyond foot and shoulder above feet. Grasp stirrups to each side with arms straight. Keeping chest high and back straight, raise stirrups by extending knees and hips until legs are straight. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet. Squat down until thighs are just past parallel to floor. Return and repeat.",
+        "comment": "Stand on the platform between two very low cable pulleys with a shoulder-width or slightly wider stance. Squat down and grasp the stirrups at each side with the arms straight. Keeping the chest high and back straight, raise the body by extending the knees and hips until the legs are straight. Squat down by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Return and repeat.",
         "isFeatured": false,
         "translationKey": "cable_squat"
     },
@@ -8614,7 +8614,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Attach ankle cuff to low pulley. With cuff on one ankle, grasp ballet bar with both hands and step back with other foot. Elbows remain straight. Attached leg is straight and foot is slightly off floor. Pull cable attachment back by extending hip. Return leg to original position. Repeat. Continue with opposite leg.",
+        "comment": "Attach an ankle cuff to the low pulley and secure it to one ankle. Grasp the ballet bar with both hands and step back with the other foot, keeping the arms straight. Hold the cuffed leg straight with the foot slightly off the floor. Extend the hip to pull the leg back. Return the leg to the starting position. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "cable_standing_hip_extension"
     },
@@ -8636,7 +8636,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Attach ankle cuff to low pulley. With cuff on one ankle, grasp ballet bar with both hands and step far back with other foot. Arms remain extended to support body leaning forward. Leg with ankle cuff attached in slightly bent with foot off floor. Pull cable attachment back by extending hip. Return leg to original position and repeat. Continue with opposite leg.",
+        "comment": "Attach an ankle cuff to the low pulley and secure it to one ankle. Grasp the ballet bar with both hands and step far back with the other foot. Lean forward with the arms extended for support. Hold the cuffed leg slightly bent with the foot off the floor. Extend the hip to pull the leg back. Return the leg to the starting position and repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "cable_bent_over_hip_extension"
     },
@@ -8658,7 +8658,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand behind elevated platform and low and close pulley cables to sides. Grasp stirrups at each side of platform. Stand upright with arms straight down at sides. Place foot of first leg on elevated platform. Stand on elevated platform by extending hip and knee of first leg and place foot of second leg on bench. Step down with second leg by flexing hip and knee of first leg. Return to original standing position by placing foot of first leg to lower position. Repeat first step with opposite leg alternating first steps between legs.",
+        "comment": "Stand behind the elevated platform with low cable pulleys at each side. Grasp the stirrups and stand upright with the arms straight at the sides. Place the foot of the first leg on the platform. Stand on the platform by extending the hip and knee of the first leg, then place the foot of the second leg on the platform. Step down with the second leg by flexing the hip and knee of the first leg. Return to the starting position by placing the foot of the first leg back on the floor. Repeat, alternating the leading leg between sides.",
         "isFeatured": false,
         "translationKey": "cable_step_up"
     },
@@ -8680,7 +8680,7 @@
         ],
         "tags": [],
         "primaryEquipment": "cable",
-        "comment": "Stand between two very low pulleys with shoulder width or narrower stance. Squat down and grasp stirrup attachments to each side. Stand upright with arms straight down to sides. With back straight, bow forward by bending hips and bend knees slightly during descent. Raise torso by extending hips while gradually extending knees until standing upright. Pull shoulders back slightly if rounded. Repeat.",
+        "comment": "Stand between two very low pulleys with a shoulder-width or narrower stance. Squat down and grasp the stirrup attachments at each side, then stand upright with the arms straight at the sides. With the back straight, hinge forward by bending at the hips, bending the knees slightly during the descent. Raise the torso by extending at the hips while gradually extending the knees until standing upright. Retract the shoulders if rounded. Repeat.",
         "isFeatured": false,
         "translationKey": "cable_straight_back_stiff_leg_deadlift"
     },
@@ -8702,7 +8702,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Stand with dumbbells grasped to sides. Step back with one leg while bending supporting leg. Plant forefoot far back on floor. Lower body by flexing knee and hip of supporting leg until knee of rear leg is almost in contact with floor. Return to original standing position by extending hip and knee of forward supporting leg and return rear leg next to supporting leg. Repeat movement with opposite legs alternating between sides.",
+        "comment": "Stand with the dumbbells at the sides. Step back with one leg, planting the forefoot far behind on the floor. Lower the body by flexing the knee and hip of the supporting leg until the knee of the rear leg is almost in contact with the floor. Return to the starting position by extending the hip and knee of the forward leg and bringing the rear leg back alongside it. Repeat with the opposite leg, alternating between sides.",
         "isFeatured": false,
         "translationKey": "dumbbell_rear_lunge"
     },
@@ -8724,7 +8724,7 @@
         ],
         "tags": [],
         "primaryEquipment": "other",
-        "comment": "Stand holding any weight. Stand with feet far apart; one foot forward and other foot behind. Squat down by flexing knee and hip of front leg. Allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. Return to original standing position by extending hip and knee of forward leg. Repeat. Continue with opposite leg.",
+        "comment": "Hold a weight at the sides or in front of the body. Stand with the feet far apart, one foot forward and the other foot behind. Squat down by flexing the knee and hip of the front leg, allowing the heel of the rear foot to rise while the knee bends slightly until it almost makes contact with the floor. Return to the starting position by extending the hip and knee of the forward leg. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "other_split_squat"
     },
@@ -8747,7 +8747,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Stand with dumbbells grasped to sides. Stand with feet far apart; one foot forward and other foot behind. Squat down by flexing knee and hip of front leg. Allow heel of rear foot to rise up while knee of rear leg bends slightly until it almost makes contact with floor. Return to original standing position by extending hip and knee of forward leg. Repeat. Continue with opposite leg.",
+        "comment": "Stand with the dumbbells at the sides and the feet far apart, one foot forward and the other foot behind. Squat down by flexing the knee and hip of the front leg, allowing the heel of the rear foot to rise while the knee bends slightly until it almost makes contact with the floor. Return to the starting position by extending the hip and knee of the forward leg. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "dumbbell_split_squat"
     },
@@ -8769,7 +8769,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Stand with dumbbells grasped to sides. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "comment": "Stand with the dumbbells at the sides. Squat down by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Extend the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_squat"
     },
@@ -8791,7 +8791,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Stand with dumbbells grasped to sides. Clean dumbbells up to shoulders so side of each dumbbell rests on top of each shoulder. Balance dumbbells on shoulder by holding on to dumbbells with elbows flaring outward. Position feet shoulder width or slightly narrower apart. Squat down by bending hips back while allowing knees to bend forward slightly, keeping back straight and knees pointed same direction as feet.   descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "comment": "Grasp the dumbbells and clean them up to the shoulders so the side of each dumbbell rests on top of each shoulder. Balance the dumbbells by holding them with the elbows flaring outward. Position the feet shoulder-width or slightly narrower apart. Squat down by bending the hips back while allowing the knees to bend slightly forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Extend the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbbell_front_squat"
     },
@@ -8813,7 +8813,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbell",
-        "comment": "Stand with shoulder width or wider stance. Hold dumbbell under inner plate over chest with both hands. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "comment": "Stand with a shoulder-width or wider stance. Hold the dumbbell by the inner plate at chest height with both hands. Squat down by bending the hips back while allowing the knees to bend forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Extend the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "dumbell_goblet_squat"
     },
@@ -8833,7 +8833,7 @@
         "aliases": [],
         "tags": [],
         "primaryEquipment": "kettlebell",
-        "comment": "Stand with shoulder width or wider stance. Hold kettleball by horns over chest with both hands. Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.",
+        "comment": "Stand with a shoulder-width or wider stance. Hold the kettlebell by the horns at chest height with both hands. Squat down by bending the hips back while allowing the knees to bend forward, keeping the back straight and the knees pointed in the same direction as the feet. Descend until the thighs are just past parallel to the floor. Extend the knees and hips until the legs are straight. Repeat.",
         "isFeatured": false,
         "translationKey": "kettlebell_goblet_squat"
     },
@@ -8855,7 +8855,7 @@
         ],
         "tags": [],
         "primaryEquipment": "dumbbells",
-        "comment": "Hold dumbbells in each hand down to sides and stand with one foot on bench. Position foot on bench to side, forward of straight knee. Stand on bench by straightening leg and pushing body upward. Step down returning foot off of bench to floor and repeat. Continue with opposite position.",
+        "comment": "Hold the dumbbells at the sides and stand with one foot on a bench. Position the foot to the side and forward of the supporting knee. Stand on the bench by straightening the supporting leg. Step down by returning the elevated foot to the floor. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "dumbbell_step_down"
     },
@@ -8877,7 +8877,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand between lever handles with shoulder width or narrower stance. Squat down and grasp handles to each side. Stand upright with arms straight down to sides. With back straight, bow forward by bending hips and bend knees slightly during descent. Raise torso by extending hips while gradually extending knees until standing upright. Pull shoulders back slightly if rounded. Repeat.",
+        "comment": "Stand between the lever handles with a shoulder-width or narrower stance. Squat down and grasp the handles at each side. Stand upright with the arms straight at the sides. With the back straight, hinge forward by bending at the hips, bending the knees slightly during the descent. Raise the torso by extending at the hips while gradually extending the knees until standing upright. Retract the shoulders if rounded. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_straight_back_stiff_leg_deadlift_plate_loaded"
     },
@@ -8899,7 +8899,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Climb up steps to top of machine. Lie supine on horizontal padded platform with shoulders against pad. Place feet equally spaced and slightly high on platform. Grip handles above shoulder pads. Push lever platform away by extending hips and knees until knees are straight. Return lever platform by flexing hips and knees until knees are just short of complete flexion or until hips are completely flexed. Repeat.",
+        "comment": "Climb the steps to the top of the machine and lie on the horizontal padded platform with the shoulders against the pad. Place the feet equally spaced and slightly high on the platform. Grip the handles above the shoulder pads. Push the lever platform away by extending the hips and knees until the knees are straight. Return by flexing the hips and knees until just short of full flexion. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_lying_leg_press_plate_loaded"
     },
@@ -8921,7 +8921,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Sit on machine with back on padded support. Place feet slightly high on platform. Grasp handles to sides. Push platform(s) away by extending knees and hips until knees are fully extended. Return until hips are completely flexed. Repeat.",
+        "comment": "Sit on the machine with the back against the padded support. Place the feet slightly high on the platform. Grasp the handles at the sides. Push the platforms away by extending the knees and hips until the knees are fully extended. Return until the hips are completely flexed. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_isolateral_seated_leg_press_plate_loaded"
     },
@@ -8943,7 +8943,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Lie on bench with knees legs over pads. Align hip joints with lever fulcrum. Strap hips down with belt. Grasp handles at each side. Extend hips and knees until legs are straight. Return to original position by flexing hips and knees. Repeat.",
+        "comment": "Lie on the bench with the legs over the pads. Align the hip joints with the lever fulcrum and strap the hips down with the belt. Grasp the handles at each side. Extend the hips and knees until the legs are straight. Return by flexing the hips and knees. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_lying_hip_extension_plate_loaded"
     },
@@ -8965,7 +8965,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Place one leg in strap so it is positioned above ankle. Step up onto step built on side of apparatus with other foot. Lay torso and waist on bench and grasp handles. Place stepping foot inside of strap, just in front of leg already in strap. Position legs side by side. Feet should be above floor with legs hanging straight down. Raise lever by extending hips as high as possible with legs nearly straight. Lower legs to original position. Repeat.",
+        "comment": "Place one ankle in the strap, then step up onto the side step of the apparatus with the other foot. Lay the torso on the bench and grasp the handles. Place the stepping foot in the other strap so the legs are side by side with the feet above the floor and the legs hanging straight down. Raise the legs by extending the hips as high as possible, keeping the legs nearly straight. Lower the legs to the starting position. Repeat.",
         "isFeatured": false,
         "translationKey": "lever_reverse_hyper_extension_plate_loaded"
     },
@@ -8987,7 +8987,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand between lever handles to sides. Extend leg back and place top of foot on cross bar. Squat down and grasp handles to sides. With chest high, lift lever by extending hips and knees to full extension. Return until knee of rear leg is almost in contact with floor. Repeat. Continue with opposite leg.",
+        "comment": "Stand between the lever handles and extend one leg back, placing the top of the foot on the cross bar. Squat down and grasp the handles at each side. With the chest high, lift the lever by extending the hips and knees to full extension. Return until the knee of the rear leg is almost in contact with the floor. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_single_leg_split_squat_plate_loaded"
     },
@@ -9009,7 +9009,7 @@
         ],
         "tags": [],
         "primaryEquipment": "machine",
-        "comment": "Stand between handles facing away from fulcrum. Grasp both handles to sides and stand upright. Cross lower leg above knee of supporting leg. Bend knee forward slightly while allowing hips to bend back behind, keeping back straight and knee pointed same direction of foot. Squat down as low as possible. Extend knee and hip until leg is straight. Return and repeat. Continue with opposite leg.",
+        "comment": "Stand between the handles facing away from the fulcrum. Grasp both handles and stand upright. Cross the lower leg above the knee of the supporting leg. Bend the supporting knee slightly forward while allowing the hips to bend back, keeping the back straight and the knee pointed in the same direction as the foot. Squat down as low as possible. Extend the knee and hip until the leg is straight. Repeat. Continue with the opposite leg.",
         "isFeatured": false,
         "translationKey": "lever_single_leg_squat_plate_loaded"
     },
