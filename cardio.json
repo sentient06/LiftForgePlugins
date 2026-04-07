@@ -652,5 +652,48 @@
         "cardioCategory": "climb",
         "trackResistance": false,
         "comment": "Stand facing the climbing wall with the feet shoulder-width apart. Identify the starting holds marked with tape or colour. Place both hands on the designated start holds and position the feet on the starting footholds or the ground. Look ahead to plan the next moves. Step up with one foot to a higher foothold. Reach with the opposite hand to the next handhold. Shift weight onto the new holds before releasing the previous ones. Continue alternating hand and foot movements upward. Identify the finish hold. Match both hands on the top hold and hold the position for 2–3 seconds to complete the route ascent. To descend, reverse the climbing sequence, moving slowly and in a controlled manner. Place the foot on the hold below before releasing the handhold. Look down briefly to spot the next footholds. Continue the controlled descent in a hand-foot-hand-foot pattern. Step down to the ground when low enough to drop safely. Repeat or release the final handholds and step away from the wall."
+    },
+    {
+        "id": "AB72C661-B6E5-4A4A-AF7E-39784399DA69",
+        "name": "skip rope",
+        "muscleGroup": "fullBody",
+        "translationKey": "cardio_skip_rope",
+        "family": "rope",
+        "canonicalKey": "cardio_skip_rope",
+        "type": "cardio",
+        "measurement": "duration",
+        "aliases": [
+            "skip rope",
+            "jump rope",
+            "skipping"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "weight",
+        "cardioImpact": "high",
+        "cardioCategory": "rope",
+        "trackResistance": false,
+        "comment": "Hold the rope handles in each hand with the rope behind the body. Swing the rope overhead and forward in a circular motion. As the rope approaches the feet, jump with both feet to clear the rope. Land softly on the balls of the feet with the knees slightly bent. Continue swinging the rope and jumping in a rhythmic pattern. Keep the elbows close to the body and rotate from the wrists."
+    },
+    {
+        "id": "4608329F-4BB7-4FD3-BCBA-BCE471E1A406",
+        "name": "swimming (freestyle)",
+        "muscleGroup": "fullBody",
+        "translationKey": "cardio_swimming_freestyle",
+        "family": "swimming",
+        "canonicalKey": "cardio_swimming_freestyle",
+        "type": "cardio",
+        "measurement": "duration",
+        "aliases": [
+            "freestyle swimming",
+            "front crawl"
+        ],
+        "tags": [],
+        "primaryEquipment": "none",
+        "cardioBearing": "nonWeight",
+        "cardioImpact": "low",
+        "cardioCategory": "swim",
+        "trackResistance": false,
+        "comment": "Begin in the water in a horizontal position with the face down. Extend one arm forward whilst pulling the other arm back through the water. Alternate the arm strokes in a continuous windmill motion. Kick the legs in a flutter kick pattern, keeping the legs relatively straight with small rapid movements from the hips. Rotate the head to the side to breathe every few strokes, keeping one goggle in the water. Return the face to the water and exhale. Maintain a streamlined body position throughout."
     }
 ]
